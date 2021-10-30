@@ -233,7 +233,7 @@ the four members of the PLA were the perpretrators of the Equifax data breach.
   multiple times into Equifax's systems directly from Chinese-based IP addresses. These conspirators
   are not your average Joe that doesn't know much about network forensics but are supposedly part of 
   PLA's 54th Research Institute which has traditionally focused on supporting electronic 
-  warfare akin to Cyber Command as opposed to cyber espionage []_. 
+  warfare akin to Cyber Command as opposed to cyber espionage [VD]_. 
   
   Therefore, these four accused members of the PLA should know very well how to hide their tracks and use
   only IP addresses from outside China. 
@@ -245,8 +245,7 @@ the four members of the PLA were the perpretrators of the Equifax data breach.
   Thus, the DOJ is not incentivized to gather solid evidence that could link the four PLA members
   to the Equifax data breach:
   
-    Officials acknowledged they were unlikely to face prosecution in a U.S. courtroom. []_ 
-    WSJ Four Members of China’s Military Indicted Over Massive Equifax Breach
+    Officials acknowledged they were unlikely to face prosecution in a U.S. courtroom. [V]_ 
   
 Reading the many mainstream news articles (even outside USA like UK and Canada), you get the 
 feeling that everyone just went along with the narrative of the DOJ 
@@ -281,7 +280,7 @@ Other interesting information
   
     None of them are in custody, nor are they likely to be any time soon. But officials said that 
     charging and naming them served the purpose of **publicly shaming** them for their actions and enabled 
-    the United States to arrest them if they travel one day. []_ WP China rebuffs U.S. charges of cyberespionage over Equifax hack
+    the United States to arrest them if they travel one day. [FA]_
 
 Links
 =====
@@ -383,12 +382,22 @@ Links
   <https://www.usatoday.com/story/tech/2020/02/10/2017-equifax-data-breach-chinese-military-hack/4712788002/>`__
   *USA Today*, Gannett Satellite Information Network, 10 Feb. 2020.
   `Archived <https://archive.md/tMyN3>`__.
+  
+- Viswanatha, Aruna, et al. `“Four Members of China's Military Indicted Over Massive Equifax Breach.” 
+  <https://www.wsj.com/articles/four-members-of-china-s-military-indicted-for-massive-equifax-breach-11581346824>`__ 
+  *The Wall Street Journal*, Dow Jones & Company, 11 Feb. 2020.
+  `Archived <https://archive.md/JDvB1>`__.
 
 - `“Chinese Military Personnel Charged with Computer Fraud, Economic Espionage and Wire 
   Fraud for Hacking into Credit Reporting Agency Equifax.” 
   <https://www.justice.gov/opa/pr/chinese-military-personnel-charged-computer-fraud-economic-espionage-and-wire-fraud-hacking>`__
   *The United States Department of Justice*, 13 Feb. 2020.
-  `Archived <https://archive.md/JtDCY>`__.  
+  `Archived <https://archive.md/JtDCY>`__. 
+  
+- Fifield, Anna. `“China Rebuffs U.S. Charges of Cyberespionage over Equifax Hack.” 
+  <https://www.washingtonpost.com/world/asia_pacific/china-rebuffs-american-charges-of-cyber-espionage-over-equifax-hack/2020/02/11/b95fd932-4ca2-11ea-967b-e074d302c7d4_story.html>`__ 
+  *The Washington Post*, WP Company, 20 Feb. 2020.
+   `Archived <https://archive.md/W7b4b>`__.
   
 - “2017 Equifax Data Breach.” *Wikipedia*, Wikimedia Foundation, 25 Oct. 2021, 
   https://en.wikipedia.org/wiki/2017_Equifax_data_breach.
@@ -429,6 +438,11 @@ References
 .. [E] Inc., Equifax. “Equifax Announces Cybersecurity Incident Involving Consumer Information.“ *PrNewsWire*, 7 Sept. 2017, 
    https://www.prnewswire.com/news-releases/equifax-announces-cybersecurity-incident-involving-consumer-information-300515960.html.
    `Archived <https://archive.md/MBXzP>`__.
+
+.. [FA] Fifield, Anna. “China Rebuffs U.S. Charges of Cyberespionage over Equifax Hack.” 
+   *The Washington Post*, WP Company, 20 Feb. 2020, 
+   https://www.washingtonpost.com/world/asia_pacific/china-rebuffs-american-charges-of-cyber-espionage-over-equifax-hack/2020/02/11/b95fd932-4ca2-11ea-967b-e074d302c7d4_story.html.
+   `Archived <https://archive.md/W7b4b>`__.
 
 .. [G] Goodin, Dan. “Failure to Patch Two-Month-Old Bug Led to Massive Equifax Breach.” *Ars Technica*, 13 Sept. 2017, 
    https://arstechnica.com/information-technology/2017/09/massive-equifax-breach-caused-by-failure-to-patch-two-month-old-bug/.
@@ -478,6 +492,18 @@ References
 .. [T] Turcsányi, Gergő. “Deep Dive into the Equifax Breach and the Apache Struts Vulnerability.” *Avatao*, 
    https://avatao.com/blog-deep-dive-into-the-equifax-breach-and-the-apache-struts-vulnerability/.
    `Archived <https://archive.md/LPy4G>`__.
+   
+.. [V] Viswanatha, Aruna, et al. “Four Members of China's Military Indicted Over Massive Equifax Breach.”
+   *The Wall Street Journal*, Dow Jones & Company, 11 Feb. 2020,
+   https://www.wsj.com/articles/four-members-of-china-s-military-indicted-for-massive-equifax-breach-11581346824.
+   `Archived <https://archive.md/JDvB1>`__.
+   
+.. [VD] Volz, Dustin. “Prosecutors Said PLA's 54th Research Institute-Traditionally Focused 
+   on Supporting Electronic Warfare Akin to Cyber Command as Opposed to Cyber Espionage-Was 
+   behind the Hack, an Indication the Group's ‘Missions May Be Evolving," @EBKania Said. 
+   Https://T.co/dB1bSAsE9h.” Twitter, Twitter, 10 Feb. 2020, 
+   https://twitter.com/dnvolz/status/1226983668222132225. 
+   `Archived <https://archive.md/Tpwmu>`__.
    
 .. [W] Whittaker, Zack. “Equifax Confirms Apache Struts Flaw It Failed to Patch Was to Blame for Data Breach.” 
    *ZDNet*, 13 Sept. 2017, 
