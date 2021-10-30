@@ -205,7 +205,16 @@ the four members of the PLA were the perpretrators of the Equifax data breach.
   
   How old are they? What are their ranks in the Chinese military? Were they receiving orders
   from higher up or were they working on their own? Where are those pictures provided in the
-  indictment of the four PLA members coming from? 
+  indictment of three of the four PLA members coming from? 
+  
+    .. raw:: html
+
+     <div align="center">
+     <img src="https://www.fbi.gov/@@dvpdffiles/8/c/8c0b4ce2b3c9448b95b13f19a89fc658/normal/dump_1.gif"/>
+     <p><b>In the news articles and the DOJ indictment, they don't provide a picture for the PLA member Liu Lei.
+           Only in the <a href="https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute">FBI poster</a>, 
+           you get all four pictures.</b></p>
+     </div>
   
   .. raw:: html
 
@@ -214,7 +223,6 @@ the four members of the PLA were the perpretrators of the Equifax data breach.
      <p><b>PLA members wanted by the
        <a href="https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute">FBI</a>.</b></p>
      </div>
-
 
 - There is no explanation in the `indictment`_ how the US authorities came to the
   conclusion that the four named PLA members were directly related to the network intrusions.
