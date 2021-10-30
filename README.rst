@@ -230,7 +230,7 @@ the four members of the PLA were the perpretrators of the Equifax data breach.
 - Some of the evidence is based on multiple IP addresses allegedly originating from China.
 
   It seems very sloppy for the four members of the PLA to allegedly log 
-  multiple times into Equifax's systems from Chinese-based IP addresses. These conspirators
+  multiple times into Equifax's systems directly from Chinese-based IP addresses. These conspirators
   are not your average Joe that doesn't know much about network forensics but are supposedly part of 
   PLA's 54th Research Institute which has traditionally focused on supporting electronic 
   warfare akin to Cyber Command as opposed to cyber espionage []_. 
