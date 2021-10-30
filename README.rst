@@ -287,6 +287,10 @@ Other interesting information
 
 Links
 =====
+`:information_source:`
+
+  The links are listed in chronological order starting from oldest.
+
 - `“Vulnerability Details : CVE-2017-5638.” <https://www.cvedetails.com/cve/CVE-2017-5638/>`__ 
   *CVE*, 11 March 2017. `Archived <https://archive.md/IKpS5>`__.
   
