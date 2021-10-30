@@ -182,8 +182,7 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
      exactly pinpoint who among the four members of the PLA logged to Equifax's network at a particular time of the day.
      
      However for some other days of the attack, the US investigators lose their special talent to exactly identify 
-     who is logging into Equifax's network and used the word "conspirator" in the indictment 
-     for these cases.
+     who is logging into Equifax's network and instead used the word "conspirator".
    
    `:information_source:`
      
