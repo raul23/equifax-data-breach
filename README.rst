@@ -258,9 +258,6 @@ PLA members and the data breach as promulgated by the DOJ:
   It remains unclear how the DOJ concluded that four members of the Chinese military were 
   responsible, whether they were supposedly acting on their own or on state orders, or how 
   it intends to bring them to a US court. 
-
-How the hackers were able to hide their tracks
-==============================================
    
 Other interesting information
 =============================
