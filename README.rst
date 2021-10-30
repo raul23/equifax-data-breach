@@ -247,7 +247,7 @@ the four members of the PLA were the perpretrators of the Equifax data breach.
   
 - Since it is extremely unlikely for the DOJ to arrest the four PLA members, the indictment can
   be very poor in the quality of the evidence. The case will not go in front of 
-  a judge and jury where the evidence presented by the prosecutors will be scrutinized.
+  a judge and jury where the evidence presented by the prosecutors would have been scrutinized.
   
   Thus, the DOJ is not incentivized to gather solid evidence that could link the four PLA members
   to the Equifax data breach:
