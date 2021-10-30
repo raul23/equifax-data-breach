@@ -283,6 +283,15 @@ Equifax data breach by the numbers
       <a href="https://www.alliedsolutions.net/resources/allied-insights/2017/10/03/3-ways-to-manage-equifax-breach">alliedsolutions.net</a></b></p>
    </div>
    
+.. raw:: html
+
+   <div align="center">
+   <img src="https://i.insider.com/59b2f0fb45e2384d338b4576" style="width:500px;height:400px;"/>
+   <p><b>Chart from 
+      <a href="https://www.businessinsider.com/how-equifax-compares-to-biggest-hacks-of-all-time-chart-2017-9">businessinsider.com</a></b></p>
+   </div>   
+
+   
 Other interesting information
 =============================
 - As Ars warned in March of 2017, patching the security hole (`CVE-2017-5638`_) was labor intensive and difficult, 
