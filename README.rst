@@ -280,7 +280,7 @@ Other interesting information
   getting away with important PII from millions of americans in one of the most
   important data breaches (we are talking about a credit monitoring company that collects tremendous 
   amount of information about lots of people in the US and around the world). The Chinese army would
-  surely be happy to use these PII in whatever nefarious projects they might be working on.
+  surely be happy to use these PII in whatever secret projects they might be working on.
   
     None of them are in custody, nor are they likely to be any time soon. But officials said that 
     charging and naming them served the purpose of **publicly shaming** them for their actions and enabled 
