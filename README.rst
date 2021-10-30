@@ -97,8 +97,8 @@ was vulnerable enough for an attacker to exploit. [M]_
 
    <div align="center">
    <img src="https://camo.githubusercontent.com/4dbe1733c0ea00a63c6096fef006392d8544b2ef9e8947f3aafca507ba7837a1/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a46334476476b37755234583538613566" style="width:700px;height:500px;"/>
-   <p><b>A chart describing how Equifax was breached from the 
-      <a href="https://www.warren.senate.gov/imo/media/doc/2018.09.06%20GAO%20Equifax%20report.pdf">GAO report</a>.</b></p>
+   <p><b>A chart from the <a href="https://www.warren.senate.gov/imo/media/doc/2018.09.06%20GAO%20Equifax%20report.pdf">GAO report</a>
+      describing how Equifax was breached.</b></p>
    </div>
    
 The US says members of the Chinese military hacked Equifax
