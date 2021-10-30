@@ -214,7 +214,7 @@ the four members of the PLA were the perpretrators of the Equifax data breach.
   
 Reading the many mainstream news articles (even outside USA like UK and Canada), you get the 
 feeling that everyone just went along with the narrative of the DOJ 
-that four PLA members are responsible of the Equifax data breach.
+that four PLA members are responsible for the Equifax data breach.
 
 However, `RT`_ is among the only news sites that questioned the link between the four
 PLA members and the data breach as promulgated by the DOJ:
