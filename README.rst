@@ -208,6 +208,24 @@ the four members of the PLA were the perpretrators of the Equifax data breach.
   Therefore, these four accused members of the PLA should know very well how to hide their tracks and use
   only IP addresses from outside China. 
   
+- No much information is given about the four PLA members: Wu Zhiyong (吴志勇), Wang Qian (王乾), 
+  Xu Ke (许可) and Liu Lei (刘磊).
+  
+  The DOJ `indictment`_, their press release and mainstreams news articles only provide their
+  names and pictures. Even their `FBI most wanted`_ poster only give their names.
+  
+  How old are they? What are their ranks in the Chinese military? Were they receiving orders
+  from higher up or were they working on their own? Where are those pictures provided in the
+  indictment of the four PLA members coming from? 
+  
+  .. raw:: html
+
+     <div align="center">
+     <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fbi.gov%2Fwanted%2Fcyber%2Fchinese-pla-members-54th-research-institute%2Fchinese-pla-members-wanted-8-5x11-web2b.pdf%2Fview&psig=AOvVaw2IKsAiDBcLInq76_zgEs6E&ust=1635648491702000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDus9GP8fMCFQAAAAAdAAAAABAU" style="width:700px;height:500px;"/>
+     <p><b>PLA members wanted by the
+       <a href="https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute">FBI</a>.</b></p>
+     </div>
+  
 - There is no explanation in the `indictment`_ how the US authorities came to the
   conclusion that the four named PLA members were directly related to the network intrusions.
   
