@@ -2,6 +2,13 @@
 2017 Equifax data breach
 ========================
 
+.. raw:: html
+
+   <div align="center">
+   <img src="https://www.omegawealthmanagement.com/wp-content/uploads/2020/01/equifax.jpg" style="width:550px;height:250px;"/>
+   <p><b><a href="https://www.omegawealthmanagement.com/were-you-affected-by-the-equifax-data-breach-in-2017/">Reference</a></b></p>
+   </div>
+
 .. contents:: **Contents**
    :depth: 4
    :local:
