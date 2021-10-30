@@ -126,7 +126,6 @@ The US says members of the Chinese military hacked Equifax
 
   - `What is the PLA, and why do feds believe they hacked Equifax?`_ (The Atlanta Journal-Constitution)
   - `The US says the Chinese military hacked Equifax. Here’s how.`_ (MIT Technology Review)
-  
 
 The US indictment
 -----------------
@@ -204,7 +203,7 @@ the four members of the PLA were the perpretrators of the Equifax data breach.
   names and pictures. Even their `FBI most wanted`_ poster only give their names.
   
   How old are they? What are their ranks in the Chinese military? Were they receiving orders
-  from higher up or were they working on their own? Where are those pictures provided in the
+  from higher up or were they acting on their own? Where are those pictures provided in the
   indictment of three of the four PLA members coming from? 
   
   .. raw:: html
@@ -274,12 +273,14 @@ Other interesting information
 - `Apache Struts`_ is used across the Fortune 100 to provide web applications in Java, and it powers 
   front- and back-end applications, including Equifax's public website. [W]_
 
-- It is funny that the US officials said that it was important to name the four PLA members because according to them it will 
-  help to publicly shame them. Why would they feel shamed, especially now that they can't get out of
-  China or they will be readily arrested? On the contrary, they would be treated as national heroes 
-  because they would have been able to steal important PII from millions of americans in one of the most
+- The US officials said that it was important to name the four PLA members because according to them it will 
+  help to publicly shame them. But it is doubtful if the DOJ indictment will make them feel shame for what
+  they did to millions of people. If they were receiving orders from higher up in the Chinese army, then
+  the PLA would support them and make sure they are being treated well by their comrades for 
+  getting away with important PII from millions of americans in one of the most
   important data breaches (we are talking about a credit monitoring company that collects tremendous 
-  amount of information about lots of people in the US and around the world).
+  amount of information about lots of people in the US and around the world). The Chinese army would
+  surely be happy to use these PII in whatever nefarious projects they might be working on.
   
     None of them are in custody, nor are they likely to be any time soon. But officials said that 
     charging and naming them served the purpose of **publicly shaming** them for their actions and enabled 
