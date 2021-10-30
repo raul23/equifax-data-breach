@@ -221,7 +221,7 @@ the four members of the PLA were the perpretrators of the Equifax data breach.
   .. raw:: html
 
      <div align="center">
-     <img src="https://www.fbi.gov/@@dvpdffiles/8/c/8c0b4ce2b3c9448b95b13f19a89fc658/normal/dump_1.gif" style="width:700px;height:500px;"/>
+     <img src="https://www.fbi.gov/@@dvpdffiles/8/c/8c0b4ce2b3c9448b95b13f19a89fc658/normal/dump_1.gif"/>
      <p><b>PLA members wanted by the
        <a href="https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute">FBI</a>.</b></p>
      </div>
