@@ -200,7 +200,7 @@ the four members of the PLA were the perpretrators of the Equifax data breach.
 - No much information is given about the four PLA members: Wu Zhiyong (吴志勇), Wang Qian (王乾), 
   Xu Ke (许可) and Liu Lei (刘磊).
   
-  The DOJ `indictment`_, their press release and mainstreams news articles only provide their
+  The DOJ `indictment`_, their press release and mainstream news articles only provide their
   names and pictures. Even their `FBI most wanted`_ poster only give their names.
   
   How old are they? What are their ranks in the Chinese military? Were they receiving orders
