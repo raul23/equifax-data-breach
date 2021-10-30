@@ -207,13 +207,13 @@ the four members of the PLA were the perpretrators of the Equifax data breach.
   from higher up or were they working on their own? Where are those pictures provided in the
   indictment of three of the four PLA members coming from? 
   
-    .. raw:: html
+  .. raw:: html
 
      <div align="center">
-     <img src="https://www.fbi.gov/@@dvpdffiles/8/c/8c0b4ce2b3c9448b95b13f19a89fc658/normal/dump_1.gif"/>
+     <img src="https://www.cnet.com/a/img/uf_P-IUAQf-_-47zXmpuSWcyqs8=/940x0/2020/02/10/489560f1-9731-4957-af0d-9b0a947da334/screen-shot-2020-02-10-at-10-18-15-am.png"/>
      <p><b>In the news articles and the DOJ indictment, they don't provide a picture for the PLA member Liu Lei.
-           Only in the <a href="https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute">FBI poster</a>, 
-           you get all four pictures.</b></p>
+        Only in the <a href="https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute">FBI poster</a>, 
+        you get all four pictures.</b></p>
      </div>
   
   .. raw:: html
