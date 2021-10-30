@@ -230,6 +230,16 @@ the four members of the PLA were the perpretrators of the Equifax data breach.
   Therefore, these four accused members of the PLA should know very well how to hide their tracks and use
   only IP addresses from outside China. 
   
+- Since it is extremely unlikely for the DOJ to arrest the four PLA members, the indictment can
+  be very poor in the quality of the evidence. The case will not go in front of 
+  a judge and jury where the evidence presented by the prosecutors will be scrutinized.
+  
+  Thus, the DOJ is not incentivized to gather solid evidence that could link the four PLA members
+  to the Equifax data breach:
+  
+    Officials acknowledged they were unlikely to face prosecution in a U.S. courtroom. []_ 
+    WSJ Four Members of China’s Military Indicted Over Massive Equifax Breach
+  
 Reading the many mainstream news articles (even outside USA like UK and Canada), you get the 
 feeling that everyone just went along with the narrative of the DOJ 
 that four PLA members are responsible for the Equifax data breach.
