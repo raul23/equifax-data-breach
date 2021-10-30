@@ -264,6 +264,16 @@ PLA members and the data breach as promulgated by the DOJ:
   It remains unclear how the DOJ concluded that four members of the Chinese military were 
   responsible, whether they were supposedly acting on their own or on state orders, or how 
   it intends to bring them to a US court. 
+  
+Equifax data breach by the numbers
+==================================
+.. raw:: html
+
+   <div align="center">
+   <img src="https://ei.marketwatch.com/Multimedia/2018/09/07/Photos/NS/MW-GP711_equifa_20180907130002_NS.jpg"/>
+   <p><b>Chart from 
+      <a href="https://www.marketwatch.com/story/the-equifax-data-breach-in-one-chart-2018-09-07">marketwatch.com</a></b></p>
+   </div>
    
 Other interesting information
 =============================
