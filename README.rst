@@ -196,17 +196,6 @@ Weak evidence
 -------------
 The evidence gathered from the `indictment`_ is very weak to support the claim that 
 the four members of the PLA were the perpretrators of the Equifax data breach.
-
-- Some of the evidence is based on multiple IP addresses allegedly originating from China.
-
-  It seems very sloppy for the four members of the PLA to allegedly log 
-  multiple times into Equifax's systems from Chinese-based IP addresses. These conspirators
-  are not your average Joe that doesn't know much about network forensics but are supposedly part of 
-  PLA's 54th Research Institute which has traditionally focused on supporting electronic 
-  warfare akin to Cyber Command as opposed to cyber espionage []_. 
-  
-  Therefore, these four accused members of the PLA should know very well how to hide their tracks and use
-  only IP addresses from outside China. 
   
 - No much information is given about the four PLA members: Wu Zhiyong (吴志勇), Wang Qian (王乾), 
   Xu Ke (许可) and Liu Lei (刘磊).
@@ -225,9 +214,21 @@ the four members of the PLA were the perpretrators of the Equifax data breach.
      <p><b>PLA members wanted by the
        <a href="https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute">FBI</a>.</b></p>
      </div>
-  
+
+
 - There is no explanation in the `indictment`_ how the US authorities came to the
   conclusion that the four named PLA members were directly related to the network intrusions.
+
+- Some of the evidence is based on multiple IP addresses allegedly originating from China.
+
+  It seems very sloppy for the four members of the PLA to allegedly log 
+  multiple times into Equifax's systems from Chinese-based IP addresses. These conspirators
+  are not your average Joe that doesn't know much about network forensics but are supposedly part of 
+  PLA's 54th Research Institute which has traditionally focused on supporting electronic 
+  warfare akin to Cyber Command as opposed to cyber espionage []_. 
+  
+  Therefore, these four accused members of the PLA should know very well how to hide their tracks and use
+  only IP addresses from outside China. 
   
 Reading the many mainstream news articles (even outside USA like UK and Canada), you get the 
 feeling that everyone just went along with the narrative of the DOJ 
