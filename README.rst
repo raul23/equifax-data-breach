@@ -159,7 +159,7 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
   
 1. Multiple China-based IP addresses were allegedly accessed during the intrusion by the conspirators:
 
-   - The majority of the 9000 SQL queries (to the credit monitoring databases) were issued by conspirators using two
+   - The majority of the 9000 SQL queries [to the credit monitoring databases] were issued by conspirators using two
      **China-based IP addresses** that connected directly to Equifax' s network. []_ page 6, paragraph 9
      
      **NOTE:** the indictment doesn't name these two **China-based IP addresses** like in other places
@@ -294,27 +294,35 @@ Equifax data breach by the numbers
    
 Other interesting information
 =============================
-- As Ars warned in March of 2017, patching the security hole (`CVE-2017-5638`_) was labor intensive and difficult, 
-  in part because it involved downloading an updated version of Struts and then using it to rebuild all apps that 
-  used older, buggy Struts versions. Some websites may depend on dozens or even hundreds of such apps, which may 
-  be scattered across dozens of servers on multiple continents. Once rebuilt, the apps must be extensively tested 
-  before going into production to ensure they don't break key functions on the site. [G]_
-  
-- `Apache Struts`_ is used across the Fortune 100 to provide web applications in Java, and it powers 
-  front- and back-end applications, including Equifax's public website. [W]_
+- As Ars warned in March of 2017, patching the security hole (`CVE-2017-5638`_) 
+  was labor intensive and difficult, in part because it involved downloading an 
+  updated version of Struts and then using it to rebuild all apps that used 
+  older, buggy Struts versions. Some websites may depend on dozens or even 
+  hundreds of such apps, which may be scattered across dozens of servers on 
+  multiple continents. Once rebuilt, the apps must be extensively tested before 
+  going into production to ensure they don't break key functions on the site. 
+  [G]_
 
-- The US officials said that it was important to name the four PLA members because according to them it will 
-  help to publicly shame them. But it is doubtful if the DOJ indictment will make them feel shame for what
-  they did to millions of people. If they were receiving orders from higher up in the Chinese army, then
-  the PLA would support them and make sure they are being treated well by their comrades for 
-  getting away with important PII from millions of americans in one of the most
-  important data breaches (we are talking about a credit monitoring company that collects tremendous 
-  amount of information about lots of people in the US and around the world). The Chinese army would
-  surely be happy to use these PII in whatever secret projects they might be working on.
-  
-    None of them are in custody, nor are they likely to be any time soon. But officials said that 
-    charging and naming them served the purpose of **publicly shaming** them for their actions and enabled 
-    the United States to arrest them if they travel one day. [FA]_
+- `Apache Struts`_ is used across the Fortune 100 to provide web applications in 
+  Java, and it powers front- and back-end applications, including Equifax's 
+  public website. [W]_
+ 
+- The US officials said that it was important to name the four PLA members 
+  because according to them it will help to publicly shame them. But it is 
+  doubtful if the DOJ indictment will make them feel shame for what they did 
+  to millions of people. If they were receiving orders from higher up in the 
+  Chinese army, then the PLA would support them and make sure they are being 
+  treated well by their comrades for getting away with important PII from 
+  millions of americans in one of the most important data breaches (we are 
+  talking about a credit monitoring company that collects tremendous amount of 
+  information about lots of people in the US and around the world). The Chinese 
+  army would surely be happy to use these PII in whatever secret projects they 
+  might be working on.
+
+    None of them are in custody, nor are they likely to be any time soon. But 
+    officials said that charging and naming them served the purpose of 
+    **publicly shaming** them for their actions and enabled the United States to 
+    arrest them if they travel one day. [FA]_
 
 Links
 =====
@@ -322,141 +330,152 @@ Links
 
   The links are listed in chronological order starting from oldest.
 
-- `“Vulnerability Details : CVE-2017-5638.” <https://www.cvedetails.com/cve/CVE-2017-5638/>`__ 
-  *CVE*, 11 March 2017. `Archived <https://archive.md/IKpS5>`__.
+- `“Vulnerability Details : CVE-2017-5638.” 
+  <https://www.cvedetails.com/cve/CVE-2017-5638/>`__ *CVE*, 11 March 2017. 
+  `Archived <https://archive.md/IKpS5>`__.
   
-- Inc., Equifax. `“Equifax Announces Cybersecurity Incident Involving Consumer Information.“ 
+- Inc., Equifax. `“Equifax Announces Cybersecurity Incident Involving Consumer 
+  Information.“ 
   <https://www.prnewswire.com/news-releases/equifax-announces-cybersecurity-incident-involving-consumer-information-300515960.html>`__ 
-  *PrNewsWire*, 7 Sept. 2017.
-  `Archived <https://archive.md/MBXzP>`__.
+  *PrNewsWire*, 7 Sept. 2017. `Archived <https://archive.md/MBXzP>`__.
   
 - Mathews, Lee. `“Equifax Data Breach Impacts 143 Million Americans.” 
   <https://www.forbes.com/sites/leemathews/2017/09/07/equifax-data-breach-impacts-143-million-americans/?sh=16bb95ef356f>`__ 
-  *Forbes*, Forbes Magazine, 7 Sept. 2017.
+  *Forbes*, Forbes Magazine, 7 Sept. 2017. 
   `Archived <https://archive.md/fo2um>`__.
-  
-- Haselton, Todd. `“Credit Reporting Firm Equifax Says Data Breach Could Potentially Affect 143 Million US Consumers.” 
+
+- Haselton, Todd. `“Credit Reporting Firm Equifax Says Data Breach Could 
+  Potentially Affect 143 Million US Consumers.” 
   <https://www.cnbc.com/2017/09/07/credit-reporting-firm-equifax-says-cybersecurity-incident-could-potentially-affect-143-million-us-consumers.html>`__
   *CNBC*, 8 Sept. 2017.
-  `Archived <https://archive.md/https://www.cnbc.com/2017/09/07/credit-reporting-firm-equifax-says-cybersecurity-incident-could-potentially-affect-143-million-us-consumers.html>`__.
+  `Archived 
+  <https://archive.md/https://www.cnbc.com/2017/09/07/credit-reporting-firm-equifax-says-cybersecurity-incident-could-potentially-affect-143-million-us-consumers.html>`__.
   
-- Hern, Alex. `“Equifax Told to Inform Britons Whether They Are at Risk after Data Breach.” 
+- Hern, Alex. `“Equifax Told to Inform Britons Whether They Are at Risk after 
+  Data Breach.” 
   <https://www.theguardian.com/technology/2017/sep/08/equifax-told-to-inform-britons-whether-they-are-at-risk-after-data-breach>`__ 
-  *The Guardian*, Guardian News and Media, 8 Sept. 2017.
+  *The Guardian*, Guardian News and Media, 8 Sept. 2017. 
   `Archived <https://archive.md/a3PmP>`__.
 
-- Lomas, Natasha. `“Equifax Breach Disclosure Would Have Failed Europe's Tough New Rules.” 
+- Lomas, Natasha. `“Equifax Breach Disclosure Would Have Failed Europe's Tough 
+  New Rules.” 
   <https://techcrunch.com/2017/09/08/equifax-breach-disclosure-would-have-failed-europes-tough-new-rules/>`__
-  *TechCrunch*, 8 Sept. 2017.
-  `Archived <https://archive.md/ZtPUF>`__.
+  *TechCrunch*, 8 Sept. 2017. `Archived <https://archive.md/ZtPUF>`__.
   
-- Ng, Alfred, and Musil, Steven. `“Equifax Data Leak May Affect Nearly Half the US Population.” 
+- Ng, Alfred, and Musil, Steven. `“Equifax Data Leak May Affect Nearly Half the 
+  US Population.” 
   <https://www.cnet.com/tech/services-and-software/equifax-data-leak-hits-nearly-half-of-the-us-population/>`__ 
-  *CNET*, 8 Sept. 2017.
-  `Archived <https://archive.md/dH7ei>`__.
-  
-- Newman, Lily Hay. `“How to Stop the Next Equifax-Style Megabreach-Or At Least Slow It Down.” 
-  <https://www.wired.com/story/how-to-stop-breaches-equifax/>`_ *Wired*, Conde Nast, 12 Sept. 2017.
-  `Archived <https://archive.md/xL7vb>`__.
+  *CNET*, 8 Sept. 2017. `Archived <https://archive.md/dH7ei>`__.
+
+- Newman, Lily Hay. `“How to Stop the Next Equifax-Style Megabreach-Or At Least 
+  Slow It Down.” <https://www.wired.com/story/how-to-stop-breaches-equifax/>`_ 
+  *Wired*, Conde Nast, 12 Sept. 2017. `Archived <https://archive.md/xL7vb>`__.
   
 - Goodin, Dan. `“Failure to Patch Two-Month-Old Bug Led to Massive Equifax Breach.” 
   <https://arstechnica.com/information-technology/2017/09/massive-equifax-breach-caused-by-failure-to-patch-two-month-old-bug/>`__ 
   *Ars Technica*, 13 Sept. 2017.
-  `Archived <https://archive.md/https://arstechnica.com/information-technology/2017/09/massive-equifax-breach-caused-by-failure-to-patch-two-month-old-bug/>`__.
+  `Archived 
+  <https://archive.md/https://arstechnica.com/information-technology/2017/09/massive-equifax-breach-caused-by-failure-to-patch-two-month-old-bug/>`__.
 
-- Gallagher, Sean. `“Equifax Hackers Stole Data for 200k Credit Cards from Transaction History.” 
+- Gallagher, Sean. `“Equifax Hackers Stole Data for 200k Credit Cards from 
+  Transaction History.” 
   <https://arstechnica.com/information-technology/2017/09/equifax-hackers-stole-data-for-200k-credit-cards-from-transaction-history/>`__ 
-  *Ars Technica*, 14 Sept. 2017.
-  `Archived <https://archive.md/5Bkbc>`__.
+  *Ars Technica*, 14 Sept. 2017. `Archived <https://archive.md/5Bkbc>`__.
 
-- Whittaker, Zack. `“Equifax Confirms Apache Struts Flaw It Failed to Patch Was to Blame for Data Breach.” 
+- Whittaker, Zack. `“Equifax Confirms Apache Struts Flaw It Failed to Patch Was 
+  to Blame for Data Breach.” 
   <https://www.zdnet.com/article/equifax-confirms-apache-struts-flaw-it-failed-to-patch-was-to-blame-for-data-breach/>`__
-  *ZDNet*, 14 Sept. 2017.
-  `Archived <https://archive.md/Qxreg>`__.
+  *ZDNet*, 14 Sept. 2017. `Archived <https://archive.md/Qxreg>`__.
   
-- `“Equifax Says Almost 400,000 Britons Hit in Data Breach.” <https://www.bbc.com/news/technology-41286638>`__ 
-  *BBC News*, BBC, 15 Sept. 2017.
-  `Archived <https://archive.md/zpbLF>`__.
+- `“Equifax Says Almost 400,000 Britons Hit in Data Breach.” 
+  <https://www.bbc.com/news/technology-41286638>`__ *BBC News*, BBC, 15 Sept. 
+  2017. `Archived <https://archive.md/zpbLF>`__.
+
+- Hautala, Laura. `“Equifax Ex-CEO: 'Both Human Error and Tech Failures' in 
+  Massive Data Breach.” 
+  <https://www.cnet.com/tech/services-and-software/equifax-ceo-data-breach-heres-what-went-wrong/>`_ 
+  *CNET*, 2 Oct. 2017. `Archived <https://archive.md/CuNmM>`__.
   
-- Hautala, Laura. `“Equifax Ex-CEO: 'Both Human Error and Tech Failures' in Massive Data Breach.” 
-  <https://www.cnet.com/tech/services-and-software/equifax-ceo-data-breach-heres-what-went-wrong/>`_ *CNET*, 2 Oct. 2017.
-  `Archived <https://archive.md/CuNmM>`__.
-  
-- Shepardson, David. `“Equifax Failed to Patch Security Vulnerability in March: Former CEO.” 
+- Shepardson, David. `“Equifax Failed to Patch Security Vulnerability in March: 
+  Former CEO.” 
   <https://www.reuters.com/article/us-equifax-breach/equifax-failed-to-patch-security-vulnerability-in-march-former-ceo-idUSKCN1C71VY>`__ 
-  *Reuters*, Thomson Reuters, 2 Oct. 2017.
-  `Archived <https://archive.md/MJ7zq>`__.
+  *Reuters*, Thomson Reuters, 2 Oct. 2017. `Archived <https://archive.md/MJ7zq>`__.
   
-- Weise, Elizabeth, and Nathan Bomey. `“Equifax Breach Hit 2.5 Million More Americans than First Believed.” 
+- Weise, Elizabeth, and Nathan Bomey. `“Equifax Breach Hit 2.5 Million More 
+  Americans than First Believed.” 
   <https://www.usatoday.com/story/tech/2017/10/02/equifax-breach-hit-2-5-million-more-americans-than-first-believed/725100001/>`__ 
-  *USA Today*, Gannett Satellite Information Network, 2 Oct. 2017.
+  *USA Today*, Gannett Satellite Information Network, 2 Oct. 2017. 
   `Archived <https://archive.md/TfhLK>`__.
 
-- Chin, Monica. `“On Top of Everything Else, Equifax Hackers Got 10 Million Driver's Licenses.” 
+- Chin, Monica. `“On Top of Everything Else, Equifax Hackers Got 10 Million 
+  Driver's Licenses.” 
   <https://mashable.com/article/equifax-hackers-got-drivers-licenses.>`__
-  *Mashable*, 11 Oct. 2017.
-  `Archived <https://archive.md/ubD10>`__.
-  
-- `“Equifax Doubles Number of Canadians Hit by Breach, Now More than 19,000 | CBC News.” 
+  *Mashable*, 11 Oct. 2017. `Archived <https://archive.md/ubD10>`__.
+
+- `“Equifax Doubles Number of Canadians Hit by Breach, Now More than 19,000 | 
+  CBC News.” 
   <https://www.cbc.ca/news/business/equifax-canadians-affected-update-1.4424066>`__ 
-  *CBCnews*, CBC/Radio Canada, 28 Nov. 2017.
-  `Archived <https://archive.md/FpI1t>`__.
+  *CBCnews*, CBC/Radio Canada, 28 Nov. 2017. `Archived <https://archive.md/FpI1t>`__.
   
 - Ng, Alfred. `“How the Equifax Hack Happened, and What Still Needs to Be Done.” 
   <https://www.cnet.com/tech/services-and-software/equifaxs-hack-one-year-later-a-look-back-at-how-it-happened-and-whats-changed/>`__ 
-  *CNET*, 7 Sept. 2018.
-  `Archived <https://archive.md/NVeDV>`__.
+  *CNET*, 7 Sept. 2018. `Archived <https://archive.md/NVeDV>`__.
 
 - Berr, Jonathan. `“Equifax Breach Exposed Data for 143 Million Consumers.” 
   <https://www.cbsnews.com/news/equifax-breach-exposes-data-for-143-million-consumers/>`__
-  *CBS News*, CBS Interactive, 8 Apr. 2018.
-  `Archived <https://archive.md/u7r1U>`__.
+  *CBS News*, CBS Interactive, 8 Apr. 2018. `Archived 
+  <https://archive.md/u7r1U>`__.
 
 - Bomey, Nathan. `“How Chinese Military Hackers Allegedly Pulled off the Equifax Data Breach, Stealing Data from 145 Million Americans.” 
   <https://www.usatoday.com/story/tech/2020/02/10/2017-equifax-data-breach-chinese-military-hack/4712788002/>`__
   *USA Today*, Gannett Satellite Information Network, 10 Feb. 2020.
   `Archived <https://archive.md/tMyN3>`__.
-  
-- Viswanatha, Aruna, et al. `“Four Members of China's Military Indicted Over Massive Equifax Breach.” 
+
+- Viswanatha, Aruna, et al. `“Four Members of China's Military Indicted Over 
+  Massive Equifax Breach.” 
   <https://www.wsj.com/articles/four-members-of-china-s-military-indicted-for-massive-equifax-breach-11581346824>`__ 
   *The Wall Street Journal*, Dow Jones & Company, 11 Feb. 2020.
   `Archived <https://archive.md/JDvB1>`__.
 
-- `“Chinese Military Personnel Charged with Computer Fraud, Economic Espionage and Wire 
-  Fraud for Hacking into Credit Reporting Agency Equifax.” 
+- `“Press Release: Chinese Military Personnel Charged with Computer Fraud, 
+  Economic Espionage and Wire Fraud for Hacking into Credit Reporting Agency 
+  Equifax.” 
   <https://www.justice.gov/opa/pr/chinese-military-personnel-charged-computer-fraud-economic-espionage-and-wire-fraud-hacking>`__
   *The United States Department of Justice*, 13 Feb. 2020.
   `Archived <https://archive.md/JtDCY>`__. 
   
-- Fifield, Anna. `“China Rebuffs U.S. Charges of Cyberespionage over Equifax Hack.” 
+- Fifield, Anna. `“China Rebuffs U.S. Charges of Cyberespionage over Equifax 
+  Hack.” 
   <https://www.washingtonpost.com/world/asia_pacific/china-rebuffs-american-charges-of-cyber-espionage-over-equifax-hack/2020/02/11/b95fd932-4ca2-11ea-967b-e074d302c7d4_story.html>`__ 
-  *The Washington Post*, WP Company, 20 Feb. 2020.
-   `Archived <https://archive.md/W7b4b>`__.
+  *The Washington Post*, WP Company, 20 Feb. 2020. 
+  `Archived <https://archive.md/W7b4b>`__.
   
 - “2017 Equifax Data Breach.” *Wikipedia*, Wikimedia Foundation, 25 Oct. 2021, 
   https://en.wikipedia.org/wiki/2017_Equifax_data_breach.
 
 - `“Equifax Data Breach Lawsuit.” 
-  <https://www.forthepeople.com/class-action-lawyers/equifax-data-breach-lawsuit/>`__ *Morgan & Morgan*.
-  `Archived <https://archive.md/GRPq3>`__.
+  <https://www.forthepeople.com/class-action-lawyers/equifax-data-breach-lawsuit/>`__ 
+  *Morgan & Morgan*. `Archived <https://archive.md/GRPq3>`__.
   
-- Turcsányi, Gergő. `“Deep Dive into the Equifax Breach and the Apache Struts Vulnerability.” 
+- Turcsányi, Gergő. `“Deep Dive into the Equifax Breach and the Apache Struts 
+  Vulnerability.” 
   <https://avatao.com/blog-deep-dive-into-the-equifax-breach-and-the-apache-struts-vulnerability/>`__ 
-  *Avatao*.
-  `Archived <https://archive.md/LPy4G>`__.
+  *Avatao*. `Archived <https://archive.md/LPy4G>`__.
 
 References
 ==========
-.. [B] Bomey, Nathan. “How Chinese Military Hackers Allegedly Pulled off the Equifax Data Breach, Stealing Data from 145 Million Americans.” 
-   *USA Today*, Gannett Satellite Information Network, 10 Feb. 2020, 
+.. [B] Bomey, Nathan. “How Chinese Military Hackers Allegedly Pulled off the 
+   Equifax Data Breach, Stealing Data from 145 Million Americans.” *USA Today*, 
+   Gannett Satellite Information Network, 10 Feb. 2020, 
    https://www.usatoday.com/story/tech/2020/02/10/2017-equifax-data-breach-chinese-military-hack/4712788002/.
    `Archived <https://archive.md/tMyN3>`__.
    
-.. [BBC] “Equifax Says Almost 400,000 Britons Hit in Data Breach.” *BBC News*, BBC, 15 Sept. 2017, 
-   https://www.bbc.com/news/technology-41286638.
+.. [BBC] “Equifax Says Almost 400,000 Britons Hit in Data Breach.” *BBC News*, 
+   BBC, 15 Sept. 2017, https://www.bbc.com/news/technology-41286638.
    `Archived <https://archive.md/zpbLF>`__.
    
-.. [C] “Equifax Doubles Number of Canadians Hit by Breach, Now More than 19,000 | CBC News.” *CBCnews*, CBC/Radio Canada, 28 Nov. 2017, 
+.. [C] “Equifax Doubles Number of Canadians Hit by Breach, Now More than 19,000 
+   | CBC News.” *CBCnews*, CBC/Radio Canada, 28 Nov. 2017, 
    https://www.cbc.ca/news/business/equifax-canadians-affected-update-1.4424066.
    `Archived <https://archive.md/FpI1t>`__.
    
@@ -464,7 +483,7 @@ References
    *Mashable*, 11 Oct. 2017, https://mashable.com/article/equifax-hackers-got-drivers-licenses.
    `Archived <https://archive.md/ubD10>`__.
    
-.. [DOJ] “Chinese Military Personnel Charged with Computer Fraud, Economic Espionage and Wire 
+.. [DOJ] “Press Release: Chinese Military Personnel Charged with Computer Fraud, Economic Espionage and Wire 
    Fraud for Hacking into Credit Reporting Agency Equifax.” *The United States Department of Justice*, 13 Feb. 2020,
    https://www.justice.gov/opa/pr/chinese-military-personnel-charged-computer-fraud-economic-espionage-and-wire-fraud-hacking.
    `Archived <https://archive.md/JtDCY>`__.
