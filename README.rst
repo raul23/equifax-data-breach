@@ -202,10 +202,9 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
      address ("China Server #2"), which was also repeatedly accessed during 
      the intrusion by WANG QIAN, exploited the Apache Struts vulnerability on 
      Equifax' s online dispute portal. [DOJ2]_ (*page 9, paragraph 14.j*)
-   - **China Server #3:** On or about the same day and July 9, 2017, XUKE used 
-     a different China-based IP address ("China Server #3") to conduct 
-     reconnaissance on Equifax' s online dispute portal. [DOJ2]_ (*page 10, 
-     paragraph 14.k*)
+   - **China Server #3:** On or about July 9, 2017, XUKE used a different 
+     China-based IP address ("China Server #3") to conduct reconnaissance on 
+     Equifax' s online dispute portal. [DOJ2]_ (*page 10, paragraph 14.k*)
    - **China Server #4:** On or about July 10, 2017, a conspirator using 
      another China-based IP address ("China Server #4") logged into the Taiwan 
      Server and copied the malicious file "abc.txt" to the Taiwan Server. 
@@ -222,7 +221,7 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
    
    `:information_source:`
 
-     Reading the `indictment`_, you have the impression that the US authorities 
+     Reading the DOJ `indictment`_, you have the impression that the US authorities 
      were somehow able to exactly pinpoint who among the four members of the 
      PLA logged to Equifax's network at a particular time of the day.
      
