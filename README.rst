@@ -259,11 +259,20 @@ data breach.
   (吴志勇), Wang Qian (王乾), Xu Ke (许可) and Liu Lei (刘磊).
 
   The DOJ `indictment`_ and mainstream news articles only provide their names, 
-  pictures, and Beijing, China as their location of residence. Their 
-  `FBI most wanted`_ poster and the `FBI news article`_ only give their names 
-  and pictures but don't mention Beijing which should have been included since 
-  it is presumably an important information for people to help the FBI identify 
-  the four suspects.
+  pictures, and Beijing, China as their location of residence. However in the
+  indictment, Beijing is referred in the past:
+  
+    Defendents [...] were residents of Beijing, China and members of the 54th 
+    Research Institute, which was a component of the PLA. [DOJ2]_ (pages 3-4, 
+    parapraph 5.d)
+    
+  Thus, the whereabouts of the suspects are uncertain.
+  
+  Their `FBI most wanted`_ poster and the `FBI news article`_ only give their 
+  names and pictures but don't mention Beijing which should have been included 
+  since it is presumably an important information for people to help the FBI 
+  identify the four suspects. At least, the FBI should have said that the 
+  four alleged PLA hackers are probably still living in Beijing, China.
   
   How old are they? Are Wang Qian and Liu Lei (the only ones not wearing 
   military uniforms in the pictures) civilians working for PLA's 54th Research 
@@ -306,6 +315,8 @@ data breach.
   
   Therefore, these four alleged PLA members should know very well how to hide 
   their tracks and use only IP addresses from outside China. 
+  
+  The four suspected PLA hackers are so elite that they 
   
 - Since it is extremely unlikely for the DOJ to arrest the four alleged PLA 
   members, the indictment can be very poor in the quality of the evidence. The 
