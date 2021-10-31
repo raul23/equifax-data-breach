@@ -255,7 +255,7 @@ data breach.
 
 - No much information is given about the four suspected PLA members: Wu Zhiyong 
   (吴志勇), Wang Qian (王乾), Xu Ke (许可) and Liu Lei (刘磊).
-  
+
   The DOJ `indictment`_ and mainstream news articles only provide their names, 
   pictures, and Beijing, China as their location of residence. Their 
   `FBI most wanted`_ poster and the `FBI news article`_ only give their names 
@@ -263,10 +263,12 @@ data breach.
   it is presumably an important information for people to help the FBI identify 
   the four suspects.
   
-  How old are they? What are their ranks in the Chinese military? Were they 
-  receiving orders from higher up or were they acting on their own? Where are 
-  those pictures provided in the indictment of three of the four PLA members 
-  coming from? 
+  How old are they? Are Wang Qian and Liu Lei (the only ones not wearing 
+  military uniforms in the pictures) civilians working for PLA's 54th Research 
+  Institute or active-duty members of the PLA? What are their military ranks in 
+  the PLA? Were they receiving orders from higher up or were they acting on 
+  their own? Where are those pictures provided in the indictment of three of 
+  the four PLA members coming from? 
   
   .. raw:: html
 
@@ -324,6 +326,16 @@ four PLA members and the data breach as promulgated by the DOJ:
   It remains unclear how the DOJ concluded that four members of the Chinese 
   military were responsible, whether they were supposedly acting on their own or 
   on state orders, or how it intends to bring them to a US court. 
+
+Also `tom' guide`_ asked important questions about the DOJ `indictment`_ 
+claiming that the four suspected Chinese hackers were backed by the PLA:
+
+  It is not clear whether the four individuals are civilians working for the 
+  PLA or active-duty members of the Chinese military. No military ranks were 
+  given for any of the defendants in the indictment, but the four were said to 
+  be members of the PLA's 54th Research Institute. (Update: A `wanted poster put 
+  up online by the FBI`_ shows photos allegedly of Wu and Xu wearing military 
+  uniforms.)
 
 The following news articles
 
@@ -796,5 +808,6 @@ References
    https://www.technologyreview.com/2020/02/10/349004/the-us-says-the-chinese-military-hacked-equifax-heres-how/
 .. _U.S. Charges Chinese Military Officers in 2017 Equifax Hacking: 
    https://archive.md/8EKZs
+.. _wanted poster put up online by the FBI: https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute
 .. _What is the PLA, and why do feds believe they hacked Equifax?:
    https://www.ajc.com/news/what-the-pla-and-why-feds-believe-they-hacked-equifax/IwFZoHWI4ZEtptRldiD3mJ/
