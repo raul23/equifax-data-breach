@@ -409,7 +409,7 @@ Other interesting information
 - **Equifax Former CIO Jailed For Insider Trading:**
 
     In the summer of 2019, Jun Ying, the former `Chief Information Officer CIO of 
-    Equifax was sentenced to four months`__ in a federal prison for insider 
+    Equifax was sentenced to four months`_ in a federal prison for insider 
     trading.
     
     Ying had sold off his stock options before the 2017 data breach became public 
