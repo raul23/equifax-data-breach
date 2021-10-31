@@ -262,12 +262,24 @@ data breach.
   pictures, and Beijing, China as their location of residence. However in the
   indictment, Beijing is referred in the past:
   
-    Defendants [...] were residents of Beijing, China and members of the 54th 
-    Research Institute, which was a component of the PLA. 
-    
-  **Ref.:** [DOJ2]_ (pages 3-4, parapraph 5.d)
+    Defendants [...] were residents of Beijing, China [DOJ2]_ (*pages 3-4, 
+    parapraph 5.d*)
     
   Thus, the whereabouts of the suspects are uncertain.
+  
+  Also, from the DOJ `indictment`_ and `press release`_, they refer to the 
+  four suspects as being former members of PLA's 54th Research Institute (
+  emphasis mine):
+  
+    Defendants [...] **were** members of the 54th Research Institute, which 
+    **was** a component of the PLA. [DOJ2]_ (*pages 3-4, parapraph 5.d*)
+  
+    ... Wu Zhiyong (吴志勇), Wang Qian (王乾), Xu Ke (许可) and Liu Lei (刘磊) 
+    **were** members of the PLA’s 54th Research Institute, a component of 
+    the Chinese military. [DOJ]_
+    
+  From the previous two quotes, is the 54th Research Institute still a 
+  component of the PLA? 
   
   Their `FBI most wanted`_ poster and the `FBI news article`_ only give their 
   names and pictures but don't mention Beijing which should have been included 
