@@ -235,15 +235,15 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
      The conspirators also allegedly accessed IP addresses from locations 
      outside of China:
    
-     - Switzerland ("the Swiss Server"), [DOJ2]_ (*page 9, paragraph f*)
+     - Switzerland ("the Swiss Server"), [DOJ2]_ (*page 9, paragraph 14.f*)
      
        According to the DOJ `indictment`_, the Swiss Server was accessed 5 
        times by the conspirators.
-     - Taiwan ("the Taiwan Server"), [DOJ2]_ (*page 8, paragraph e*)
+     - Taiwan ("the Taiwan Server"), [DOJ2]_ (*page 8, paragraph 14.e*)
      
        According to the DOJ `indictment`_, the Taiwan Server was accessed 3
        times by the conspirators.
-     - Singapore ("the Singapore Server") [DOJ2]_ (*page 11, paragraph o*)
+     - Singapore ("the Singapore Server") [DOJ2]_ (*page 11, paragraph 14.o*)
      
        According to the DOJ `indictment`_, the Singapore Server was accessed 2
        times by the conspirators.
