@@ -612,12 +612,19 @@ Links
   <https://news.sky.com/story/us-charges-chinese-military-hackers-with-equifax-breach-11930927>`__ 
   *Sky News*, 10 Feb. 2020. `Archived <https://archive.md/jgrRQ>`__.
   
+- Murphy, Margi. `“Chinese Military Hackers Charged with Equifax Cyber Attack 
+  That Hit 15m Britons.” 
+  <https://www.telegraph.co.uk/technology/2020/02/10/chinese-military-hackers-charged-equifax-cyber-attack-hit-15m/>`__ 
+  *The Telegraph*, Telegraph Media Group, 10 Feb. 2020.
+  `Archived <https://archive.md/ICs75>`__.
+  
 - News Wires. `“US Charges Four Chinese Military Officers in 2017 Equifax Hack.” 
   <https://www.france24.com/en/20200210-us-charges-four-chinese-military-officers-in-2017-equifax-hack>`__ 
   *France 24*, 10 Feb. 2020.
   `Archived <https://archive.md/9Ncmj>`__.
   
-- O'Neill, Patrick Howell. `“The US Says the Chinese Military Hacked Equifax. Here's How.” 
+- O'Neill, Patrick Howell. `“The US Says the Chinese Military Hacked Equifax. 
+  Here's How.” 
   <https://www.technologyreview.com/2020/02/10/349004/the-us-says-the-chinese-military-hacked-equifax-heres-how/>`__ 
   *MIT Technology Review*, 10 Feb. 2020. `Archived <https://archive.md/VINHI>`__.
   
@@ -666,19 +673,24 @@ Links
 
 - Jowitt, Tom. `“US Charges Four Chinese Military Over Equifax Hack: Silicon UK Tech News.” 
   <https://www.silicon.co.uk/security/cyberwar/us-charges-chinese-military-equifax-hack-331572>`__ 
-  *Silicon UK*, 11 Feb. 2020.
-  `Archived <https://archive.md/x8FCO>`__.
+  *Silicon UK*, 11 Feb. 2020. `Archived <https://archive.md/x8FCO>`__.
+  
+- Gadher, Dipesh. `“Chinese Army's Elite Hackers Steal Equifax Data on 13m Britons.” 
+  <https://www.thetimes.co.uk/article/chinese-armys-elite-hackers-steal-equifax-data-on-13m-britons-ld32rqjqq>`__ 
+  *The Sunday Times*, 16 Feb. 2020. `Archived <https://archive.md/4kCSs>`__.
+  
+- Zindulka, Kurt. `“Report: China Stole the Personal Data of Over 13 Million UK Citizens.” 
+  <https://www.breitbart.com/europe/2020/02/17/equifax-hack-china-stole-13-million-peoples-data-in-the-uk/>`__ 
+  *Breitbart*, 17 Feb. 2020. `Archived <https://archive.md/d9bJ7>`__.
 
 - Fifield, Anna. `“China Rebuffs U.S. Charges of Cyberespionage over Equifax 
   Hack.” 
   <https://www.washingtonpost.com/world/asia_pacific/china-rebuffs-american-charges-of-cyber-espionage-over-equifax-hack/2020/02/11/b95fd932-4ca2-11ea-967b-e074d302c7d4_story.html>`__ 
-  *The Washington Post*, WP Company, 20 Feb. 2020. 
-  `Archived <https://archive.md/W7b4b>`__.
+  *The Washington Post*, WP Company, 20 Feb. 2020. `Archived <https://archive.md/W7b4b>`__.
   
 - Godoy, Jody. `“Equifax Data Breach Settlement Objectors Lose Appeal.” 
   <https://www.reuters.com/legal/litigation/equifax-data-breach-settlement-objectors-lose-appeal-2021-06-03/>`__ 
-  *Reuters*, Thomson Reuters, 3 June 2021.
-  `Archived <https://archive.md/frGxW>`__.
+  *Reuters*, Thomson Reuters, 3 June 2021. `Archived <https://archive.md/frGxW>`__.
   
 - `“2017 Equifax Data Breach.” 
   <https://en.wikipedia.org/wiki/2017_Equifax_data_breach>`__ 
