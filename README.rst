@@ -250,7 +250,7 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
 Weak evidence
 -------------
 The evidence gathered from the DOJ `indictment`_ is very weak to support the 
-claim that four members of the PLA were the perpretrators of the Equifax 
+claim that four members of the PLA were the perpetrators of the Equifax 
 data breach.
   
 - No much information is given about the four PLA members: Wu Zhiyong (吴志勇), 
