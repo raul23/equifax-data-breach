@@ -371,6 +371,10 @@ Other interesting information
     personal information on a portal used to manage credit disputes with the 
     username “admin.”   
     
+    And if that wasn’t enough, the password protecting that data was probably 
+    the first one an attacker would guess: Yes that’s right, it was also 
+    “admin,” according to the lawsuit.
+    
     The lawsuit also points out that Equifax was storing unencrypted user data 
     on a public facing server–so it could have been viewed by any attacker who 
     chose to compromise it. Meanwhile, Equifax didn’t encrypt its mobile 
