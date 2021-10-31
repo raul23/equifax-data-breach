@@ -517,10 +517,25 @@ Links
   2020, https://www.justice.gov/opa/press-release/file/1246891/download (PDF).
   `Archived <https://web.archive.org/web/20210702191105/https://www.justice.gov/opa/press-release/file/1246891/download>`__.
 
+- Baksh, Mariam. `“Chinese Military Officers Hacked Equifax, Justice Department Says.” 
+  <https://www.defenseone.com/technology/2020/02/chinese-military-officers-hacked-equifax-justice-department-says/163013/>`__ 
+  *Defense One*, Nextgov, 13 Apr. 2021.
+  `Archived <https://archive.md/esWq6>`__.
+
+- Benner, Katie. `“U.S. Charges Chinese Military Officers in 2017 Equifax Hacking.” 
+  <https://www.nytimes.com/2020/02/10/us/politics/equifax-hack-china.html>`__ 
+  *The New York Times*, 10 Feb. 2020.
+  `Archived <https://archive.md/https://www.nytimes.com/2020/02/10/us/politics/equifax-hack-china.html>`__.
+
 - Bomey, Nathan. `“How Chinese Military Hackers Allegedly Pulled off the Equifax Data Breach, Stealing Data from 145 Million Americans.” 
   <https://www.usatoday.com/story/tech/2020/02/10/2017-equifax-data-breach-chinese-military-hack/4712788002/>`__
   *USA Today*, Gannett Satellite Information Network, 10 Feb. 2020.
   `Archived <https://archive.md/tMyN3>`__.
+  
+- O'Neill, Patrick Howell. `“The US Says the Chinese Military Hacked Equifax. Here's How.” 
+  <https://www.technologyreview.com/2020/02/10/349004/the-us-says-the-chinese-military-hacked-equifax-heres-how/>`__ 
+  *MIT Technology Review*, 10 Feb. 2020.
+  `Archived <https://archive.md/VINHI>`__.
 
 - `“Data from Equifax Credit Hack Could ‘End up on the Black Market," Expert Warns.” 
   <https://www.cbsnews.com/news/china-denies-responsibility-in-equifax-breach-after-doj-charges-four-military-members/>`__ 
