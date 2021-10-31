@@ -321,8 +321,8 @@ Reading the many mainstream news articles (even outside the USA like UK and
 Canada), you get the feeling that everyone just went along with the narrative of 
 the DOJ that four PLA members are responsible for the Equifax data breach.
 
-However, `RT`_ is among the only news sites that questioned the link between the 
-four alleged PLA members and the data breach as promulgated by the DOJ:
+However, `RT.com`_ is among the only news sites that questioned the link between
+the four alleged PLA members and the data breach as promulgated by the DOJ:
 
   It remains unclear how the DOJ concluded that four members of the Chinese 
   military were responsible, whether they were supposedly acting on their own or 
@@ -829,7 +829,7 @@ References
    https://www.cbsnews.com/news/equifax-hack-chinese-military-members-charged-department-of-justice/
 .. _PDF: https://www.warren.senate.gov/imo/media/doc/2018.09.06%20GAO%20Equifax%20report.pdf
 .. _press release: https://www.justice.gov/opa/pr/chinese-military-personnel-charged-computer-fraud-economic-espionage-and-wire-fraud-hacking
-.. _RT: https://www.rt.com/usa/480536-chinese-military-hackers-equifax/
+.. _RT.com: https://www.rt.com/usa/480536-chinese-military-hackers-equifax/
 .. _The US says the Chinese military hacked Equifax. Here’s how.: 
    https://www.technologyreview.com/2020/02/10/349004/the-us-says-the-chinese-military-hacked-equifax-heres-how/
 .. _tom's guide: https://www.tomsguide.com/uk/news/equifax-hack-china-charges
