@@ -405,6 +405,17 @@ Other interesting information
      <img src="https://www.dictionary.com/e/wp-content/uploads/2020/05/picard-facepalm.jpg" style="width:500px;height:300px;"/>
      </a>
      </div>
+     
+- **Equifax Former CIO Jailed For Insider Trading:**
+
+    In the summer of 2019, Jun Ying, the former `Chief Information Officer CIO of 
+    Equifax was sentenced to four months`__ in a federal prison for insider 
+    trading.
+    
+    Ying had sold off his stock options before the 2017 data breach became public 
+    knowledge.
+    
+  **Ref.:** `Silicon.co.uk`_
  
 - The US officials said that it was important to name the four PLA members 
   because according to them it will help to publicly shame them. But it is 
@@ -591,9 +602,18 @@ Links
   <https://www.popularmechanics.com/technology/security/a30854291/equifax-data-breach-chinese-military/>`__
   *Popular Mechanics*, 10 Feb. 2020. `Archived <https://archive.md/liXPo>`__.
   
+- Martin, Alexander. `“US Charges Chinese Military Hackers with Equifax Breach.” 
+  <https://news.sky.com/story/us-charges-chinese-military-hackers-with-equifax-breach-11930927>`__ 
+  *Sky News*, 10 Feb. 2020. `Archived <https://archive.md/jgrRQ>`__.
+  
 - O'Neill, Patrick Howell. `“The US Says the Chinese Military Hacked Equifax. Here's How.” 
   <https://www.technologyreview.com/2020/02/10/349004/the-us-says-the-chinese-military-hacked-equifax-heres-how/>`__ 
   *MIT Technology Review*, 10 Feb. 2020. `Archived <https://archive.md/VINHI>`__.
+  
+- Riotta, Chris. `“US Charges Chinese Military Hackers over Cyber-Attack of Equifax.” 
+  <https://www.independent.co.uk/news/world/americas/equifax-hack-china-cyber-attack-credit-score-latest-a9327611.html>`__
+  *The Independent*, Independent Digital News and Media, 10 Feb. 2020.
+  `Archived <https://archive.md/8Yjyx>`__.
 
 - RT. `“Blaming Beijing: US Charges 4 Chinese Military Personnel over Massive Equifax Hack.” 
   <https://www.rt.com/usa/480536-chinese-military-hackers-equifax/>`__ 
@@ -632,7 +652,12 @@ Links
 - Hymes, Clare, and Becket, Stepan. `“Justice Department Charges 4 Members of Chinese Military for Massive Equifax Hack.” 
   <https://www.cbsnews.com/news/equifax-hack-chinese-military-members-charged-department-of-justice/>`__
   *CBS News*, CBS Interactive, 11 Feb. 2020. `Archived <https://archive.md/NZZIs>`__.
-  
+
+- Jowitt, Tom. `“US Charges Four Chinese Military Over Equifax Hack: Silicon UK Tech News.” 
+  <https://www.silicon.co.uk/security/cyberwar/us-charges-chinese-military-equifax-hack-331572>`__ 
+  *Silicon UK*, 11 Feb. 2020.
+  `Archived <https://archive.md/x8FCO>`__.
+
 - Fifield, Anna. `“China Rebuffs U.S. Charges of Cyberespionage over Equifax 
   Hack.” 
   <https://www.washingtonpost.com/world/asia_pacific/china-rebuffs-american-charges-of-cyber-espionage-over-equifax-hack/2020/02/11/b95fd932-4ca2-11ea-967b-e074d302c7d4_story.html>`__ 
@@ -809,6 +834,8 @@ References
 .. _Apache Struts software: https://struts.apache.org/
 .. _archive: https://web.archive.org/web/20210629150932/https://www.warren.senate.gov/imo/media/doc/2018.09.06%20GAO%20Equifax%20report.pdf
 .. _CEO: https://archive.md/1aLaJ
+.. _Chief Information Officer CIO of Equifax was sentenced to four months: 
+   https://www.silicon.co.uk/e-regulation/legal/equifax-cio-jailed-insider-trading-268127
 .. _Chinese Military Hackers Charged in Equifax Breach: https://www.fbi.gov/news/stories/chinese-hackers-charged-in-equifax-breach-021020
 .. _Chinese Military Officers Hacked Equifax, Justice Department Say: 
    https://www.defenseone.com/technology/2020/02/chinese-military-officers-hacked-equifax-justice-department-says/163013/
@@ -830,6 +857,7 @@ References
 .. _PDF: https://www.warren.senate.gov/imo/media/doc/2018.09.06%20GAO%20Equifax%20report.pdf
 .. _press release: https://www.justice.gov/opa/pr/chinese-military-personnel-charged-computer-fraud-economic-espionage-and-wire-fraud-hacking
 .. _RT.com: https://www.rt.com/usa/480536-chinese-military-hackers-equifax/
+.. _Silicon.co.uk: https://www.silicon.co.uk/security/cyberwar/us-charges-chinese-military-equifax-hack-331572
 .. _The US says the Chinese military hacked Equifax. Here’s how.: 
    https://www.technologyreview.com/2020/02/10/349004/the-us-says-the-chinese-military-hacked-equifax-heres-how/
 .. _tom's guide: https://www.tomsguide.com/uk/news/equifax-hack-china-charges
