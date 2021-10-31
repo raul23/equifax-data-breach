@@ -522,6 +522,16 @@ Links
   *USA Today*, Gannett Satellite Information Network, 10 Feb. 2020.
   `Archived <https://archive.md/tMyN3>`__.
 
+- `“Data from Equifax Credit Hack Could ‘End up on the Black Market," Expert Warns.” 
+  <https://www.cbsnews.com/news/china-denies-responsibility-in-equifax-breach-after-doj-charges-four-military-members/>`__ 
+  *CBS News*, CBS Interactive, 11 Feb. 2020.
+  `Archived <https://archive.md/7F470>`__.
+
+- Hymes, Clare, and Becket, Stepan. `“Justice Department Charges 4 Members of Chinese Military for Massive Equifax Hack.” 
+  <https://www.cbsnews.com/news/equifax-hack-chinese-military-members-charged-department-of-justice/>`__
+  *CBS News*, CBS Interactive, 11 Feb. 2020.
+  `Archived <https://archive.md/NZZIs>`__.
+
 - Viswanatha, Aruna, et al. `“Four Members of China's Military Indicted Over 
   Massive Equifax Breach.” 
   <https://www.wsj.com/articles/four-members-of-china-s-military-indicted-for-massive-equifax-breach-11581346824>`__ 
