@@ -522,6 +522,13 @@ Links
   2020, https://www.justice.gov/opa/press-release/file/1246891/download (PDF).
   `Archived <https://web.archive.org/web/20210702191105/https://www.justice.gov/opa/press-release/file/1246891/download>`__.
 
+- `“Press Release: Chinese Military Personnel Charged with Computer Fraud, 
+  Economic Espionage and Wire Fraud for Hacking into Credit Reporting Agency 
+  Equifax.” 
+  <https://www.justice.gov/opa/pr/chinese-military-personnel-charged-computer-fraud-economic-espionage-and-wire-fraud-hacking>`__
+  *The United States Department of Justice*, 10 Feb. 2020.
+  `Archived <https://archive.md/JtDCY>`__. 
+
 - `“Chinese Hackers Charged in Equifax Breach.” 
   <https://www.fbi.gov/news/stories/chinese-hackers-charged-in-equifax-breach-021020>`__ 
   *FBI*, 10 Feb. 2020.
@@ -577,13 +584,6 @@ Links
 - Hymes, Clare, and Becket, Stepan. `“Justice Department Charges 4 Members of Chinese Military for Massive Equifax Hack.” 
   <https://www.cbsnews.com/news/equifax-hack-chinese-military-members-charged-department-of-justice/>`__
   *CBS News*, CBS Interactive, 11 Feb. 2020. `Archived <https://archive.md/NZZIs>`__.
-
-- `“Press Release: Chinese Military Personnel Charged with Computer Fraud, 
-  Economic Espionage and Wire Fraud for Hacking into Credit Reporting Agency 
-  Equifax.” 
-  <https://www.justice.gov/opa/pr/chinese-military-personnel-charged-computer-fraud-economic-espionage-and-wire-fraud-hacking>`__
-  *The United States Department of Justice*, 13 Feb. 2020.
-  `Archived <https://archive.md/JtDCY>`__. 
   
 - Fifield, Anna. `“China Rebuffs U.S. Charges of Cyberespionage over Equifax 
   Hack.” 
@@ -638,7 +638,7 @@ References
 .. [DOJ] “Press Release: Chinese Military Personnel Charged with Computer Fraud, 
    Economic Espionage and Wire 
    Fraud for Hacking into Credit Reporting Agency Equifax.” *The United States 
-   Department of Justice*, 13 Feb. 2020,
+   Department of Justice*, 10 Feb. 2020,
    https://www.justice.gov/opa/pr/chinese-military-personnel-charged-computer-fraud-economic-espionage-and-wire-fraud-hacking.
    `Archived <https://archive.md/JtDCY>`__.
    
