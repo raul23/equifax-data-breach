@@ -517,6 +517,17 @@ Links
   2020, https://www.justice.gov/opa/press-release/file/1246891/download (PDF).
   `Archived <https://web.archive.org/web/20210702191105/https://www.justice.gov/opa/press-release/file/1246891/download>`__.
 
+- `“Chinese Hackers Charged in Equifax Breach.” 
+  <https://www.fbi.gov/news/stories/chinese-hackers-charged-in-equifax-breach-021020>`__ 
+  *FBI*, 10 Feb. 2020.
+  `Archived <https://archive.md/https://www.fbi.gov/news/stories/chinese-hackers-charged-in-equifax-breach-021020>`__.
+
+- `“CHINESE PLA MEMBERS, 54th RESEARCH INSTITUTE.” 
+  <https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute>`__ 
+  *FBI*, 10 Feb. 2020. `Archived#1 <https://archive.md/3qA8b> (10 Feb. 2020)`__ and 
+  `Archived#2 <https://web.archive.org/web/20211020075542/https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute> 
+  (20 Oct. 2021)`__.
+
 - Baksh, Mariam. `“Chinese Military Officers Hacked Equifax, Justice Department Says.” 
   <https://www.defenseone.com/technology/2020/02/chinese-military-officers-hacked-equifax-justice-department-says/163013/>`__ 
   *Defense One*, Nextgov, 10 Feb. 2021.
