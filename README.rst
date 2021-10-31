@@ -1,6 +1,7 @@
 ========================
 2017 Equifax data breach
 ========================
+.. "And how w"And how w"And how w"And how w"And how w"And how w"And how w"And how w
 
 .. raw:: html
 
@@ -16,88 +17,103 @@
 
 `:information_source:`
 
-  On September 7, 2017, Equifax, one of the largest credit reporting agencies in America, 
-  announced that an unauthorized third party gained access to Equifax data on as many as 
-  143 million Americans. [M]_
+  On September 7, 2017, Equifax, one of the largest credit reporting agencies in 
+  America, announced that an unauthorized third party gained access to Equifax 
+  data on as many as 143 million Americans. [M]_
   
-  The number of affected people is roughly half of the US population of 323 million. [N2]_
+  The number of affected people is roughly half of the US population of 323 
+  million. [N2]_
   
 `:warning:`
 
-  Equifax learned about the breach on July 29 but didn't reveal it for more than a month. [N2]_
+  Equifax learned about the breach on July 29 but didn't reveal it for more than 
+  a month. [N2]_
 
 Some important information
-========================
-- On March 9, 2017, the company's IT team was informed of a vulnerability affecting the `Apache 
-  Struts software`_ it used on its dispute resolution portal, with instructions to patch it 
-  in 48 hours. That didn't happen. [H]_
-- On May 13, 2017, the attackers hit the jackpot with Equifax's dispute portal, where 
-  people could go to argue about claims. [N]_
+==========================
+- On March 9, 2017, the company's IT team was informed of a vulnerability 
+  affecting the `Apache Struts software`_ it used on its dispute resolution 
+  portal, with instructions to patch it in 48 hours. That didn't happen. [H]_
+- On May 13, 2017, the attackers hit the jackpot with Equifax's dispute portal, 
+  where people could go to argue about claims. [N]_
 - The breach was discovered on `29 July 2017`_. [M]_
-- On September 7, 2017, Equifax, one of the largest credit reporting agencies in America, 
-  announced that an unauthorized third party gained access to Equifax data on as many as 
-  143 million Americans. [M]_
+- On September 7, 2017, Equifax, one of the largest credit reporting agencies in 
+  America, announced that an unauthorized third party gained access to Equifax 
+  data on as many as 143 million Americans. [M]_
 - As a result, the `CEO`_, `CIO and CSO`_ had to go. [T]_
-- In both October 2017 [WE]_ and March 2018 [MM]_, Equifax reported that an additional 2.5 and 2.4 million 
-  American consumer records were accessed, respectively, bringing the total to 147.9 million. [WK]_
+- In both October 2017 [WE]_ and March 2018 [MM]_, Equifax reported that an 
+  additional 2.5 and 2.4 million American consumer records were accessed, 
+  respectively, bringing the total to 147.9 million. [WK]_
 
 What kinds of data were accessed?
-========================
-- The information accessed primarily includes names, Social Security numbers, birth dates, 
-  addresses and, in some instances, driver's license numbers. [E]_
+=================================
+- The information accessed primarily includes names, Social Security numbers, 
+  birth dates, addresses and, in some instances, driver's license numbers. [E]_
   
-  The driver's license data of around 10.9 million Americans were compromised. [CM]_
+  The driver's license data of around 10.9 million Americans were compromised. 
+  [CM]_
 
-- In addition, credit card numbers for approximately 209,000 U.S. consumers, and certain 
-  dispute documents with personal identifying information for approximately 182,000 U.S. 
-  consumers, were accessed. [E]_
+- In addition, credit card numbers for approximately 209,000 U.S. consumers, and 
+  certain dispute documents with personal identifying information for 
+  approximately 182,000 U.S. consumers, were accessed. [E]_
   
-- Equifax also identified unauthorized access to limited personal information for certain 
-  UK and Canadian residents. [E]_
+- Equifax also identified unauthorized access to limited personal information 
+  for certain UK and Canadian residents. [E]_
   
-  Information on an estimated range of under 400,000 up to 44 million British residents. [BBC]_ [HA]_ 
+  Information on an estimated range of under 400,000 up to 44 million British 
+  residents. [BBC]_ [HA]_ 
   
   The company said that 8,000 Canadian citizens were impacted. [S]_
   
-  An additional 11,670 Canadians were affected as well, later revealed by Equifax. [WK]_ [C]_
+  An additional 11,670 Canadians were affected as well, later revealed by 
+  Equifax. [WK]_ [C]_
 
 How was the data breached?
 ========================
 `:information_source:`
-
-  On 7 September 2018, US lawmakers released a report (`PDF`_ and `archive`_) detailing exactly how the 
-  credit-monitoring company was hacked.
+  On 7 September 2018, US lawmakers released a report (`PDF`_ and `archive`_) 
+  detailing exactly how the credit-monitoring company was hacked.
   
-  The report comes from the Government Accountability Office (GAO), the agency that provides 
-  auditing and investigative services for Congess.
+  The report comes from the Government Accountability Office (GAO), the agency 
+  that provides auditing and investigative services for Congess.
   
   **Ref.:** `cnet.com 
   <https://www.cnet.com/tech/services-and-software/equifaxs-hack-one-year-later-a-look-back-at-how-it-happened-and-whats-changed/>`__
 
-By exploiting a vulnerability on one of the company's U.S.-based web servers. [M]_
+By exploiting a vulnerability on one of the company's U.S.-based web servers. 
+[M]_
 
-It seems that the underlying legacy codebase that handled the [Equifax] web application 
-was vulnerable enough for an attacker to exploit. [M]_
+It seems that the underlying legacy codebase that handled the [Equifax] web 
+application was vulnerable enough for an attacker to exploit. [M]_
 
-1. Hackers used an Apache Struts vulnerability (`CVE-2017-5638`_), `a months-old issue that Equifax knew about but failed to fix`_, 
-   and gained access to internal login credentials (for Equifax employees) for three servers. Those credentials allowed them to access 
+1. Hackers used an Apache Struts vulnerability (`CVE-2017-5638`_), `a months-old 
+   issue that Equifax knew about but failed to fix`_, and gained access to 
+   internal login credentials (for Equifax employees) for three servers. Those 
+   credentials allowed them to access 
    48 credit monitoring databases containing personal information. [N]_ [T]_
-2. They searched the databases about 9,000 times for sensitive personal information while hiding the searches through encryption. [B]_
-3. They stuffed the personal information in temporary files, compressed them and divided them into smaller-sized files to 
-   increase their chances of transmitting the stolen data without being noticed. [B]_ [N]_
-4. They used 34 servers in 20 countries during the breach and employed various other techniques, 
-   such as remote-desktop access and encrypted log-ins, to mask the origin of the hack. [B]_
-5. They deleted the compressed files after transferring the data into external storage, 
-   then configured settings to wipe out information tracking their activity. [B]_
-6. The thieves spent 76 days within Equifax's network before they were detected. [N]_
+2. They searched the databases about 9,000 times for sensitive personal 
+   information while hiding the searches through encryption. [B]_
+3. They stuffed the personal information in temporary files, compressed them and 
+   divided them into smaller-sized files to increase their chances of 
+   transmitting the stolen data without being noticed. [B]_ [N]_
+4. They used 34 servers in 20 countries during the breach and employed various 
+   other techniques, such as remote-desktop access and encrypted log-ins, to 
+   mask the origin of the hack. [B]_
+5. They deleted the compressed files after transferring the data into external 
+   storage, then configured settings to wipe out information tracking their 
+   activity. [B]_
+6. The thieves spent 76 days within Equifax's network before they were detected. 
+   [N]_
 
 `:information_source:`
 
-  While the failure to update Struts was a key failure, analysis of the breach found further faults in Equifax' 
-  system that made it easy for the breach to occur, including [WK]_:
+  While the failure to update Struts was a key failure, analysis of the breach 
+  found further faults in Equifax' system that made it easy for the breach to 
+  occur, including [WK]_:
   
   - the insecure network design which lacked sufficient segmentation [NL]_
-  - potentially inadequate encryption of personally identifiable information (PII) [GS]_, and
+  - potentially inadequate encryption of personally identifiable information 
+    (PII) [GS]_, and
   - ineffective breach detection mechanisms. [L]_
 
 .. raw:: html
@@ -112,27 +128,34 @@ The US says members of the Chinese military hacked Equifax
 ==========================================================
 `:warning:`
 
-  The United States Department of Justice (DOJ) is very careful not to imply that the Chinese army is 
-  directly responsible for the data breach.
-  Thus, the `DOJ indictment`_ and their `press release`_ target specifically members of the Chinese 
-  People’s Liberation Army (PLA); more precisely they are part of PLA’s 54th Research Institute, a component 
-  of the Chinese military.
+  The United States Department of Justice (DOJ) is very careful not to imply 
+  that the Chinese army is directly responsible for the data breach.
+  Thus, the `DOJ indictment`_ and their `press release`_ target specifically 
+  members of the Chinese People’s Liberation Army (PLA); more precisely they are 
+  part of PLA’s 54th Research Institute, a component of the Chinese military.
   
   The majority of mainstream news sites are also careful in their titles so as 
   to be specific in who are being accused by the DOJ:
-  
-  - `Chinese Military Hackers Charged in Equifax Breach`_ (FBI News)
-  - `Chinese Military Officers Hacked Equifax, Justice Department Say`_ (Defense One)
-  - `Equifax: US charges four Chinese military officers over huge hack`_ (BBC News)
-  - `Four Members of China's Military Indicted for Massive Equifax Breach`_ (The Wall Street Journal)
-  - `Justice Department charges 4 members of Chinese military for massive Equifax hack`_ (CBS NEWS)
-  - `U.S. Charges Chinese Military Officers in 2017 Equifax Hacking`_ (The New York Times)
-  
-  Though you still have some news articles with titles implying that it is the whole
-  Chinese army that is being targeted by the DOJ:
 
-  - `What is the PLA, and why do feds believe they hacked Equifax?`_ (The Atlanta Journal-Constitution)
-  - `The US says the Chinese military hacked Equifax. Here’s how.`_ (MIT Technology Review)
+  - `Chinese Military Hackers Charged in Equifax Breach`_ (FBI News)
+  - `Chinese Military Officers Hacked Equifax, Justice Department Say`_ (Defense 
+    One)
+  - `Equifax: US charges four Chinese military officers over huge hack`_ (BBC 
+    News)
+  - `Four Members of China's Military Indicted for Massive Equifax Breach`_ (The 
+    Wall Street Journal)
+  - `Justice Department charges 4 members of Chinese military for massive 
+    Equifax hack`_ (CBS NEWS)
+  - `U.S. Charges Chinese Military Officers in 2017 Equifax Hacking`_ (The New 
+    York Times)
+  
+  Though you still have some news articles with titles implying that it is the 
+  whole Chinese army that is being targeted by the DOJ:
+
+  - `What is the PLA, and why do feds believe they hacked Equifax?`_ (The 
+    Atlanta Journal-Constitution)
+  - `The US says the Chinese military hacked Equifax. Here’s how.`_ (MIT 
+    Technology Review)
 
 The US indictment
 -----------------
@@ -143,10 +166,11 @@ From the DOJ's press release about the `indictment`_
 (`archive <https://web.archive.org/web/20210725031951/https://www.justice.gov/opa/press-release/file/1246891/download>`__) 
 of the four Chinese military members [DOJ]_:
 
-  The nine-count indictment alleges that Wu Zhiyong (吴志勇), Wang Qian (王乾), Xu Ke (许可) and Liu Lei 
-  (刘磊) were members of the PLA’s 54th Research Institute, a component of the Chinese military.  They 
-  allegedly conspired with each other to hack into Equifax’s computer networks, maintain unauthorized 
-  access to those computers, and steal sensitive, personally identifiable information of 
+  The nine-count indictment alleges that Wu Zhiyong (吴志勇), Wang Qian (王乾), Xu 
+  Ke (许可) and Liu Lei (刘磊) were members of the PLA’s 54th Research Institute, 
+  a component of the Chinese military.  They allegedly conspired with each other 
+  to hack into Equifax’s computer networks, maintain unauthorized access to 
+  those computers, and steal sensitive, personally identifiable information of 
   approximately 145 million American victims. 
 
 DOJ evidence that China's military personnel are behind the Equifax data breach
@@ -157,16 +181,19 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
   
   **TODO:** gather evidence from other governmental sources
   
-1. Multiple China-based IP addresses were allegedly accessed during the intrusion by the conspirators:
+1. Multiple China-based IP addresses were allegedly accessed during the 
+   intrusion by the conspirators:
 
-   - The majority of the 9000 SQL queries [to the credit monitoring databases] were issued by conspirators using two
-     **China-based IP addresses** that connected directly to Equifax' s network. []_ page 6, paragraph 9
-     
-     **NOTE:** the indictment doesn't name these two **China-based IP addresses** like in other places
-     of the document (e.g. China Server #1)
-   - **China Server #1:** On or about June 16, 2017, a conspirator using a China-based IP address ("China Server #1"), 
-     which was repeatedly accessed during the intrusion by WANG QIAN, logged into a Taiwanese IP 
-     address ("the Taiwan Server") via Remote Desktop Protocol software and copied the 
+   - The majority of the 9000 SQL queries [to the credit monitoring databases] 
+     were issued by conspirators using two **China-based IP addresses** that 
+     connected directly to Equifax' s network. []_ page 6, paragraph 9
+
+     **NOTE:** the indictment doesn't name these two **China-based IP 
+     addresses** like in other places of the document (e.g. China Server #1)
+   - **China Server #1:** On or about June 16, 2017, a conspirator using a 
+     China-based IP address ("China Server #1"), which was repeatedly accessed 
+     during the intrusion by WANG QIAN, logged into a Taiwanese IP address ("the 
+     Taiwan Server") via Remote Desktop Protocol software and copied the 
      malicious file "jndi. txt." []_ page 8, paragraph e
    - **China Server #2:** On or about the same day [of July 7, 2017], another China-based IP address 
      ("China Server #2"), which was also repeatedly accessed during the intrusion by WANG QIAN, exploited 
@@ -183,16 +210,19 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
      table and store the results in output files.
    
    `:information_source:`
-   
-     Reading the `indictment`_, you have the impression that the US authorities were somehow able to 
-     exactly pinpoint who among the four members of the PLA logged to Equifax's network at a particular time of the day.
+
+     Reading the `indictment`_, you have the impression that the US authorities 
+     were somehow able to exactly pinpoint who among the four members of the PLA 
+     logged to Equifax's network at a particular time of the day.
      
-     However for some other days of the attack, the US investigators lose their special talent to exactly identify 
-     who is logging into Equifax's network and instead used the word "conspirator".
+     However for some other days of the attack, the US investigators lose their 
+     special talent to exactly identify who is logging into Equifax's network 
+     and instead used the word "conspirator".
    
    `:information_source:`
-     
-     The conspirators also allegedly accessed IP addresses from locations outside of China:
+
+     The conspirators also allegedly accessed IP addresses from locations 
+     outside of China:
      
      - Switzerland, []_ page 9, paragraph f
      - Taiwan, []_ pages 10 paragraph I
@@ -200,18 +230,21 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
 
 Weak evidence
 -------------
-The evidence gathered from the DOJ `indictment`_ is very weak to support the claim that 
-the four members of the PLA were the perpretrators of the Equifax data breach.
+The evidence gathered from the DOJ `indictment`_ is very weak to support the 
+claim that the four members of the PLA were the perpretrators of the Equifax 
+data breach.
   
-- No much information is given about the four PLA members: Wu Zhiyong (吴志勇), Wang Qian (王乾), 
-  Xu Ke (许可) and Liu Lei (刘磊).
+- No much information is given about the four PLA members: Wu Zhiyong (吴志勇), 
+  Wang Qian (王乾), Xu Ke (许可) and Liu Lei (刘磊).
   
-  The DOJ `indictment`_, their press release and mainstream news articles only provide their
-  names and pictures. Even their `FBI most wanted`_ poster only give their names.
+  The DOJ `indictment`_, their press release and mainstream news articles only 
+  provide their names and pictures. Even their `FBI most wanted`_ poster only 
+  give their names.
   
-  How old are they? What are their ranks in the Chinese military? Were they receiving orders
-  from higher up or were they acting on their own? Where are those pictures provided in the
-  indictment of three of the four PLA members coming from? 
+  How old are they? What are their ranks in the Chinese military? Were they 
+  receiving orders from higher up or were they acting on their own? Where are 
+  those pictures provided in the indictment of three of the four PLA members 
+  coming from? 
   
   .. raw:: html
 
@@ -231,39 +264,44 @@ the four members of the PLA were the perpretrators of the Equifax data breach.
        <a href="https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute">FBI</a>.</b></p>
      </div>
 
-- There is no explanation in the `indictment`_ how the US authorities came to the
-  conclusion that the four named PLA members were directly related to the network intrusions.
+- There is no explanation in the `indictment`_ how the US authorities came to 
+  the conclusion that the four named PLA members were directly related to the 
+  network intrusions.
 
-- Some of the evidence is based on multiple IP addresses allegedly originating from China.
+- Some of the evidence is based on multiple IP addresses allegedly originating 
+  from China.
 
   It seems very sloppy for the four members of the PLA to allegedly log 
-  multiple times into Equifax's systems directly from Chinese-based IP addresses. These conspirators
-  are not your average Joe that doesn't know much about network forensics but are supposedly part of 
-  PLA's 54th Research Institute which has traditionally focused on supporting electronic 
-  warfare akin to Cyber Command as opposed to cyber espionage [VD]_. 
+  multiple times into Equifax's systems directly from Chinese-based IP 
+  addresses. These conspirators are not your average Joe that doesn't know much 
+  about network forensics but are supposedly part of PLA's 54th Research 
+  Institute which has traditionally focused on supporting electronic warfare 
+  akin to Cyber Command as opposed to cyber espionage [VD]_. 
   
-  Therefore, these four accused members of the PLA should know very well how to hide their tracks and use
-  only IP addresses from outside China. 
+  Therefore, these four accused members of the PLA should know very well how to 
+  hide their tracks and use only IP addresses from outside China. 
   
-- Since it is extremely unlikely for the DOJ to arrest the four PLA members, the indictment can
-  be very poor in the quality of the evidence. The case will not go in front of 
-  a judge and jury where the evidence presented by the prosecutors would have been scrutinized.
+- Since it is extremely unlikely for the DOJ to arrest the four PLA members, 
+  the indictment can be very poor in the quality of the evidence. The case will 
+  not go in front of a judge and jury where the evidence presented by the 
+  prosecutors would have been scrutinized.
   
-  Thus, the DOJ is not incentivized to gather solid evidence that could link the four PLA members
-  to the Equifax data breach:
+  Thus, the DOJ is not incentivized to gather solid evidence that could link 
+  the four PLA members to the Equifax data breach:
   
-    Officials acknowledged they were unlikely to face prosecution in a U.S. courtroom. [V]_ 
-  
-Reading the many mainstream news articles (even outside USA like UK and Canada), you get the 
-feeling that everyone just went along with the narrative of the DOJ 
-that four PLA members are responsible for the Equifax data breach.
+    Officials acknowledged they were unlikely to face prosecution in a U.S. 
+    courtroom. [V]_ 
 
-However, `RT`_ is among the only news sites that questioned the link between the four
-PLA members and the data breach as promulgated by the DOJ:
+Reading the many mainstream news articles (even outside the USA like UK and 
+Canada), you get the feeling that everyone just went along with the narrative of 
+the DOJ that four PLA members are responsible for the Equifax data breach.
 
-  It remains unclear how the DOJ concluded that four members of the Chinese military were 
-  responsible, whether they were supposedly acting on their own or on state orders, or how 
-  it intends to bring them to a US court. 
+However, `RT`_ is among the only news sites that questioned the link between the 
+four PLA members and the data breach as promulgated by the DOJ:
+
+  It remains unclear how the DOJ concluded that four members of the Chinese 
+  military were responsible, whether they were supposedly acting on their own or 
+  on state orders, or how it intends to bring them to a US court. 
   
 Equifax data breach by the numbers
 ==================================
@@ -303,8 +341,8 @@ Other interesting information
   going into production to ensure they don't break key functions on the site. 
   [G]_
 
-- `Apache Struts`_ is used across the Fortune 100 to provide web applications in 
-  Java, and it powers front- and back-end applications, including Equifax's 
+- `Apache Struts`_ is used across the Fortune 100 to provide web applications 
+  in Java, and it powers front- and back-end applications, including Equifax's 
   public website. [W]_
  
 - The US officials said that it was important to name the four PLA members 
@@ -321,8 +359,8 @@ Other interesting information
 
     None of them are in custody, nor are they likely to be any time soon. But 
     officials said that charging and naming them served the purpose of 
-    **publicly shaming** them for their actions and enabled the United States to 
-    arrest them if they travel one day. [FA]_
+    **publicly shaming** them for their actions and enabled the United States 
+    to arrest them if they travel one day. [FA]_
 
 Links
 =====
@@ -479,46 +517,55 @@ References
    https://www.cbc.ca/news/business/equifax-canadians-affected-update-1.4424066.
    `Archived <https://archive.md/FpI1t>`__.
    
-.. [CM] Chin, Monica. “On Top of Everything Else, Equifax Hackers Got 10 Million Driver's Licenses.” 
-   *Mashable*, 11 Oct. 2017, https://mashable.com/article/equifax-hackers-got-drivers-licenses.
+.. [CM] Chin, Monica. “On Top of Everything Else, Equifax Hackers Got 10 Million 
+   Driver's Licenses.” *Mashable*, 11 Oct. 2017, 
+   https://mashable.com/article/equifax-hackers-got-drivers-licenses.
    `Archived <https://archive.md/ubD10>`__.
-   
-.. [DOJ] “Press Release: Chinese Military Personnel Charged with Computer Fraud, Economic Espionage and Wire 
-   Fraud for Hacking into Credit Reporting Agency Equifax.” *The United States Department of Justice*, 13 Feb. 2020,
+
+.. [DOJ] “Press Release: Chinese Military Personnel Charged with Computer Fraud, 
+   Economic Espionage and Wire 
+   Fraud for Hacking into Credit Reporting Agency Equifax.” *The United States 
+   Department of Justice*, 13 Feb. 2020,
    https://www.justice.gov/opa/pr/chinese-military-personnel-charged-computer-fraud-economic-espionage-and-wire-fraud-hacking.
    `Archived <https://archive.md/JtDCY>`__.
 
-.. [E] Inc., Equifax. “Equifax Announces Cybersecurity Incident Involving Consumer Information.“ *PrNewsWire*, 7 Sept. 2017, 
+.. [E] Inc., Equifax. “Equifax Announces Cybersecurity Incident Involving 
+   Consumer Information.“ *PrNewsWire*, 7 Sept. 2017, 
    https://www.prnewswire.com/news-releases/equifax-announces-cybersecurity-incident-involving-consumer-information-300515960.html.
    `Archived <https://archive.md/MBXzP>`__.
 
-.. [FA] Fifield, Anna. “China Rebuffs U.S. Charges of Cyberespionage over Equifax Hack.” 
-   *The Washington Post*, WP Company, 20 Feb. 2020, 
+.. [FA] Fifield, Anna. “China Rebuffs U.S. Charges of Cyberespionage over Equifax 
+   Hack.” *The Washington Post*, WP Company, 20 Feb. 2020, 
    https://www.washingtonpost.com/world/asia_pacific/china-rebuffs-american-charges-of-cyber-espionage-over-equifax-hack/2020/02/11/b95fd932-4ca2-11ea-967b-e074d302c7d4_story.html.
    `Archived <https://archive.md/W7b4b>`__.
-
-.. [G] Goodin, Dan. “Failure to Patch Two-Month-Old Bug Led to Massive Equifax Breach.” *Ars Technica*, 13 Sept. 2017, 
+   
+.. [G] Goodin, Dan. “Failure to Patch Two-Month-Old Bug Led to Massive Equifax 
+   Breach.” *Ars Technica*, 13 Sept. 2017, 
    https://arstechnica.com/information-technology/2017/09/massive-equifax-breach-caused-by-failure-to-patch-two-month-old-bug/.
    `Archived <https://archive.md/https://arstechnica.com/information-technology/2017/09/massive-equifax-breach-caused-by-failure-to-patch-two-month-old-bug/>`__.
-   
-.. [GS] Gallagher, Sean. “Equifax Hackers Stole Data for 200k Credit Cards from Transaction History.” *Ars Technica*, 14 Sept. 2017, 
+
+.. [GS] Gallagher, Sean. “Equifax Hackers Stole Data for 200k Credit Cards from 
+   Transaction History.” *Ars Technica*, 14 Sept. 2017, 
    https://arstechnica.com/information-technology/2017/09/equifax-hackers-stole-data-for-200k-credit-cards-from-transaction-history/.
    `Archived <https://archive.md/5Bkbc>`__.
 
-.. [H] Hautala, Laura. “Equifax Ex-CEO: 'Both Human Error and Tech Failures' in Massive Data Breach.” *CNET*, 2 Oct. 2017, 
+.. [H] Hautala, Laura. “Equifax Ex-CEO: 'Both Human Error and Tech Failures' in 
+   Massive Data Breach.” *CNET*, 2 Oct. 2017, 
    https://www.cnet.com/tech/services-and-software/equifax-ceo-data-breach-heres-what-went-wrong/.
    `Archived <https://archive.md/CuNmM>`__.
 
-.. [HA] Hern, Alex. “Equifax Told to Inform Britons Whether They Are at Risk after Data Breach.” *The Guardian*, Guardian News and Media, 8 Sept. 2017, 
+.. [HA] Hern, Alex. “Equifax Told to Inform Britons Whether They Are at Risk 
+   after Data Breach.” *The Guardian*, Guardian News and Media, 8 Sept. 2017, 
    https://www.theguardian.com/technology/2017/sep/08/equifax-told-to-inform-britons-whether-they-are-at-risk-after-data-breach.
    `Archived <https://archive.md/a3PmP>`__.
-
-.. [L] Lomas, Natasha. “Equifax Breach Disclosure Would Have Failed Europe's Tough New Rules.” 
-   *TechCrunch*, 8 Sept. 2017, 
+   
+.. [L] Lomas, Natasha. “Equifax Breach Disclosure Would Have Failed Europe's 
+   Tough New Rules.” *TechCrunch*, 8 Sept. 2017, 
    https://techcrunch.com/2017/09/08/equifax-breach-disclosure-would-have-failed-europes-tough-new-rules/.
    `Archived <https://archive.md/ZtPUF>`__.
 
-.. [M] Mathews, Lee. “Equifax Data Breach Impacts 143 Million Americans.” *Forbes*, Forbes Magazine, 7 Sept. 2017,
+.. [M] Mathews, Lee. “Equifax Data Breach Impacts 143 Million Americans.” 
+   *Forbes*, Forbes Magazine, 7 Sept. 2017,
    https://www.forbes.com/sites/leemathews/2017/09/07/equifax-data-breach-impacts-143-million-americans/?sh=16bb95ef356f.
    `Archived <https://archive.md/fo2um>`__.
    
@@ -526,28 +573,34 @@ References
     https://www.forthepeople.com/class-action-lawyers/equifax-data-breach-lawsuit/.
     `Archived <https://archive.md/GRPq3>`__.
    
-.. [N] Ng, Alfred. “How the Equifax Hack Happened, and What Still Needs to Be Done.” *CNET*, 7 Sept. 2018, 
+.. [N] Ng, Alfred. “How the Equifax Hack Happened, and What Still Needs to Be 
+   Done.” *CNET*, 7 Sept. 2018, 
    https://www.cnet.com/tech/services-and-software/equifaxs-hack-one-year-later-a-look-back-at-how-it-happened-and-whats-changed/.
    `Archived <https://archive.md/NVeDV>`__.
 
-.. [N2] Ng, Alfred, and Musil, Steven. “Equifax Data Leak May Affect Nearly Half the US Population.” *CNET*, 8 Sept. 2017, 
+.. [N2] Ng, Alfred, and Musil, Steven. “Equifax Data Leak May Affect Nearly Half 
+   the US Population.” *CNET*, 8 Sept. 2017, 
    https://www.cnet.com/tech/services-and-software/equifax-data-leak-hits-nearly-half-of-the-us-population/.
    `Archived <https://archive.md/dH7ei>`__.
 
-.. [NL] Newman, Lily Hay. “How to Stop the Next Equifax-Style Megabreach-Or At Least Slow It Down.” *Wired*, Conde Nast, 12 Sept. 2017, 
+.. [NL] Newman, Lily Hay. “How to Stop the Next Equifax-Style Megabreach-Or At 
+   Least Slow It Down.” *Wired*, Conde Nast, 12 Sept. 2017, 
    https://www.wired.com/story/how-to-stop-breaches-equifax/.
    `Archived <https://archive.md/xL7vb>`__.
 
-.. [S] Shepardson, David. “Equifax Failed to Patch Security Vulnerability in March: Former CEO.” *Reuters*, Thomson Reuters, 2 Oct. 2017, 
+.. [S] Shepardson, David. “Equifax Failed to Patch Security Vulnerability in 
+   March: Former CEO.” *Reuters*, Thomson Reuters, 2 Oct. 2017, 
    https://www.reuters.com/article/us-equifax-breach/equifax-failed-to-patch-security-vulnerability-in-march-former-ceo-idUSKCN1C71VY.
    `Archived <https://archive.md/MJ7zq>`__.
 
-.. [T] Turcsányi, Gergő. “Deep Dive into the Equifax Breach and the Apache Struts Vulnerability.” *Avatao*, 
+.. [T] Turcsányi, Gergő. “Deep Dive into the Equifax Breach and the Apache Struts 
+   Vulnerability.” *Avatao*, 
    https://avatao.com/blog-deep-dive-into-the-equifax-breach-and-the-apache-struts-vulnerability/.
    `Archived <https://archive.md/LPy4G>`__.
    
-.. [V] Viswanatha, Aruna, et al. “Four Members of China's Military Indicted Over Massive Equifax Breach.”
-   *The Wall Street Journal*, Dow Jones & Company, 11 Feb. 2020,
+.. [V] Viswanatha, Aruna, et al. “Four Members of China's Military Indicted Over 
+   Massive Equifax Breach.” *The Wall Street Journal*, Dow Jones & Company, 11 
+   Feb. 2020,
    https://www.wsj.com/articles/four-members-of-china-s-military-indicted-for-massive-equifax-breach-11581346824.
    `Archived <https://archive.md/JDvB1>`__.
    
@@ -557,19 +610,20 @@ References
    Https://T.co/dB1bSAsE9h.” Twitter, Twitter, 10 Feb. 2020, 
    https://twitter.com/dnvolz/status/1226983668222132225. 
    `Archived <https://archive.md/Tpwmu>`__.
-   
-.. [W] Whittaker, Zack. “Equifax Confirms Apache Struts Flaw It Failed to Patch Was to Blame for Data Breach.” 
-   *ZDNet*, 13 Sept. 2017, 
+
+.. [W] Whittaker, Zack. “Equifax Confirms Apache Struts Flaw It Failed to Patch 
+   Was to Blame for Data Breach.” *ZDNet*, 13 Sept. 2017, 
    https://www.zdnet.com/article/equifax-confirms-apache-struts-flaw-it-failed-to-patch-was-to-blame-for-data-breach/.
    `Archived <https://archive.md/Qxreg>`__.
    
-.. [WE] Weise, Elizabeth, and Nathan Bomey. “Equifax Breach Hit 2.5 Million More Americans than First Believed.” 
-   *USA Today*, Gannett Satellite Information Network, 2 Oct. 2017, 
+.. [WE] Weise, Elizabeth, and Nathan Bomey. “Equifax Breach Hit 2.5 Million More 
+   Americans than First Believed.” *USA Today*, Gannett Satellite Information 
+   Network, 2 Oct. 2017, 
    https://www.usatoday.com/story/tech/2017/10/02/equifax-breach-hit-2-5-million-more-americans-than-first-believed/725100001/.
    `Archived <https://archive.md/TfhLK>`__.
    
-.. [WK] “2017 Equifax Data Breach.” *Wikipedia*, Wikimedia Foundation, 25 Oct. 2021, 
-   https://en.wikipedia.org/wiki/2017_Equifax_data_breach.
+.. [WK] “2017 Equifax Data Breach.” *Wikipedia*, Wikimedia Foundation, 25 Oct. 
+   2021, https://en.wikipedia.org/wiki/2017_Equifax_data_breach.
    
 .. URLs
 .. _29 July 2017: https://www.prnewswire.com/news-releases/equifax-announces-cybersecurity-incident-involving-consumer-information-300515960.html
