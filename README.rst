@@ -189,7 +189,7 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
 
    - The majority of the 9000 SQL queries [to the credit monitoring databases] 
      were issued by conspirators using two **China-based IP addresses** that 
-     connected directly to Equifax' s network. [DOJ2]_ (page 6, paragraph 9)
+     connected directly to Equifax' s network. [DOJ2]_ (*page 6, paragraph 9*)
 
      **NOTE:** the indictment doesn't name these two **China-based IP 
      addresses** like in other places of the document (e.g. China Server #1)
@@ -197,28 +197,28 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
      China-based IP address ("China Server #1"), which was repeatedly accessed 
      during the intrusion by WANG QIAN, logged into a Taiwanese IP address (
      "the Taiwan Server") via Remote Desktop Protocol software and copied the 
-     malicious file "jndi. txt." [DOJ2]_ (page 8, paragraph 14.e)
+     malicious file "jndi. txt." [DOJ2]_ (*page 8, paragraph 14.e*)
    - **China Server #2:** On or about July 7, 2017, another China-based IP 
      address ("China Server #2"), which was also repeatedly accessed during 
      the intrusion by WANG QIAN, exploited the Apache Struts vulnerability on 
-     Equifax' s online dispute portal. [DOJ2]_ (page 9, paragraph 14.j)
+     Equifax' s online dispute portal. [DOJ2]_ (*page 9, paragraph 14.j*)
    - **China Server #3:** On or about the same day and July 9, 2017, XUKE used 
      a different China-based IP address ("China Server #3") to conduct 
-     reconnaissance on Equifax' s online dispute portal. [DOJ2]_ (page 10, 
-     paragraph 14.k)
+     reconnaissance on Equifax' s online dispute portal. [DOJ2]_ (*page 10, 
+     paragraph 14.k*)
    - **China Server #4:** On or about July 10, 2017, a conspirator using 
      another China-based IP address ("China Server #4") logged into the Taiwan 
      Server and copied the malicious file "abc.txt" to the Taiwan Server. 
-     [DOJ2]_ (page 10, paragraph 14.l)
+     [DOJ2]_ (*page 10, paragraph 14.l*)
    - **China Server #5:** On or about July 10, 2017, a conspirator using 
      another China-based IP address ("China Server #5'') then utilized the 
      malicious web shell ''css.jsp," which was previously installed on 
      Equifax's network, to issue a command to download the "abc. txt" file 
-     from the Taiwan Server. [DOJ2]_ (page 10, paragraph 14.l)
+     from the Taiwan Server. [DOJ2]_ (*page 10, paragraph 14.l*)
    - **China Server #6:** On or about July 10, 2017, a conspirator who was 
      logged into another China-based IP address ("China Server #6") utilized 
      the malicious web shell ''boxover.jsp" to query an Equifax database table 
-     and store the results in output files. [DOJ2]_ (page 10, paragraph 14.n)
+     and store the results in output files. [DOJ2]_ (*page 10, paragraph 14.n*)
    
    `:information_source:`
 
@@ -235,15 +235,15 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
      The conspirators also allegedly accessed IP addresses from locations 
      outside of China:
    
-     - Switzerland ("the Swiss Server"), [DOJ2]_ (page 9, paragraph f)
+     - Switzerland ("the Swiss Server"), [DOJ2]_ (*page 9, paragraph f*)
      
        According to the DOJ `indictment`_, the Swiss Server was accessed 5 
        times by the conspirators.
-     - Taiwan, [DOJ2]_ (page 8, paragraph e)
+     - Taiwan ("the Taiwan Server"), [DOJ2]_ (*page 8, paragraph e*)
      
        According to the DOJ `indictment`_, the Taiwan Server was accessed 3
        times by the conspirators.
-     - Singapore ("the Singapore Server") [DOJ2]_ (page 11, paragraph o)
+     - Singapore ("the Singapore Server") [DOJ2]_ (*page 11, paragraph o*)
      
        According to the DOJ `indictment`_, the Singapore Server was accessed 2
        times by the conspirators.
