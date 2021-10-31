@@ -551,6 +551,10 @@ Links
   *USA Today*, Gannett Satellite Information Network, 10 Feb. 2020.
   `Archived <https://archive.md/tMyN3>`__.
   
+- Linder, Courtney. `“How Chinese Military Officers Allegedly Hacked Equifax.” 
+  <https://www.popularmechanics.com/technology/security/a30854291/equifax-data-breach-chinese-military/>`__
+  *Popular Mechanics*, 10 Feb. 2020. `Archived <https://archive.md/liXPo>`__.
+  
 - O'Neill, Patrick Howell. `“The US Says the Chinese Military Hacked Equifax. Here's How.” 
   <https://www.technologyreview.com/2020/02/10/349004/the-us-says-the-chinese-military-hacked-equifax-heres-how/>`__ 
   *MIT Technology Review*, 10 Feb. 2020. `Archived <https://archive.md/VINHI>`__.
