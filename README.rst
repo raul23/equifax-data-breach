@@ -329,7 +329,7 @@ four alleged PLA members and the data breach as promulgated by the DOJ:
   on state orders, or how it intends to bring them to a US court. 
 
 Also `tom's guide`_ asked important questions about the DOJ `indictment`_ 
-claiming that the four alleged Chinese hackers were members of the PLA:
+claiming that the four Chinese hackers were allegedly members of the PLA:
 
   It is not clear whether the four individuals are civilians working for the 
   PLA or active-duty members of the Chinese military. No military ranks were 
