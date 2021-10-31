@@ -769,7 +769,7 @@ References
 .. [VD] Volz, Dustin. “Prosecutors Said PLA's 54th Research Institute-Traditionally Focused 
    on Supporting Electronic Warfare Akin to Cyber Command as Opposed to Cyber Espionage-Was 
    behind the Hack, an Indication the Group's ‘Missions May Be Evolving," @EBKania Said. 
-   Https://T.co/dB1bSAsE9h.” Twitter, Twitter, 10 Feb. 2020, 
+   Https://T.co/dB1bSAsE9h.” *Twitter*, 10 Feb. 2020, 
    https://twitter.com/dnvolz/status/1226983668222132225. 
    `Archived <https://archive.md/Tpwmu>`__.
 
