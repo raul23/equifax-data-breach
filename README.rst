@@ -158,6 +158,8 @@ The US says members of the Chinese military hacked Equifax
     Atlanta Journal-Constitution)
   - `The US says the Chinese military hacked Equifax. Here’s how.`_ (MIT 
     Technology Review)
+  - `Report: Chinese Army Stole Over 13 Million British Citizens’ 
+    Personal Data`_ (Breitbart)
 
 The US indictment
 -----------------
@@ -865,6 +867,8 @@ References
    https://www.cbsnews.com/news/equifax-hack-chinese-military-members-charged-department-of-justice/
 .. _PDF: https://www.warren.senate.gov/imo/media/doc/2018.09.06%20GAO%20Equifax%20report.pdf
 .. _press release: https://www.justice.gov/opa/pr/chinese-military-personnel-charged-computer-fraud-economic-espionage-and-wire-fraud-hacking
+.. _Report\: Chinese Army Stole Over 13 Million British Citizens’ Personal Data:
+   https://www.breitbart.com/europe/2020/02/17/equifax-hack-china-stole-13-million-peoples-data-in-the-uk/
 .. _RT.com: https://www.rt.com/usa/480536-chinese-military-hackers-equifax/
 .. _Silicon.co.uk: https://www.silicon.co.uk/security/cyberwar/us-charges-chinese-military-equifax-hack-331572
 .. _The US says the Chinese military hacked Equifax. Here’s how.: 
