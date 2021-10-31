@@ -541,6 +541,11 @@ Links
   *The Washington Post*, WP Company, 20 Feb. 2020. 
   `Archived <https://archive.md/W7b4b>`__.
   
+- Godoy, Jody. `“Equifax Data Breach Settlement Objectors Lose Appeal.” 
+  <https://www.reuters.com/legal/litigation/equifax-data-breach-settlement-objectors-lose-appeal-2021-06-03/>`__ 
+  *Reuters*, Thomson Reuters, 3 June 2021.
+  `Archived <https://archive.md/frGxW>`__.
+  
 - “2017 Equifax Data Breach.” *Wikipedia*, Wikimedia Foundation, 25 Oct. 2021, 
   https://en.wikipedia.org/wiki/2017_Equifax_data_breach.
 
