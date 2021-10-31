@@ -295,20 +295,20 @@ data breach.
 - Some of the evidence is based on multiple IP addresses allegedly originating 
   from China.
 
-  It seems very sloppy for the four members of the PLA to allegedly log 
-  multiple times into Equifax's systems directly from Chinese-based IP 
+  It seems very sloppy for the four alleged members of the PLA to reportedly 
+  log multiple times into Equifax's systems directly from Chinese-based IP 
   addresses. These conspirators are not your average Joe that doesn't know much 
   about network forensics but are supposedly part of PLA's 54th Research 
   Institute which has traditionally focused on supporting electronic warfare 
   akin to Cyber Command as opposed to cyber espionage [VD]_. 
   
-  Therefore, these four accused members of the PLA should know very well how to 
+  Therefore, these four alleged members of the PLA should know very well how to 
   hide their tracks and use only IP addresses from outside China. 
   
-- Since it is extremely unlikely for the DOJ to arrest the four PLA members, 
-  the indictment can be very poor in the quality of the evidence. The case will 
-  not go in front of a judge and jury where the evidence presented by the 
-  prosecutors would have been scrutinized.
+- Since it is extremely unlikely for the DOJ to arrest the four alleged PLA 
+  members, the indictment can be very poor in the quality of the evidence. The 
+  case will not go in front of a judge and jury where the evidence presented by 
+  the prosecutors would have been scrutinized.
   
   Thus, the DOJ is not incentivized to gather solid evidence that could link 
   the four PLA members to the Equifax data breach:
@@ -321,14 +321,14 @@ Canada), you get the feeling that everyone just went along with the narrative of
 the DOJ that four PLA members are responsible for the Equifax data breach.
 
 However, `RT`_ is among the only news sites that questioned the link between the 
-four PLA members and the data breach as promulgated by the DOJ:
+four alleged PLA members and the data breach as promulgated by the DOJ:
 
   It remains unclear how the DOJ concluded that four members of the Chinese 
   military were responsible, whether they were supposedly acting on their own or 
   on state orders, or how it intends to bring them to a US court. 
 
 Also `tom's guide`_ asked important questions about the DOJ `indictment`_ 
-claiming that the four suspected Chinese hackers were members of the PLA:
+claiming that the four alleged Chinese hackers were members of the PLA:
 
   It is not clear whether the four individuals are civilians working for the 
   PLA or active-duty members of the Chinese military. No military ranks were 
@@ -337,7 +337,7 @@ claiming that the four suspected Chinese hackers were members of the PLA:
   up online by the FBI`_ shows photos allegedly of Wu and Xu wearing military 
   uniforms.)
 
-The following news articles
+.. The following news articles
 
 Equifax data breach by the numbers
 ==================================
