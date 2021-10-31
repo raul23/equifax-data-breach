@@ -321,7 +321,9 @@ four PLA members and the data breach as promulgated by the DOJ:
   It remains unclear how the DOJ concluded that four members of the Chinese 
   military were responsible, whether they were supposedly acting on their own or 
   on state orders, or how it intends to bring them to a US court. 
-  
+
+The following news articles
+
 Equifax data breach by the numbers
 ==================================
 .. raw:: html
@@ -347,7 +349,6 @@ Equifax data breach by the numbers
    <p><b>Chart from 
       <a href="https://www.businessinsider.com/how-equifax-compares-to-biggest-hacks-of-all-time-chart-2017-9">businessinsider.com</a></b></p>
    </div>   
-
    
 Other interesting information
 =============================
@@ -558,6 +559,11 @@ Links
   *USA Today*, Gannett Satellite Information Network, 10 Feb. 2020.
   `Archived <https://archive.md/tMyN3>`__.
   
+- Deschamps, Tara. `“Chinese Military Members Face Charges in Equifax Breach Impacting Canadians.” 
+  <https://www.ctvnews.ca/business/chinese-military-members-face-charges-in-equifax-breach-impacting-canadians-1.4805070>`__ 
+  *CTVNews*, 10 Feb. 2020.
+  `Archived <https://archive.md/Lzt3U>`__.
+  
 - Linder, Courtney. `“How Chinese Military Officers Allegedly Hacked Equifax.” 
   <https://www.popularmechanics.com/technology/security/a30854291/equifax-data-breach-chinese-military/>`__
   *Popular Mechanics*, 10 Feb. 2020. `Archived <https://archive.md/liXPo>`__.
@@ -565,6 +571,17 @@ Links
 - O'Neill, Patrick Howell. `“The US Says the Chinese Military Hacked Equifax. Here's How.” 
   <https://www.technologyreview.com/2020/02/10/349004/the-us-says-the-chinese-military-hacked-equifax-heres-how/>`__ 
   *MIT Technology Review*, 10 Feb. 2020. `Archived <https://archive.md/VINHI>`__.
+
+- The Associated Press. 
+  `“U.S. Charges 4 Chinese Military Hackers in Equifax Breach Probe | CBC News.” 
+  <https://www.cbc.ca/news/business/us-justice-charges-china-equifax-1.5458110>`__ 
+  *CBCnews*, CBC/Radio Canada, 10 Feb. 2020.
+  `Archived <https://archive.md/aSjVO>`__.
+
+- Tuckers, Eric, and Balsamo, Michael. 
+  `“4 Chinese Military Members Charged by U.S. in Equifax Breach - National.” 
+  <https://globalnews.ca/news/6530660/equifax-breach-chinese-military-charge/>`__ 
+  *Global News*, 10 Feb. 2020. `Archived <https://archive.md/Cj0Li>`__.
 
 - Viswanatha, Aruna, et al. `“Four Members of China's Military Indicted Over 
   Massive Equifax Breach.” 
