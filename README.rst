@@ -267,7 +267,7 @@ data breach.
   military uniforms in the pictures) civilians working for PLA's 54th Research 
   Institute or active-duty members of the PLA? What are their military ranks in 
   the PLA? Were they receiving orders from higher up or were they acting on 
-  their own? Where are those pictures provided in the indictment of three of 
+  their own? Where are those pictures provided in the `indictment`_ of three of 
   the four PLA members coming from? 
   
   .. raw:: html
@@ -290,7 +290,7 @@ data breach.
 
 - There is no explanation in the `indictment`_ how the US authorities came to 
   the conclusion that the four named PLA members were directly related to the 
-  network intrusions.
+  network intrusions of Equifax computers.
 
 - Some of the evidence is based on multiple IP addresses allegedly originating 
   from China.
