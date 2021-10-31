@@ -555,6 +555,13 @@ Links
   *FBI*, 10 Feb. 2020. `Archived#1 <https://archive.md/3qA8b>`__ (10 Feb. 2020) and 
   `Archived#2 <https://web.archive.org/web/20211020075542/https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute>`__ (20 Oct. 2021).
 
+- Fbi. “Wu Zhiyong, Wang Qian, Xu Ke, and Liu Lei Face Charges of Computer 
+  Fraud, Economic Espionage, and Wire Fraud for Their Role in One of the Largest 
+  Thefts of Personally Identifiable Information by State-Sponsored Hackers Ever 
+  Recorded. Https://T.co/KcZ8lOfpbd Pic.twitter.com/65vDyh4HTx.” 
+  *Twitter*, 10 Feb. 2020, https://twitter.com/FBI/status/1226896376971300865.
+  `Archived <https://archive.md/MSgsh>`__.
+
 - Baksh, Mariam. `“Chinese Military Officers Hacked Equifax, Justice Department Says.” 
   <https://www.defenseone.com/technology/2020/02/chinese-military-officers-hacked-equifax-justice-department-says/163013/>`__ 
   *Defense One*, Nextgov, 10 Feb. 2020.
