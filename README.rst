@@ -1,7 +1,7 @@
 ========================
 2017 Equifax data breach
 ========================
-.. "And how w"And how w"And how w"And how w"And how w"And how w"And how w"And how w
+.. "And how w"And how w"And how w"And how w"And how w"And how w"And how w"And howw
 
 .. raw:: html
 
@@ -37,9 +37,9 @@ Some important information
 - On May 13, 2017, the attackers hit the jackpot with Equifax's dispute portal, 
   where people could go to argue about claims. [N]_
 - The breach was discovered on `29 July 2017`_. [M]_
-- On September 7, 2017, Equifax, one of the largest credit reporting agencies in 
-  America, announced that an unauthorized third party gained access to Equifax 
-  data on as many as 143 million Americans. [M]_
+- On September 7, 2017, Equifax, one of the largest credit reporting agencies 
+  in America, announced that an unauthorized third party gained access to 
+  Equifax data on as many as 143 million Americans. [M]_
 - As a result, the `CEO`_, `CIO and CSO`_ had to go. [T]_
 - In both October 2017 [WE]_ and March 2018 [MM]_, Equifax reported that an 
   additional 2.5 and 2.4 million American consumer records were accessed, 
@@ -48,13 +48,14 @@ Some important information
 What kinds of data were accessed?
 =================================
 - The information accessed primarily includes names, Social Security numbers, 
-  birth dates, addresses and, in some instances, driver's license numbers. [E]_
+  birth dates, addresses and, in some instances, driver's license numbers. 
+  [E]_
   
   The driver's license data of around 10.9 million Americans were compromised. 
   [CM]_
 
-- In addition, credit card numbers for approximately 209,000 U.S. consumers, and 
-  certain dispute documents with personal identifying information for 
+- In addition, credit card numbers for approximately 209,000 U.S. consumers, 
+  and certain dispute documents with personal identifying information for 
   approximately 182,000 U.S. consumers, were accessed. [E]_
   
 - Equifax also identified unauthorized access to limited personal information 
@@ -71,6 +72,7 @@ What kinds of data were accessed?
 How was the data breached?
 ========================
 `:information_source:`
+
   On 7 September 2018, US lawmakers released a report (`PDF`_ and `archive`_) 
   detailing exactly how the credit-monitoring company was hacked.
   
@@ -86,15 +88,15 @@ By exploiting a vulnerability on one of the company's U.S.-based web servers.
 It seems that the underlying legacy codebase that handled the [Equifax] web 
 application was vulnerable enough for an attacker to exploit. [M]_
 
-1. Hackers used an Apache Struts vulnerability (`CVE-2017-5638`_), `a months-old 
-   issue that Equifax knew about but failed to fix`_, and gained access to 
-   internal login credentials (for Equifax employees) for three servers. Those 
-   credentials allowed them to access 
-   48 credit monitoring databases containing personal information. [N]_ [T]_
+1. Hackers used an Apache Struts vulnerability (`CVE-2017-5638`_), `a 
+   months-old issue that Equifax knew about but failed to fix`_, and gained 
+   access to internal login credentials (for Equifax employees) for three 
+   servers. Those credentials allowed them to access 48 credit monitoring 
+   databases containing personal information. [N]_ [T]_
 2. They searched the databases about 9,000 times for sensitive personal 
    information while hiding the searches through encryption. [B]_
-3. They stuffed the personal information in temporary files, compressed them and 
-   divided them into smaller-sized files to increase their chances of 
+3. They stuffed the personal information in temporary files, compressed them 
+   and divided them into smaller-sized files to increase their chances of 
    transmitting the stolen data without being noticed. [B]_ [N]_
 4. They used 34 servers in 20 countries during the breach and employed various 
    other techniques, such as remote-desktop access and encrypted log-ins, to 
@@ -102,8 +104,8 @@ application was vulnerable enough for an attacker to exploit. [M]_
 5. They deleted the compressed files after transferring the data into external 
    storage, then configured settings to wipe out information tracking their 
    activity. [B]_
-6. The thieves spent 76 days within Equifax's network before they were detected. 
-   [N]_
+6. The thieves spent 76 days within Equifax's network before they were 
+   detected. [N]_
 
 `:information_source:`
 
@@ -131,19 +133,20 @@ The US says members of the Chinese military hacked Equifax
   The United States Department of Justice (DOJ) is very careful not to imply 
   that the Chinese army is directly responsible for the data breach.
   Thus, the `DOJ indictment`_ and their `press release`_ target specifically 
-  members of the Chinese People’s Liberation Army (PLA); more precisely they are 
-  part of PLA’s 54th Research Institute, a component of the Chinese military.
+  members of the Chinese People’s Liberation Army (PLA); more precisely they 
+  are part of PLA’s 54th Research Institute, a component of the Chinese 
+  military.
   
   The majority of mainstream news sites are also careful in their titles so as 
   to be specific in who are being accused by the DOJ:
 
   - `Chinese Military Hackers Charged in Equifax Breach`_ (FBI News)
-  - `Chinese Military Officers Hacked Equifax, Justice Department Say`_ (Defense 
-    One)
+  - `Chinese Military Officers Hacked Equifax, Justice Department Say`_ (
+    Defense One)
   - `Equifax: US charges four Chinese military officers over huge hack`_ (BBC 
     News)
-  - `Four Members of China's Military Indicted for Massive Equifax Breach`_ (The 
-    Wall Street Journal)
+  - `Four Members of China's Military Indicted for Massive Equifax Breach`_ (
+    The Wall Street Journal)
   - `Justice Department charges 4 members of Chinese military for massive 
     Equifax hack`_ (CBS NEWS)
   - `U.S. Charges Chinese Military Officers in 2017 Equifax Hacking`_ (The New 
@@ -166,12 +169,12 @@ From the DOJ's press release about the `indictment`_
 (`archive <https://web.archive.org/web/20210725031951/https://www.justice.gov/opa/press-release/file/1246891/download>`__) 
 of the four Chinese military members [DOJ]_:
 
-  The nine-count indictment alleges that Wu Zhiyong (吴志勇), Wang Qian (王乾), Xu 
-  Ke (许可) and Liu Lei (刘磊) were members of the PLA’s 54th Research Institute, 
-  a component of the Chinese military.  They allegedly conspired with each other 
-  to hack into Equifax’s computer networks, maintain unauthorized access to 
-  those computers, and steal sensitive, personally identifiable information of 
-  approximately 145 million American victims. 
+  The nine-count indictment alleges that Wu Zhiyong (吴志勇), Wang Qian (王乾), 
+  Xu Ke (许可) and Liu Lei (刘磊) were members of the PLA’s 54th Research 
+  Institute, a component of the Chinese military.  They allegedly conspired 
+  with each other to hack into Equifax’s computer networks, maintain 
+  unauthorized access to those computers, and steal sensitive, personally 
+  identifiable information of approximately 145 million American victims. 
 
 DOJ evidence that China's military personnel are behind the Equifax data breach
 -------------------------------------------------------------------------------
@@ -192,28 +195,34 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
      addresses** like in other places of the document (e.g. China Server #1)
    - **China Server #1:** On or about June 16, 2017, a conspirator using a 
      China-based IP address ("China Server #1"), which was repeatedly accessed 
-     during the intrusion by WANG QIAN, logged into a Taiwanese IP address ("the 
-     Taiwan Server") via Remote Desktop Protocol software and copied the 
+     during the intrusion by WANG QIAN, logged into a Taiwanese IP address (
+     "the Taiwan Server") via Remote Desktop Protocol software and copied the 
      malicious file "jndi. txt." []_ page 8, paragraph e
-   - **China Server #2:** On or about the same day [of July 7, 2017], another China-based IP address 
-     ("China Server #2"), which was also repeatedly accessed during the intrusion by WANG QIAN, exploited 
-     the Apache Struts vulnerability on Equifax' s online dispute portal. 
-   - **China Server #3:** On or about the same day and July 9, 2017, XUKE used a 
-     different China-based IP address ("China Server #3") to conduct reconnaissance on Equifax' s online dispute portal. 
-   - **China Server #4:** On or about July 10, 2017, a conspirator using another China-based IP address 
-     ("China Server #4") logged into the Taiwan Server and copied the malicious file "abc.txt" to the Taiwan Server.
-   - **China Server #5:** On or about July 10, 2017, a conspirator using another China-based IP address ("China Server #5'') then utilized
-     the malicious web shell ''css.jsp," which was previously installed on Equifax' s network, to issue a command 
-     to download the "abc. txt" file from the Taiwan Server.
-   - **China Server #6:** On or about the same day [of July 10, 2017], a conspirator who was logged into another China-based IP address 
-     ("China Server #6") utilized the malicious web shell ''boxover.jsp" to query an Equifax database 
-     table and store the results in output files.
+   - **China Server #2:** On or about the same day [of July 7, 2017], another 
+     China-based IP address ("China Server #2"), which was also repeatedly 
+     accessed during the intrusion by WANG QIAN, exploited the Apache Struts 
+     vulnerability on Equifax' s online dispute portal. 
+   - **China Server #3:** On or about the same day and July 9, 2017, XUKE used 
+     a different China-based IP address ("China Server #3") to conduct 
+     reconnaissance on Equifax' s online dispute portal. 
+   - **China Server #4:** On or about July 10, 2017, a conspirator using 
+     another China-based IP address ("China Server #4") logged into the Taiwan 
+     Server and copied the malicious file "abc.txt" to the Taiwan Server.
+   - **China Server #5:** On or about July 10, 2017, a conspirator using 
+     another China-based IP address ("China Server #5'') then utilized the 
+     malicious web shell ''css.jsp," which was previously installed on 
+     Equifax's network, to issue a command to download the "abc. txt" file 
+     from the Taiwan Server.
+   - **China Server #6:** On or about the same day [of July 10, 2017], a 
+     conspirator who was logged into another China-based IP address ("China 
+     Server #6") utilized the malicious web shell ''boxover.jsp" to query an 
+     Equifax database table and store the results in output files.
    
    `:information_source:`
 
      Reading the `indictment`_, you have the impression that the US authorities 
-     were somehow able to exactly pinpoint who among the four members of the PLA 
-     logged to Equifax's network at a particular time of the day.
+     were somehow able to exactly pinpoint who among the four members of the 
+     PLA logged to Equifax's network at a particular time of the day.
      
      However for some other days of the attack, the US investigators lose their 
      special talent to exactly identify who is logging into Equifax's network 
