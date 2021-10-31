@@ -572,6 +572,11 @@ Links
   Recorded. Https://T.co/KcZ8lOfpbd Pic.twitter.com/65vDyh4HTx.” 
   *Twitter*, 10 Feb. 2020, https://twitter.com/FBI/status/1226896376971300865.
   `Archived <https://archive.md/MSgsh>`__.
+  
+- Associated Press. `“US Charges 4 Chinese Military Members in Equifax Breach.” 
+  <https://www.dailymail.co.uk/news/article-7987465/US-charges-4-Chinese-military-hackers-Equifax-breach.html>`__ 
+  *Daily Mail Online*, Associated Newspapers, 10 Feb. 2020.
+  `Archived <https://archive.md/pzBkl>`__.
 
 - Baksh, Mariam. `“Chinese Military Officers Hacked Equifax, Justice Department Says.” 
   <https://www.defenseone.com/technology/2020/02/chinese-military-officers-hacked-equifax-justice-department-says/163013/>`__ 
@@ -604,6 +609,11 @@ Links
 - Martin, Alexander. `“US Charges Chinese Military Hackers with Equifax Breach.” 
   <https://news.sky.com/story/us-charges-chinese-military-hackers-with-equifax-breach-11930927>`__ 
   *Sky News*, 10 Feb. 2020. `Archived <https://archive.md/jgrRQ>`__.
+  
+- News Wires. `“US Charges Four Chinese Military Officers in 2017 Equifax Hack.” 
+  <https://www.france24.com/en/20200210-us-charges-four-chinese-military-officers-in-2017-equifax-hack>`__ 
+  *France 24*, 10 Feb. 2020.
+  `Archived <https://archive.md/9Ncmj>`__.
   
 - O'Neill, Patrick Howell. `“The US Says the Chinese Military Hacked Equifax. Here's How.” 
   <https://www.technologyreview.com/2020/02/10/349004/the-us-says-the-chinese-military-hacked-equifax-heres-how/>`__ 
