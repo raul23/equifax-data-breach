@@ -473,6 +473,11 @@ Links
   *CBS News*, CBS Interactive, 8 Apr. 2018. `Archived 
   <https://archive.md/u7r1U>`__.
 
+- “Criminal Indictment: UNITED STATES OF AMERICA *v.* WU ZHIYONG, WANG 
+  QIAN, XUKE, LIU LEI” *The United States Department of Justice*, 28 Jan. 
+  2020, https://www.justice.gov/opa/press-release/file/1246891/download (PDF).
+  `Archived <https://web.archive.org/web/20210702191105/https://www.justice.gov/opa/press-release/file/1246891/download>`__.
+
 - Bomey, Nathan. `“How Chinese Military Hackers Allegedly Pulled off the Equifax Data Breach, Stealing Data from 145 Million Americans.” 
   <https://www.usatoday.com/story/tech/2020/02/10/2017-equifax-data-breach-chinese-military-hack/4712788002/>`__
   *USA Today*, Gannett Satellite Information Network, 10 Feb. 2020.
@@ -537,6 +542,11 @@ References
    Department of Justice*, 13 Feb. 2020,
    https://www.justice.gov/opa/pr/chinese-military-personnel-charged-computer-fraud-economic-espionage-and-wire-fraud-hacking.
    `Archived <https://archive.md/JtDCY>`__.
+   
+.. [DOJ2] “Criminal Indictment: UNITED STATES OF AMERICA *v.* WU ZHIYONG, WANG 
+   QIAN, XUKE, LIU LEI” *The United States Department of Justice*, 28 Jan. 
+   2020, https://www.justice.gov/opa/press-release/file/1246891/download (PDF).
+   `Archived <https://web.archive.org/web/20210702191105/https://www.justice.gov/opa/press-release/file/1246891/download>`__.
 
 .. [E] Inc., Equifax. “Equifax Announces Cybersecurity Incident Involving 
    Consumer Information.“ *PrNewsWire*, 7 Sept. 2017, 
