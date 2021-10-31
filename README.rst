@@ -583,8 +583,13 @@ Links
   *Reuters*, Thomson Reuters, 3 June 2021.
   `Archived <https://archive.md/frGxW>`__.
   
-- “2017 Equifax Data Breach.” *Wikipedia*, Wikimedia Foundation, 25 Oct. 2021, 
-  https://en.wikipedia.org/wiki/2017_Equifax_data_breach.
+- `“2017 Equifax Data Breach.” 
+  <https://en.wikipedia.org/wiki/2017_Equifax_data_breach>`__ 
+  *Wikipedia*, Wikimedia Foundation, 25 Oct. 2021.
+  
+- `“Fourth Department of the General Staff Headquarters Department.” 
+  <https://en.wikipedia.org/wiki/Fourth_Department_of_the_General_Staff_Headquarters_Department>`__ 
+  *Wikipedia*, Wikimedia Foundation, 29 Oct. 2020.
 
 - `“Equifax Data Breach Lawsuit.” 
   <https://www.forthepeople.com/class-action-lawyers/equifax-data-breach-lawsuit/>`__ 
