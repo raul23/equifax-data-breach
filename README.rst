@@ -220,14 +220,15 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
      and store the results in output files. [DOJ2]_ (*page 10, paragraph 14.n*)
    
    `:information_source:`
-
-     Reading the DOJ `indictment`_, you have the impression that the US authorities 
-     were somehow able to exactly pinpoint who among the four members of the 
-     PLA logged to Equifax's network at a particular time of the day.
+   
+     Reading the DOJ `indictment`_, you have the impression that the US 
+     authorities were somehow able to exactly pinpoint who among the four 
+     alleged members of the PLA logged to Equifax's network at a particular 
+     time of the day.
      
-     However for some other days of the attack, the US investigators lose their 
-     special talent to exactly identify who is logging into Equifax's network 
-     and instead used the word "conspirator".
+     However for some other days of the attack, the US investigators lose 
+     their special talent to exactly identify who is logging into Equifax's 
+     network and instead used the word "conspirator".
    
    `:information_source:`
 
@@ -250,7 +251,7 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
 Weak evidence
 -------------
 The evidence gathered from the DOJ `indictment`_ is very weak to support the 
-claim that four members of the PLA were the perpetrators of the Equifax 
+claim that four alleged members of the PLA were the perpetrators of the Equifax 
 data breach.
 
 - No much information is given about the four suspected PLA members: Wu Zhiyong 
@@ -289,7 +290,7 @@ data breach.
      </div>
 
 - There is no explanation in the `indictment`_ how the US authorities came to 
-  the conclusion that the four named PLA members were directly related to the 
+  the conclusion that the four alleged PLA members were directly related to the 
   network intrusions of Equifax computers.
 
 - Some of the evidence is based on multiple IP addresses allegedly originating 
@@ -302,8 +303,8 @@ data breach.
   Institute which has traditionally focused on supporting electronic warfare 
   akin to Cyber Command as opposed to cyber espionage [VD]_. 
   
-  Therefore, these four alleged members of the PLA should know very well how to 
-  hide their tracks and use only IP addresses from outside China. 
+  Therefore, these four alleged PLA members should know very well how to hide 
+  their tracks and use only IP addresses from outside China. 
   
 - Since it is extremely unlikely for the DOJ to arrest the four alleged PLA 
   members, the indictment can be very poor in the quality of the evidence. The 
