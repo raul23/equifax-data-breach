@@ -507,6 +507,11 @@ Links
   <https://www.cbsnews.com/news/equifax-breach-exposes-data-for-143-million-consumers/>`__
   *CBS News*, CBS Interactive, 8 Apr. 2018. `Archived 
   <https://archive.md/u7r1U>`__.
+  
+- Cimpanu, Catalin. `“US Government Releases Post-Mortem Report on Equifax Hack.” 
+  <https://www.zdnet.com/article/us-government-releases-post-mortem-report-on-equifax-hack/>`__ 
+  *ZDNet*, 7 Sept. 2018.
+  `Archived <https://archive.md/vhgUj>`__.
 
 - O'Flaherty, Kate. `“Equifax Lawsuit: 'Admin' As Password At Time Of 2017 Breach.” 
   <https://www.forbes.com/sites/kateoflahertyuk/2019/10/20/equifax-lawsuit-reveals-terrible-security-practices-at-time-of-2017-breach/>`__ 
@@ -529,8 +534,12 @@ Links
 
 - Baksh, Mariam. `“Chinese Military Officers Hacked Equifax, Justice Department Says.” 
   <https://www.defenseone.com/technology/2020/02/chinese-military-officers-hacked-equifax-justice-department-says/163013/>`__ 
-  *Defense One*, Nextgov, 10 Feb. 2021.
+  *Defense One*, Nextgov, 10 Feb. 2020.
   `Archived <https://archive.md/esWq6>`__.
+
+- Barrett, Brian. `“How 4 Chinese Hackers Allegedly Took Down Equifax.” 
+  <https://www.wired.com/story/equifax-hack-china/>`__ 
+  *Wired*, Conde Nast, 10 Feb. 2020. `Archived <https://archive.md/wj8kZ>`__.
 
 - Benner, Katie. `“U.S. Charges Chinese Military Officers in 2017 Equifax Hacking.” 
   <https://www.nytimes.com/2020/02/10/us/politics/equifax-hack-china.html>`__ 
