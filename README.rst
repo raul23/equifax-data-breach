@@ -604,6 +604,10 @@ Links
   *The Wall Street Journal*, Dow Jones & Company, 10 Feb. 2020.
   `Archived 
   <https://web.archive.org/web/20211009220413/https://www.wsj.com/articles/four-members-of-china-s-military-indicted-for-massive-equifax-breach-11581346824>`__.
+  
+- Wagenseil, Paul. `“Equifax Data Breach Was China's Doing, According to the US Government.” 
+  <https://www.tomsguide.com/uk/news/equifax-hack-china-charges>`__ 
+  *Tom's Guide*, 10 Feb. 2020. `Archived <https://archive.md/Pq3ut>`__.
 
 - `“Data from Equifax Credit Hack Could ‘End up on the Black Market," Expert Warns.” 
   <https://www.cbsnews.com/news/china-denies-responsibility-in-equifax-breach-after-doj-charges-four-military-members/>`__ 
