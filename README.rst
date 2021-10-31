@@ -326,7 +326,7 @@ four alleged PLA members and the data breach as promulgated by the DOJ:
 
   It remains unclear how the DOJ concluded that four members of the Chinese 
   military were responsible, whether they were supposedly acting on their own or 
-  on state orders, or how it intends to bring them to a US court. 
+  on state orders, or how it intends to bring them to a US court. [RT]_
 
 Also `tom's guide`_ asked important questions about the DOJ `indictment`_ 
 claiming that the four Chinese hackers were allegedly members of the PLA:
@@ -336,7 +336,7 @@ claiming that the four Chinese hackers were allegedly members of the PLA:
   given for any of the defendants in the indictment, but the four were said to 
   be members of the PLA's 54th Research Institute. (Update: A `wanted poster put 
   up online by the FBI`_ shows photos allegedly of Wu and Xu wearing military 
-  uniforms.)
+  uniforms.) [WP]_
 
 .. The following news articles
 
@@ -595,6 +595,10 @@ Links
   <https://www.technologyreview.com/2020/02/10/349004/the-us-says-the-chinese-military-hacked-equifax-heres-how/>`__ 
   *MIT Technology Review*, 10 Feb. 2020. `Archived <https://archive.md/VINHI>`__.
 
+- RT. `“Blaming Beijing: US Charges 4 Chinese Military Personnel over Massive Equifax Hack.” 
+  <https://www.rt.com/usa/480536-chinese-military-hackers-equifax/>`__ 
+  *RT International*, 10 Feb. 2020. `Archived <https://archive.md/dEYcR>`__.
+
 - The Associated Press. 
   `“U.S. Charges 4 Chinese Military Hackers in Equifax Breach Probe | CBC News.” 
   <https://www.cbc.ca/news/business/us-justice-charges-china-equifax-1.5458110>`__ 
@@ -749,6 +753,11 @@ References
    Least Slow It Down.” *Wired*, Conde Nast, 12 Sept. 2017, 
    https://www.wired.com/story/how-to-stop-breaches-equifax/.
    `Archived <https://archive.md/xL7vb>`__.
+   
+.. [RT] “Blaming Beijing: US Charges 4 Chinese Military Personnel over Massive Equifax Hack.” 
+   *RT International*, 10 Feb. 2020,
+   https://www.rt.com/usa/480536-chinese-military-hackers-equifax/.
+   `Archived <https://archive.md/dEYcR>`__.
 
 .. [S] Shepardson, David. “Equifax Failed to Patch Security Vulnerability in 
    March: Former CEO.” *Reuters*, Thomson Reuters, 2 Oct. 2017, 
@@ -788,6 +797,11 @@ References
 .. [WK] “2017 Equifax Data Breach.” *Wikipedia*, Wikimedia Foundation, 25 Oct. 
    2021, https://en.wikipedia.org/wiki/2017_Equifax_data_breach.
    
+.. [WP] Wagenseil, Paul. “Equifax Data Breach Was China's Doing, According to the US Government.” 
+   *Tom's Guide*, 10 Feb. 2020, 
+   https://www.tomsguide.com/uk/news/equifax-hack-china-charges. 
+   `Archived <https://archive.md/Pq3ut>`__.
+
 .. URLs
 .. _29 July 2017: https://www.prnewswire.com/news-releases/equifax-announces-cybersecurity-incident-involving-consumer-information-300515960.html
 .. _a months-old issue that Equifax knew about but failed to fix: https://www.cnet.com/news/equifax-ceo-data-breach-heres-what-went-wrong/
