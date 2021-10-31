@@ -79,8 +79,7 @@ How was the data breached?
   The report comes from the Government Accountability Office (GAO), the agency 
   that provides auditing and investigative services for Congess.
   
-  **Ref.:** `cnet.com 
-  <https://www.cnet.com/tech/services-and-software/equifaxs-hack-one-year-later-a-look-back-at-how-it-happened-and-whats-changed/>`__
+**Ref.:** `cnet.com <https://www.cnet.com/tech/services-and-software/equifaxs-hack-one-year-later-a-look-back-at-how-it-happened-and-whats-changed/>`__
 
 By exploiting a vulnerability on one of the company's U.S.-based web servers. 
 [M]_
