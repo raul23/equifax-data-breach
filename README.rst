@@ -165,7 +165,7 @@ The US indictment
 On February 10, 2020, the DOJ indicted four members of 
 China's military on nine charges related to the hack. [DOJ]_
 
-From the DOJ's press release about the `indictment`_ 
+From the DOJ press release about the `indictment`_ 
 (`archive <https://web.archive.org/web/20210725031951/https://www.justice.gov/opa/press-release/file/1246891/download>`__) 
 of the four Chinese military members [DOJ]_:
 
