@@ -519,7 +519,7 @@ Links
 
 - Baksh, Mariam. `“Chinese Military Officers Hacked Equifax, Justice Department Says.” 
   <https://www.defenseone.com/technology/2020/02/chinese-military-officers-hacked-equifax-justice-department-says/163013/>`__ 
-  *Defense One*, Nextgov, 13 Apr. 2021.
+  *Defense One*, Nextgov, 10 Feb. 2021.
   `Archived <https://archive.md/esWq6>`__.
 
 - Benner, Katie. `“U.S. Charges Chinese Military Officers in 2017 Equifax Hacking.” 
@@ -534,24 +534,26 @@ Links
   
 - O'Neill, Patrick Howell. `“The US Says the Chinese Military Hacked Equifax. Here's How.” 
   <https://www.technologyreview.com/2020/02/10/349004/the-us-says-the-chinese-military-hacked-equifax-heres-how/>`__ 
-  *MIT Technology Review*, 10 Feb. 2020.
-  `Archived <https://archive.md/VINHI>`__.
-
-- `“Data from Equifax Credit Hack Could ‘End up on the Black Market," Expert Warns.” 
-  <https://www.cbsnews.com/news/china-denies-responsibility-in-equifax-breach-after-doj-charges-four-military-members/>`__ 
-  *CBS News*, CBS Interactive, 11 Feb. 2020.
-  `Archived <https://archive.md/7F470>`__.
-
-- Hymes, Clare, and Becket, Stepan. `“Justice Department Charges 4 Members of Chinese Military for Massive Equifax Hack.” 
-  <https://www.cbsnews.com/news/equifax-hack-chinese-military-members-charged-department-of-justice/>`__
-  *CBS News*, CBS Interactive, 11 Feb. 2020.
-  `Archived <https://archive.md/NZZIs>`__.
+  *MIT Technology Review*, 10 Feb. 2020. `Archived <https://archive.md/VINHI>`__.
 
 - Viswanatha, Aruna, et al. `“Four Members of China's Military Indicted Over 
   Massive Equifax Breach.” 
   <https://www.wsj.com/articles/four-members-of-china-s-military-indicted-for-massive-equifax-breach-11581346824>`__ 
-  *The Wall Street Journal*, Dow Jones & Company, 11 Feb. 2020.
-  `Archived <https://archive.md/JDvB1>`__.
+  *The Wall Street Journal*, Dow Jones & Company, 10 Feb. 2020.
+  `Archived 
+  <https://web.archive.org/web/20211009220413/https://www.wsj.com/articles/four-members-of-china-s-military-indicted-for-massive-equifax-breach-11581346824>`__.
+
+- `“Data from Equifax Credit Hack Could ‘End up on the Black Market," Expert Warns.” 
+  <https://www.cbsnews.com/news/china-denies-responsibility-in-equifax-breach-after-doj-charges-four-military-members/>`__ 
+  *CBS News*, CBS Interactive, 11 Feb. 2020. `Archived <https://archive.md/7F470>`__.
+  
+- `“Equifax: US Charges Four Chinese Military Officers over Huge Hack.” 
+  <https://www.bbc.com/news/world-us-canada-51449778>`__ 
+  *BBC News*, BBC, 11 Feb. 2020. `Archived <https://archive.md/6kwbg>`__.
+
+- Hymes, Clare, and Becket, Stepan. `“Justice Department Charges 4 Members of Chinese Military for Massive Equifax Hack.” 
+  <https://www.cbsnews.com/news/equifax-hack-chinese-military-members-charged-department-of-justice/>`__
+  *CBS News*, CBS Interactive, 11 Feb. 2020. `Archived <https://archive.md/NZZIs>`__.
 
 - `“Press Release: Chinese Military Personnel Charged with Computer Fraud, 
   Economic Espionage and Wire Fraud for Hacking into Credit Reporting Agency 
@@ -687,10 +689,11 @@ References
    `Archived <https://archive.md/LPy4G>`__.
    
 .. [V] Viswanatha, Aruna, et al. “Four Members of China's Military Indicted Over 
-   Massive Equifax Breach.” *The Wall Street Journal*, Dow Jones & Company, 11 
+   Massive Equifax Breach.” *The Wall Street Journal*, Dow Jones & Company, 10 
    Feb. 2020,
    https://www.wsj.com/articles/four-members-of-china-s-military-indicted-for-massive-equifax-breach-11581346824.
-   `Archived <https://archive.md/JDvB1>`__.
+   `Archived 
+   <https://web.archive.org/web/20211009220413/https://www.wsj.com/articles/four-members-of-china-s-military-indicted-for-massive-equifax-breach-11581346824>`__.
    
 .. [VD] Volz, Dustin. “Prosecutors Said PLA's 54th Research Institute-Traditionally Focused 
    on Supporting Electronic Warfare Akin to Cyber Command as Opposed to Cyber Espionage-Was 
