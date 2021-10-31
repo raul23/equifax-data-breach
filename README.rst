@@ -363,6 +363,19 @@ Other interesting information
 - `Apache Struts`_ is used across the Fortune 100 to provide web applications 
   in Java, and it powers front- and back-end applications, including Equifax's 
   public website. [W]_
+  
+- `Equifax Lawsuit: ‘Admin’ As Password At Time Of 2017 Breach`_
+
+    According to the `filing`_ in the U.S. District Court for the Northern 
+    District of Georgia, Atlanta Division, Equifax was protecting sensitive 
+    personal information on a portal used to manage credit disputes with the 
+    username “admin.”   
+    
+    The lawsuit also points out that Equifax was storing unencrypted user data 
+    on a public facing server–so it could have been viewed by any attacker who 
+    chose to compromise it. Meanwhile, Equifax didn’t encrypt its mobile 
+    applications either–and when it did encrypt data, it left the encryption 
+    keys on the same public facing servers.
  
 - The US officials said that it was important to name the four PLA members 
   because according to them it will help to publicly shame them. But it is 
@@ -482,6 +495,10 @@ Links
   <https://www.cbsnews.com/news/equifax-breach-exposes-data-for-143-million-consumers/>`__
   *CBS News*, CBS Interactive, 8 Apr. 2018. `Archived 
   <https://archive.md/u7r1U>`__.
+
+- O'Flaherty, Kate. `“Equifax Lawsuit: 'Admin' As Password At Time Of 2017 Breach.” 
+  <https://www.forbes.com/sites/kateoflahertyuk/2019/10/20/equifax-lawsuit-reveals-terrible-security-practices-at-time-of-2017-breach/>`__ 
+  *Forbes*, Forbes Magazine, 21 Oct. 2019. `Archived <https://archive.md/DbHFJ>`__.
 
 - “Criminal Indictment: UNITED STATES OF AMERICA *v.* WU ZHIYONG, WANG 
   QIAN, XUKE, LIU LEI” *The United States Department of Justice*, 28 Jan. 
@@ -669,7 +686,10 @@ References
 .. _DOJ indictment: https://www.justice.gov/opa/press-release/file/1246891/download
 .. _Equifax\: US charges four Chinese military officers over huge hack: 
    https://www.bbc.com/news/world-us-canada-51449778
+.. _Equifax Lawsuit\: ‘Admin’ As Password At Time Of 2017 Breach: 
+   https://www.forbes.com/sites/kateoflahertyuk/2019/10/20/equifax-lawsuit-reveals-terrible-security-practices-at-time-of-2017-breach/
 .. _FBI most wanted: https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute
+.. _filing: https://web.archive.org/web/20210112015402/http://securities.stanford.edu/filings-documents/1063/EI00_15/2019128_r01x_17CV03463.pdf
 .. _Four Members of China's Military Indicted for Massive Equifax Breach: 
    https://www.wsj.com/articles/four-members-of-china-s-military-indicted-for-massive-equifax-breach-11581346824
 .. _indictment: https://www.justice.gov/opa/press-release/file/1246891/download
