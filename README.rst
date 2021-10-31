@@ -312,7 +312,7 @@ data breach.
   the prosecutors would have been scrutinized.
   
   Thus, the DOJ is not incentivized to gather solid evidence that could link 
-  the four PLA members to the Equifax data breach:
+  the four alleged PLA members to the Equifax data breach:
   
     Officials acknowledged they were unlikely to face prosecution in a U.S. 
     courtroom. [V]_ 
