@@ -263,8 +263,9 @@ data breach.
   indictment, Beijing is referred in the past:
   
     Defendents [...] were residents of Beijing, China and members of the 54th 
-    Research Institute, which was a component of the PLA. [DOJ2]_ (pages 3-4, 
-    parapraph 5.d)
+    Research Institute, which was a component of the PLA. 
+    
+  **Ref.:** [DOJ2]_ (pages 3-4, parapraph 5.d)
     
   Thus, the whereabouts of the suspects are uncertain.
   
