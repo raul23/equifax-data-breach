@@ -252,13 +252,16 @@ Weak evidence
 The evidence gathered from the DOJ `indictment`_ is very weak to support the 
 claim that four members of the PLA were the perpetrators of the Equifax 
 data breach.
+
+- No much information is given about the four suspected PLA members: Wu Zhiyong 
+  (吴志勇), Wang Qian (王乾), Xu Ke (许可) and Liu Lei (刘磊).
   
-- No much information is given about the four PLA members: Wu Zhiyong (吴志勇), 
-  Wang Qian (王乾), Xu Ke (许可) and Liu Lei (刘磊).
-  
-  The DOJ `indictment`_, their `press release`_ and mainstream news articles only 
-  provide their names and pictures. Even their `FBI most wanted`_ poster only 
-  give their names.
+  The DOJ `indictment`_ and mainstream news articles only provide their names, 
+  pictures, and Beijing, China as their location of residence. Their 
+  `FBI most wanted`_ poster and the `FBI news article`_ only give their names 
+  and pictures but don't mention Beijing which should have been included since 
+  it is presumably an important information for people to help the FBI identify 
+  the four suspects.
   
   How old are they? What are their ranks in the Chinese military? Were they 
   receiving orders from higher up or were they acting on their own? Where are 
@@ -779,6 +782,7 @@ References
 .. _Equifax Lawsuit\: ‘Admin’ As Password At Time Of 2017 Breach: 
    https://www.forbes.com/sites/kateoflahertyuk/2019/10/20/equifax-lawsuit-reveals-terrible-security-practices-at-time-of-2017-breach/
 .. _FBI most wanted: https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute
+.. _FBI news article: https://www.fbi.gov/news/stories/chinese-hackers-charged-in-equifax-breach-021020
 .. _filing: https://web.archive.org/web/20210112015402/http://securities.stanford.edu/filings-documents/1063/EI00_15/2019128_r01x_17CV03463.pdf
 .. _Four Members of China's Military Indicted for Massive Equifax Breach: 
    https://www.wsj.com/articles/four-members-of-china-s-military-indicted-for-massive-equifax-breach-11581346824
