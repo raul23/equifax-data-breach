@@ -376,6 +376,14 @@ Other interesting information
     chose to compromise it. Meanwhile, Equifax didn’t encrypt its mobile 
     applications either–and when it did encrypt data, it left the encryption 
     keys on the same public facing servers.
+    
+  .. raw:: html
+
+     <div align="center">
+     <a href="https://www.dictionary.com/e/wp-content/uploads/2020/05/picard-facepalm.jpg">
+     <img src="https://www.dictionary.com/e/wp-content/uploads/2020/05/picard-facepalm.jpg" style="width:500px;height:300px;"/>
+     </a>
+     </div>
  
 - The US officials said that it was important to name the four PLA members 
   because according to them it will help to publicly shame them. But it is 
@@ -498,7 +506,7 @@ Links
 
 - O'Flaherty, Kate. `“Equifax Lawsuit: 'Admin' As Password At Time Of 2017 Breach.” 
   <https://www.forbes.com/sites/kateoflahertyuk/2019/10/20/equifax-lawsuit-reveals-terrible-security-practices-at-time-of-2017-breach/>`__ 
-  *Forbes*, Forbes Magazine, 21 Oct. 2019. `Archived <https://archive.md/DbHFJ>`__.
+  *Forbes*, Forbes Magazine, 20 Oct. 2019. `Archived <https://archive.md/DbHFJ>`__.
 
 - “Criminal Indictment: UNITED STATES OF AMERICA *v.* WU ZHIYONG, WANG 
   QIAN, XUKE, LIU LEI” *The United States Department of Justice*, 28 Jan. 
