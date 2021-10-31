@@ -327,7 +327,7 @@ four PLA members and the data breach as promulgated by the DOJ:
   military were responsible, whether they were supposedly acting on their own or 
   on state orders, or how it intends to bring them to a US court. 
 
-Also `tom' guide`_ asked important questions about the DOJ `indictment`_ 
+Also `tom's guide`_ asked important questions about the DOJ `indictment`_ 
 claiming that the four suspected Chinese hackers were backed by the PLA:
 
   It is not clear whether the four individuals are civilians working for the 
@@ -806,6 +806,7 @@ References
 .. _RT: https://www.rt.com/usa/480536-chinese-military-hackers-equifax/
 .. _The US says the Chinese military hacked Equifax. Here’s how.: 
    https://www.technologyreview.com/2020/02/10/349004/the-us-says-the-chinese-military-hacked-equifax-heres-how/
+.. _tom's guide: https://www.tomsguide.com/uk/news/equifax-hack-china-charges
 .. _U.S. Charges Chinese Military Officers in 2017 Equifax Hacking: 
    https://archive.md/8EKZs
 .. _wanted poster put up online by the FBI: https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute
