@@ -524,9 +524,8 @@ Links
 
 - `“CHINESE PLA MEMBERS, 54th RESEARCH INSTITUTE.” 
   <https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute>`__ 
-  *FBI*, 10 Feb. 2020. `Archived#1 <https://archive.md/3qA8b> (10 Feb. 2020)`__ and 
-  `Archived#2 <https://web.archive.org/web/20211020075542/https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute> 
-  (20 Oct. 2021)`__.
+  *FBI*, 10 Feb. 2020. `Archived#1 <https://archive.md/3qA8b>`__ (10 Feb. 2020) and 
+  `Archived#2 <https://web.archive.org/web/20211020075542/https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute>`__ (20 Oct. 2021).
 
 - Baksh, Mariam. `“Chinese Military Officers Hacked Equifax, Justice Department Says.” 
   <https://www.defenseone.com/technology/2020/02/chinese-military-officers-hacked-equifax-justice-department-says/163013/>`__ 
