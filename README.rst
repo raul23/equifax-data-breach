@@ -189,22 +189,22 @@ also conspired with other people that are known and unknown to the DOJ
   
 - From the "Count 1: Computer Fraud Conspiracy)" section of the DOJ 
   `indictment`_:
-  
-     ... the defendants, WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, did knowingly 
-     and willfully combine, conspire, confederate, agree, and have a tacit 
-     understanding with each other and **OTHER PERSONS KNOWN AND UNKNOWN** to the
-     Grand Jury ...
+
+     ... the defendants, WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, did 
+     knowingly and willfully combine, conspire, confederate, agree, and have a 
+     tacit understanding with each other and **OTHER PERSONS KNOWN AND 
+     UNKNOWN** to the Grand Jury ...
      
      [DOJ2]_ (*paragraph 6, page 4*)
-  
+
 - From the OVERT ACTS subsection of "Count 1" of the DOJ `indictment`_:
 
-     ... the defendants, WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, and **OTHERS** 
-     committed various overt acts in the Northern District of Georgia and 
-     elsewhere ...
+     ... the defendants, WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, and 
+     **OTHERS** committed various overt acts in the Northern District of 
+     Georgia and elsewhere ...
      
      [DOJ2]_ (*paragraph 14, page 7*)
-  
+
 - From the "Count 2: Computer Fraud and Abuse (Intentional Damage)" section of 
   the DOJ `indictment`_:
 
@@ -335,7 +335,7 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
      logged into another China-based IP address ("China Server #6") utilized 
      the malicious web shell ''boxover.jsp" to query an Equifax database table 
      and store the results in output files. [DOJ2]_ (*paragraph 14.n, page 10*)
-   
+ 
    `:information_source:`
    
      Reading the DOJ `indictment`_, you have the impression that the US 
@@ -445,6 +445,11 @@ data breach.
   their own? Where are those pictures provided in the `indictment`_ of three of 
   the four PLA members coming from? 
   
+  According to `SecureWorld`_, by looking at the pictures provided by the DOJ and 
+  FBI, it is convincing to believe that the four identified hackers are all
+  working in the Chinese military. Also, they believe that the cyberattack on
+  Equifax's networks was "pulled off [...] from Shanghai, China."
+  
   .. raw:: html
 
      <div align="center">
@@ -493,9 +498,12 @@ data breach.
   But according to the DOJ `indictment`_, the four alleged elite hackers and 
   their supposedly co-conspirators **DIRECTLY** accessed China-based IP
   addresses multiple times during their 2-month attack, a very basic and
-  surprising mistake to commit when hiding your tracks is the most 
+  surprising mistake to commit when hiding their tracks is the most 
   important of all things to accomplish because the network intrusions 
-  rest on constantly keeping the anonymity of the attackers (emphasis mine):
+  rest on constantly keeping the anonymity of the attackers. Accessing 
+  servers from outside China was not rigidly followed by the supposedly 
+  elite group of hackers unless they really wanted to be identified
+  (emphasis mine):
   
     1. The majority of the 9000 SQL queries [to the credit monitoring databases] 
        were issued by conspirators using two China-based IP addresses that 
@@ -535,6 +543,17 @@ data breach.
        web shell "six.jsp" on an Equifax server ...
        
        [DOJ2]_ (paragraph 14.o, page 11)
+    
+  The suspected hackers supposedly had the backing of the `second most 
+  important army in the world in terms of budget`_ (for 2020) but they were 
+  not able to think of various ways of definitely hiding their tracks that 
+  did't require constantly logging from the same location. It would had been 
+  extremely careless of China to not make sure to be as anonymous as possible 
+  because they certainly knew that if they did't, they risked further 
+  deteriorating their tense diplomatic relations with the currently only 
+  military superpower that is the USA which had `accused China`_ of multiple 
+  cyberattacks against the US and allies (e.g. the 2015 massive breach at the 
+  Office of Personnel Management).
   
 - Since it is extremely unlikely for the DOJ to arrest the four alleged PLA 
   members, the indictment can be very poor in the quality of the evidence. The 
@@ -551,8 +570,9 @@ Reading the many mainstream news articles (even outside the USA like UK and
 Canada), you get the feeling that everyone just went along with the narrative of 
 the DOJ that four PLA members are responsible for the Equifax data breach.
 
-However, `RT.com`_ is among the only news sites that questioned the link between
-the four alleged PLA members and the data breach as promulgated by the DOJ:
+However, `RT.com`_ is among the only news sites that questioned the link 
+between the four alleged PLA members and the data breach as promulgated by the 
+DOJ:
 
   It remains unclear how the DOJ concluded that four members of the Chinese 
   military were responsible, whether they were supposedly acting on their own or 
@@ -564,11 +584,9 @@ claiming that the four Chinese hackers were allegedly members of the PLA:
   It is not clear whether the four individuals are civilians working for the 
   PLA or active-duty members of the Chinese military. No military ranks were 
   given for any of the defendants in the indictment, but the four were said to 
-  be members of the PLA's 54th Research Institute. (Update: A `wanted poster put 
-  up online by the FBI`_ shows photos allegedly of Wu and Xu wearing military 
-  uniforms.) [WP]_
-
-.. The following news articles
+  be members of the PLA's 54th Research Institute. (Update: A `wanted poster 
+  put up online by the FBI`_ shows photos allegedly of Wu and Xu wearing 
+  military uniforms.) [WP]_
 
 Equifax data breach by the numbers
 ==================================
@@ -878,6 +896,11 @@ Links
   <https://www.rt.com/usa/480536-chinese-military-hackers-equifax/>`__ 
   *RT International*, 10 Feb. 2020. `Archived <https://archive.md/dEYcR>`__.
 
+- Sussman, Bruce. `“Equifax Hackers Charged: How the Chinese Did It.” 
+  <https://www.secureworld.io/industry-news/equifax-hacker-indictment-10-fast-facts>`_ 
+  *SecureWorld*, 10 Feb. 2020.
+  `Archived <https://archive.md/a1TQE>`__.
+
 - The Associated Press. 
   `“U.S. Charges 4 Chinese Military Hackers in Equifax Breach Probe | CBC News.” 
   <https://www.cbc.ca/news/business/us-justice-charges-china-equifax-1.5458110>`__ 
@@ -1094,6 +1117,7 @@ References
 .. URLs
 .. _29 July 2017: https://www.prnewswire.com/news-releases/equifax-announces-cybersecurity-incident-involving-consumer-information-300515960.html
 .. _a months-old issue that Equifax knew about but failed to fix: https://www.cnet.com/news/equifax-ceo-data-breach-heres-what-went-wrong/
+.. _accused China: https://www.cbc.ca/news/business/micosoft-exchange-hack-china-1.6108265
 .. _Apache Struts: https://struts.apache.org/
 .. _Apache Struts software: https://struts.apache.org/
 .. _archive: https://web.archive.org/web/20210629150932/https://www.warren.senate.gov/imo/media/doc/2018.09.06%20GAO%20Equifax%20report.pdf
@@ -1124,6 +1148,9 @@ References
 .. _Report\: Chinese Army Stole Over 13 Million British Citizens’ Personal Data:
    https://www.breitbart.com/europe/2020/02/17/equifax-hack-china-stole-13-million-peoples-data-in-the-uk/
 .. _RT.com: https://www.rt.com/usa/480536-chinese-military-hackers-equifax/
+.. _second most important army in the world in terms of budget: 
+   https://en.wikipedia.org/wiki/List_of_countries_by_military_expenditures
+.. _SecureWorld: https://www.secureworld.io/industry-news/equifax-hacker-indictment-10-fast-facts
 .. _Silicon.co.uk: https://www.silicon.co.uk/security/cyberwar/us-charges-chinese-military-equifax-hack-331572
 .. _The US says the Chinese military hacked Equifax. Here’s how.: 
    https://www.technologyreview.com/2020/02/10/349004/the-us-says-the-chinese-military-hacked-equifax-heres-how/
