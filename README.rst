@@ -154,6 +154,8 @@ The US says members of the Chinese military hacked Equifax
   Though you still have some news articles with titles implying that it is the 
   whole Chinese army that is being targeted by the DOJ:
 
+  - `US says China's military was behind 2017 Equifax hack that left personal 
+    information of 145 million Americans exposed`_ (Business Insider)
   - `What is the PLA, and why do feds believe they hacked Equifax?`_ (The 
     Atlanta Journal-Constitution)
   - `The US says the Chinese military hacked Equifax. Here’s how.`_ (MIT 
@@ -290,7 +292,6 @@ also conspired with other people that are known and unknown to the DOJ
      to the Grand Jury,
  
      [DOJ2]_ (*paragraph 31, page 17*)
-     
      
 DOJ evidence that China's military personnel are behind the Equifax data breach
 -------------------------------------------------------------------------------
@@ -777,6 +778,12 @@ Links
   <https://www.ctvnews.ca/business/chinese-military-members-face-charges-in-equifax-breach-impacting-canadians-1.4805070>`__ 
   *CTVNews*, 10 Feb. 2020.
   `Archived <https://archive.md/Lzt3U>`__.
+  
+- Holmes, Aaron. `“US Says China's Military Was behind 2017 Equifax Hack That Left 
+  Personal Information of 145 Million Americans Exposed.” 
+  <https://www.businessinsider.com/doj-china-pla-military-hackers-indicted-equifax-2017-breach-2020-2>`_ 
+  *Business Insider*, 10 Feb. 2020.
+  `Archived <https://archive.md/LFpEv>`__.
   
 - Linder, Courtney. `“How Chinese Military Officers Allegedly Hacked Equifax.” 
   <https://www.popularmechanics.com/technology/security/a30854291/equifax-data-breach-chinese-military/>`__
