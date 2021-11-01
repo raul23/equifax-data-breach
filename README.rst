@@ -167,9 +167,9 @@ The US says members of the Chinese military hacked Equifax
 
 `:warning:`
 
-Also, it is very important to keep in mind that what is written in the DOJ 
-`indictment`_ is based on allegations and people (especially media pundits) 
-should not repeat what is in the document as gospel.
+  Also, it is very important to keep in mind that what is written in the DOJ 
+  `indictment`_ is based on allegations and people (especially media pundits) 
+  should not repeat what is in the document as gospel.
   
 That's why the DOJ `press release` says the following in the bottom of the
 page (emphasis mine):
