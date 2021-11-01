@@ -742,7 +742,13 @@ Other interesting information
     officials said that charging and naming them served the purpose of 
     **publicly shaming** them for their actions and enabled the United States 
     to arrest them if they travel one day. [FA]_
-    
+
+Technical questions 
+===================
+For technical questions relating to the 2017 Equifax data breach such as "How 
+did the hackers hide their tracks?" or "How web shells were used by the 
+hackers?", check the `Technical questions`_ page.
+
 Glossary
 ========
 .. TODO: add definitions
@@ -1224,6 +1230,7 @@ References
    https://en.wikipedia.org/wiki/List_of_countries_by_military_expenditures
 .. _SecureWorld: https://www.secureworld.io/industry-news/equifax-hacker-indictment-10-fast-facts
 .. _Silicon.co.uk: https://www.silicon.co.uk/security/cyberwar/us-charges-chinese-military-equifax-hack-331572
+.. _Technical questions: ./technical_questions.rst
 .. _The US says the Chinese military hacked Equifax. Here’s how.: 
    https://www.technologyreview.com/2020/02/10/349004/the-us-says-the-chinese-military-hacked-equifax-heres-how/
 .. _tom's guide: https://www.tomsguide.com/uk/news/equifax-hack-china-charges
