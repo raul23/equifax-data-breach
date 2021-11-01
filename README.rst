@@ -594,8 +594,8 @@ data breach.
   because they certainly knew that if they didn't, they risked further 
   deteriorating their tense diplomatic relations with the currently only 
   military superpower that is the USA which had `accused China`_ of multiple 
-  cyberattacks against the US and allies (e.g. the 2015 massive breach at the 
-  Office of Personnel Management).
+  cyberattacks against the US and allies (e.g. the `2015 massive breach at the 
+  U.S. Office of Personnel Management`_).
   
 - Since it is extremely unlikely for the DOJ to arrest the four alleged PLA 
   members, the indictment can be very poor in the quality of the evidence. The 
@@ -1194,6 +1194,8 @@ References
 
 .. URLs
 .. _29 July 2017: https://www.prnewswire.com/news-releases/equifax-announces-cybersecurity-incident-involving-consumer-information-300515960.html
+.. _2015 massive breach at the U.S. Office of Personnel Management: 
+   https://web.archive.org/web/20201119114457/https://www.bloomberg.com/news/articles/2015-07-09/hackers-stole-government-data-on-25-7-million-people-u-s-says
 .. _a months-old issue that Equifax knew about but failed to fix: https://www.cnet.com/news/equifax-ceo-data-breach-heres-what-went-wrong/
 .. _accused China: https://www.cbc.ca/news/business/micosoft-exchange-hack-china-1.6108265
 .. _Apache Struts: https://struts.apache.org/
