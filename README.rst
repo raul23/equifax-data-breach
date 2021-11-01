@@ -205,7 +205,7 @@ also conspired with other people that are known and unknown to the DOJ
      
      [DOJ2]_ (*paragraph 14, page 7*)
   
-- From thee "Count 2: Computer Fraud and Abuse (Intentional Damage)" section of 
+- From the "Count 2: Computer Fraud and Abuse (Intentional Damage)" section of 
   the DOJ `indictment`_:
 
      ... the defendants, WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, aided and 
