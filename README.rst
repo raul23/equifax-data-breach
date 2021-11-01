@@ -420,10 +420,10 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
      |
      
      ... the defendants [...] intending and knowing that the offense would 
-     benefit a foreign government, instrumentality, and agent, namely China 
-     and the People's Liberation Army, did knowingly and without authorization 
-     copy, duplicate, download, upload, replicate, transmit, deliver, send, 
-     mail, communicate, and convey a **TRADE SECRET** ...
+     **BENEFIT A FOREIGN GOVERNMENT**, instrumentality, and agent, namely 
+     **CHINA AND THE PEOPLE'S LIBERATION ARMY**, did knowingly and without 
+     authorization copy, duplicate, download, upload, replicate, transmit, 
+     deliver, send, mail, communicate, and convey a **TRADE SECRET** ...
      
      [DOJ2]_ (*paragraph 23, pages 14-15*)
 
