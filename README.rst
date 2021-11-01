@@ -716,6 +716,8 @@ Other interesting information
     
 Glossary
 ========
+.. TODO: add definitions
+
 - Chinese People’s Liberation Army (PLA)
 - The Government Accountability Office (GAO)
 - Personally identifiable information (PII)
