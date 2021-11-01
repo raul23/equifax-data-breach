@@ -656,6 +656,10 @@ DOJ:
   military were responsible, whether they were supposedly acting on their own or 
   on state orders, or how it intends to bring them to a US court. [RT]_
 
+However, since it is from RT, people (especially in the US) will discard 
+whatever they have to say because they are `"the Kremlin's foreign-language 
+propaganda network"`_
+
 Also `tom's guide`_ asked important questions about the DOJ `indictment`_ 
 claiming that the four suspected Chinese hackers were allegedly military 
 members of the PLA:
@@ -1275,6 +1279,7 @@ References
 .. _SecureWorld: https://www.secureworld.io/industry-news/equifax-hacker-indictment-10-fast-facts
 .. _Silicon.co.uk: https://www.silicon.co.uk/security/cyberwar/us-charges-chinese-military-equifax-hack-331572
 .. _Technical questions: ./technical_questions.rst
+.. _"the Kremlin's foreign-language propaganda network": https://archive.md/CF3U6
 .. _The US says the Chinese military hacked Equifax. Here’s how.: 
    https://www.technologyreview.com/2020/02/10/349004/the-us-says-the-chinese-military-hacked-equifax-heres-how/
 .. _tom's guide: https://www.tomsguide.com/uk/news/equifax-hack-china-charges
