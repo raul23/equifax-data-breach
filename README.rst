@@ -426,7 +426,18 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
      mail, communicate, and convey a **TRADE SECRET** ...
      
      [DOJ2]_ (*paragraph 23, pages 14-15*)
-     
+
+Non-DOJ evidence that China's military personnel are behind the Equifax data breach
+-----------------------------------------------------------------------------------
+`:information_source:`
+
+  These are evidence that I was able to gather from non governmental sources such as 
+  frocm mainstream newspapers. As it is customary with journalists, the information
+  they provide will probably come from anonymous sources and hence their statements
+  will prove difficult (or almost impossible) to corroborate.
+  
+  TODO: add more non governmental sources
+
 Weak evidence
 -------------
 The evidence gathered from the DOJ `indictment`_ is very weak to support the 
