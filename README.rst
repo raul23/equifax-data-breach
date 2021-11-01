@@ -395,7 +395,6 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
      
      [DOJ2]_ (*paragraph 23, pages 14-15*)
      
-
 Weak evidence
 -------------
 The evidence gathered from the DOJ `indictment`_ is very weak to support the 
@@ -496,7 +495,7 @@ data breach.
   addresses multiple times during their 2-month attack, a very basic and
   surprising mistake to commit when hiding your tracks is the most 
   important of all things to accomplish because the network intrusions 
-  rest on constantly keeping the anonimity of the hackers (emphasis mine):
+  rest on constantly keeping the anonymity of the hackers (emphasis mine):
   
     1. The majority of the 9000 SQL queries [to the credit monitoring databases] 
        were issued by conspirators using two China-based IP addresses that 
