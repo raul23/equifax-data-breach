@@ -517,7 +517,7 @@ data breach.
   from China.
 
   It seems very sloppy for the four alleged members of the PLA to reportedly 
-  log multiple times into Equifax's systems directly from Chinese-based IP 
+  log multiple times into Equifax's systems directly from China-based IP 
   addresses. These conspirators are not your average Joe that doesn't know much 
   about network forensics but are supposedly part of PLA's 54th Research 
   Institute which has traditionally focused on supporting electronic warfare 
