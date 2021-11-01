@@ -477,11 +477,6 @@ data breach.
   their own? Where are those pictures provided in the `indictment`_ of three of 
   the four PLA members coming from? 
   
-  According to `SecureWorld`_, by looking at the pictures provided by the DOJ and 
-  FBI, it is convincing to believe that the four identified hackers are all
-  working in the Chinese military. Also, they believe that the cyberattack on
-  Equifax's networks was "pulled off [...] from Shanghai, China."
-  
   .. raw:: html
 
      <div align="center">
@@ -491,6 +486,8 @@ data breach.
         you get all four pictures (though <a href="https://archive.md/3qA8b">at first</a> the FBI also only shown three pics). Very odd that the DOJ worked for 2 years investigating the Equifax data breach
         and could not get a picture for Liu Lei to include in their indictment.</b></p>
      </div>
+     
+  |
   
   .. raw:: html
 
@@ -498,6 +495,17 @@ data breach.
      <img src="https://www.fbi.gov/@@dvpdffiles/8/c/8c0b4ce2b3c9448b95b13f19a89fc658/normal/dump_1.gif"/>
      <p><b>PLA members wanted by the
        <a href="https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute">FBI</a>.</b></p>
+     </div>
+     
+  According to `SecureWorld`_, the pictures provided by the DOJ and FBI support 
+  the idea that the four supposedly identified hackers are all working in the 
+  Chinese military. Also, they believe that the cyberattack on Equifax's networks 
+  was "pulled off [...] from Shanghai, China."
+  
+  .. raw:: html
+
+     <div align="center">
+       <img src="https://memegenerator.net/img/images/71799850.jpg" style="width:300px;height:200px;"/>
      </div>
 
 - There is no explanation in the `indictment`_ how the US authorities came to 
