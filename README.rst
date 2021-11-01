@@ -262,8 +262,9 @@ data breach.
   pictures, and Beijing, China as their location of residence. However in the
   indictment, Beijing is referred in the past (emphasis mine):
   
-    Defendants [...] **WERE** residents of Beijing, China [DOJ2]_ (*pages 3-4, 
-    parapraph 5.d*)
+    Defendants [...] **WERE** residents of Beijing, China 
+    
+    [DOJ2]_ (*pages 3-4, parapraph 5.d*)
     
   Thus, the whereabouts of the suspects are uncertain.
   
