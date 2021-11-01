@@ -505,12 +505,12 @@ data breach.
   But right now, the personal info the DOJ et al. have provided is very weak and
   doesn't help much the public to identify the four alleged hackers.
   
-  There still the possibility that any of the alleged hackers might leave China 
+  There is still the possibility that any of the alleged hackers might leave China 
   in the near future and go to a place that they think there is no extradition 
   treaty with the US, not knowing that the US can still apprehend them (they
-  are the only superpower for a reason, right?). Just take the example of the
-  Russian hacker `Roman Seleznev`_ that thought that he was safe in the Maldives 
-  because they don't have extradition treaty with the U.S. `He thought wrong`_.
+  are a superpower for a reason). Just take the example of the Russian hacker 
+  `Roman Seleznev`_ that thought that he was safe in the Maldives because they 
+  don't have an extradition treaty with the U.S. `He thought wrong`_.
   
   .. raw:: html
 
