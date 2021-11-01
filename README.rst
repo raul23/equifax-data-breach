@@ -658,7 +658,7 @@ DOJ:
 
 However, since it is from RT, people (especially in the US) will discard 
 whatever they have to say because they are `"the Kremlin's foreign-language 
-propaganda network"`_
+propaganda network"`_.
 
 Also `tom's guide`_ asked important questions about the DOJ `indictment`_ 
 claiming that the four suspected Chinese hackers were allegedly military 
