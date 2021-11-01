@@ -184,7 +184,7 @@ of the four Chinese military members [DOJ]_:
   (emphasis mine):
   
   - From "Count 1: Computer Fraud Conspiracy)" section of the DOJ 
-    `indictment`__:
+    `indictment`_:
   
      ... the defendants, WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, did knowingly 
      and willfully combine, conspire, confederate, agree, and have a tacit 
@@ -202,7 +202,7 @@ of the four Chinese military members [DOJ]_:
      [DOJ2]_ (*paragraph 14, page 7*)
   
   - From "Count 2: Computer Fraud and Abuse (Intentional Damage)" section of the
-    DOJ `indictment`__:
+    DOJ `indictment`_:
 
      ... the defendants, WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, aided and 
      abetted by each other and **OTHERS KNOWN AND UNKNOWN** to the Grand Jury
@@ -211,7 +211,7 @@ of the four Chinese military members [DOJ]_:
      [DOJ2]_ (*paragraph 16, pages 11-12*)
      
   - From "Count 3: Computer Fraud and Abuse: Unauthorized Access" section of 
-    the DOJ `indictment`__:
+    the DOJ `indictment`_:
     
      the defendants, WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, aided and 
      abetted by each other and **OTHERS KNOWN AND UNKNOWN** to the Grand 
@@ -220,7 +220,7 @@ of the four Chinese military members [DOJ]_:
      [DOJ2]_ (*paragraph 18, page 12*)
      
   - From "Count 4: Conspiracy to CommitEconomic Espionage" section of 
-    the DOJ `indictment`__:
+    the DOJ `indictment`_:
     
      the defendants, WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, knowingly 
      and willfully combined, conspired, confederated, agreed, and had a 
