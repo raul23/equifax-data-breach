@@ -356,10 +356,17 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
      
        According to the DOJ `indictment`_, the Swiss Server was accessed 5 
        times by the conspirators.
+       
      - Taiwan ("the Taiwan Server"), [DOJ2]_ (*paragraph 14.e, page 8*)
      
        According to the DOJ `indictment`_, the Taiwan Server was accessed 3
        times by the conspirators.
+
+     - Netherlands [DOJ2]_ (*paragraph 14.m, page 10*)
+     
+       According to the DOJ `indictment`_, the Dutch server was accessed one
+       time by the conspirators.
+     
      - Singapore ("the Singapore Server") [DOJ2]_ (*paragraph 14.o, page 11*)
      
        According to the DOJ `indictment`_, the Singapore Server was accessed 2
@@ -474,7 +481,58 @@ data breach.
   Therefore, these four alleged PLA members should know very well how to hide 
   their tracks and use only IP addresses from outside China. 
   
-  The four suspected PLA hackers are so elite that they 
+  The four suspected PLA hackers and their supposedly co-conspirators are 
+  so `elite`_ in that they: 
+  
+    - routed traffic through approximately 34 servers located in nearly 20 
+      countries to obfuscate their true location, 
+    - used encrypted communication channels within Equifax’s network to blend 
+      in with normal network activity, and 
+    - deleted compressed files and wiped log files on a daily basis in an 
+      effort to eliminate records of their activity. [DOJ]_
+      
+  But despite their elite hacking skills, the four alleged hackers and 
+  their supposedly co-conspirators **DIRECTLY** accessed China-based IP
+  addresses multiple times during their 2-month attack, a very basic and
+  surprising mistake to commit when hiding your tracks is the most 
+  important of all things to accomplish because the network intrusions 
+  rest on constantly keeping the anonimity of the hackers (emphasis mine):
+  
+    1. The majority of the 9000 SQL queries [to the credit monitoring databases] 
+       were issued by conspirators using two China-based IP addresses that 
+       connected **DIRECTLY** to Equifax' s network.
+    
+       [DOJ2]_ (paragraph 9, page 6)
+      
+    2. ... another China-based IP address ("China Server #2"), which was 
+       also repeatedly accessed during the intrusion by WANG QlAN, exploited 
+       the Apache Struts vulnerability on Equifax' s online dispute portal. 
+      
+       [DOJ2]_ (paragraph 14.j, pages 9-10)
+      
+    3. ... XU KE used a different China-based IP address ("China Server #3") 
+       to conduct reconnaissance onEquifax' s online dispute portal. 
+      
+       [DOJ2]_ (paragraph 14.k, page 10)
+      
+    4. A conspirator using another China-based IP address ("China Server #5") 
+       ...
+      
+       [DOJ2]_ (paragraph 14.l, page 10)
+      
+    5. ... a conspirator using China Server #5 uploaded ...
+    
+       [DOJ2]_ (paragraph 14.l, page 10)
+       
+    6. ... a conspirator who was logged into another China-based IP address 
+       ("China Server #6") 
+       
+       [DOJ2]_ (paragraph 14.n, page 10)
+       
+    7. ... WANG QIAN, using China Server #2, remotely accessed the malicious 
+       web shell "six.jsp" on an Equifax server ...
+       
+       [DOJ2]_ (paragraph 14.o, page 11)
   
 - Since it is extremely unlikely for the DOJ to arrest the four alleged PLA 
   members, the indictment can be very poor in the quality of the evidence. The 
@@ -1046,6 +1104,7 @@ References
 .. _CIO and CSO: https://archive.md/qvmvJ
 .. _CVE-2017-5638: https://www.cvedetails.com/cve/CVE-2017-5638/
 .. _DOJ indictment: https://www.justice.gov/opa/press-release/file/1246891/download
+.. _elite: https://www.thetimes.co.uk/article/chinese-armys-elite-hackers-steal-equifax-data-on-13m-britons-ld32rqjqq
 .. _Equifax\: US charges four Chinese military officers over huge hack: 
    https://www.bbc.com/news/world-us-canada-51449778
 .. _Equifax Lawsuit\: ‘Admin’ As Password At Time Of 2017 Breach: 
