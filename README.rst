@@ -972,6 +972,10 @@ Links
   <https://www.silicon.co.uk/security/cyberwar/us-charges-chinese-military-equifax-hack-331572>`__ 
   *Silicon UK*, 11 Feb. 2020. `Archived <https://archive.md/x8FCO>`__.
   
+- Ng, Alfred. `“China Denies Equifax Hack after Justice Department Charged Four Military Hackers.” 
+  <https://www.cnet.com/news/china-denies-equifax-hack-after-justice-department-charged-four-military-hackers/>`_ 
+  *CNET*, 11 Feb. 2020. `Archived <https://archive.md/VVTSL>`__.
+  
 - Gadher, Dipesh. `“Chinese Army's Elite Hackers Steal Equifax Data on 13m Britons.” 
   <https://www.thetimes.co.uk/article/chinese-armys-elite-hackers-steal-equifax-data-on-13m-britons-ld32rqjqq>`__ 
   *The Sunday Times*, 16 Feb. 2020. `Archived <https://archive.md/4kCSs>`__.
