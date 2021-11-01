@@ -446,9 +446,9 @@ data breach.
     
   Thus, the whereabouts of the suspects are uncertain.
   
-  Also, from the DOJ `indictment`_ and `press release`_, they refer to the 
-  four suspects as being former members of PLA's 54th Research Institute 
-  (emphasis mine):
+  Also, from the DOJ `indictment`_ and `press release`_, it seems that they 
+  refer to the four suspects as being former members of PLA's 54th Research 
+  Institute (emphasis mine):
   
     Defendants [...] **WERE** members of the 54th Research Institute, which 
     **WAS** a component of the PLA. 
