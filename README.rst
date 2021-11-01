@@ -526,8 +526,9 @@ data breach.
   Therefore, these four alleged PLA members should know very well how to hide 
   their tracks and use only IP addresses from outside China. 
   
-  The four suspected PLA hackers and their supposedly co-conspirators are 
-  so `elite`_ in that they: 
+  The four suspected PLA hackers and their alleged co-conspirators were able 
+  to navigate throughout Equifax's networks as mere ghosts. To acheive their 
+  cloak of anonymity, they supposedly: 
   
     - routed traffic through approximately 34 servers located in nearly 20 
       countries to obfuscate their true location, 
@@ -536,52 +537,52 @@ data breach.
     - deleted compressed files and wiped log files on a daily basis in an 
       effort to eliminate records of their activity. [DOJ]_
       
-  But according to the DOJ `indictment`_, the four alleged elite hackers and 
-  their supposedly co-conspirators **DIRECTLY** accessed China-based IP
-  addresses multiple times during their 2-month attack, a very basic and
-  surprising mistake to commit when hiding their tracks is the most 
-  important of all things to accomplish because the network intrusions 
-  rest on constantly keeping the anonymity of the attackers. Accessing 
-  servers from outside China was not rigidly followed by the supposedly 
-  elite group of hackers unless they really wanted to be identified
-  (emphasis mine):
+  But according to the DOJ `indictment`_, the four alleged `elite`_ 
+  hackers and their supposedly co-conspirators **DIRECTLY** accessed 
+  China-based IP addresses multiple times during their 2-month attack. This 
+  is a very basic and surprising mistake to commit when hiding their tracks is 
+  suppose to be the most important things to accomplish because the network 
+  intrusions rest on constantly keeping the anonymity of the attackers. 
+  Accessing servers only from outside of China was not rigidly followed by 
+  the allegd group of hackers unless they really wanted to be identified 
+  and didn't care about repercussions (emphasis mine):
   
     1. The majority of the 9000 SQL queries [to the credit monitoring databases] 
-       were issued by conspirators using two China-based IP addresses that 
+       were issued by conspirators using two **CHINA-BASED** IP addresses that 
        connected **DIRECTLY** to Equifax' s network.
     
        [DOJ2]_ (paragraph 9, page 6)
       
-    2. ... another China-based IP address ("China Server #2"), which was 
+    2. ... another **CHINA-BASED** IP address ("China Server #2"), which was 
        also repeatedly accessed during the intrusion by WANG QIAN, exploited 
        the Apache Struts vulnerability on Equifax's online dispute portal. 
       
        [DOJ2]_ (paragraph 14.j, pages 9-10)
       
-    3. ... XU KE used a different China-based IP address ("China Server #3") 
+    3. ... XU KE used a different **CHINA-BASED** IP address ("China Server #3") 
        to conduct reconnaissance on Equifax's online dispute portal. 
       
        [DOJ2]_ (paragraph 14.k, page 10)
       
-    4. A conspirator using another China-based IP address ("China Server #5") 
+    4. A conspirator using another **CHINA-BASED** IP address ("China Server #5") 
        then utilized the malicious web shell "css.jsp," whichwas previously 
        installed on Equifax's network ...
       
        [DOJ2]_ (paragraph 14.l, page 10)
       
-    5. ... a conspirator using China Server #5 uploaded a substantively 
+    5. ... a conspirator using **CHINA** Server #5 uploaded a substantively 
        identical web shell, "ss.jsp," to the Equifax network. 
     
        [DOJ2]_ (paragraph 14.l, page 10)
        
-    6. ... a conspirator who was logged into another China-based IP address 
+    6. ... a conspirator who was logged into another **CHINA-BASED** IP address 
        ("China Server #6") utilized the malicious web shell "boxover.jsp" to 
        query an Equifax database table ...
        
        [DOJ2]_ (paragraph 14.n, page 10)
        
-    7. ... WANG QIAN, using China Server #2, remotely accessed the malicious 
-       web shell "six.jsp" on an Equifax server ...
+    7. ... WANG QIAN, using **CHINA** Server #2, remotely accessed the 
+       malicious web shell "six.jsp" on an Equifax server ...
        
        [DOJ2]_ (paragraph 14.o, page 11)
     
