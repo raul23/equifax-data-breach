@@ -441,8 +441,8 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
      
      [DOJ2]_ (*paragraph 23, pages 14-15*)
 
-DOJ evidence: weak
-------------------
+DOJ evidence verdict: weak
+--------------------------
 The evidence gathered from the DOJ `indictment`_ is very weak to support the 
 claim that four alleged members of the PLA were the perpetrators of the Equifax 
 data breach.
@@ -707,8 +707,8 @@ Non-DOJ evidence that China's military personnel are behind the Equifax data bre
   
 TODO
   
-Non-DOJ evidence: weak
-----------------------
+Non-DOJ evidence verdict: weak
+------------------------------
 TODO
 
 Equifax data breach by the numbers
