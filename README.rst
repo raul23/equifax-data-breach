@@ -259,32 +259,26 @@ also conspired with other people that are known and unknown to the DOJ
 - From the MANNER AND MEANS OF THE CONSPIRACY subsection of "Count 6" 
   of the DOJ `indictment`_:
 
-     It was part of the conspiracy that the defendants, WU ZHIYONG, 
-     WANG QIAN, XU KE, and LIU LEI, and **OTHERS KNOWN AND UNKNOWN** ...
+     1. It was part of the conspiracy that the defendants, WU ZHIYONG, 
+        WANG QIAN, XU KE, and LIU LEI, and **OTHERS KNOWN AND UNKNOWN** ...
      
-     [DOJ2]_ (*paragraph 26, page 16*)
+        [DOJ2]_ (*paragraph 26, page 16*)
      
- |
+     2. After infiltrating Equifax's network, WU ZHIYONG, WANG QIAN, XU 
+        KE, and LIU LEI, and their **CO-CONSPIRATORS** ...
      
-     After infiltrating Equifax's network, WU ZHIYONG, WANG QIAN, XU 
-     KE, and LIU LEI, and their **CO-CONSPIRATORS** ...
+        [DOJ2]_ (*paragraph 27, page 16*)
      
-     [DOJ2]_ (*paragraph 27, page 16*)
+     3. WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, and their 
+        **CO-CONSPIRATORS** ...
      
- |
+        [DOJ2]_ (*paragraph 28, page 16*)
+       
+     4. After gaining access to these additional databases with stolen 
+        credentials, WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, and their 
+        **CO-CONSPIRATORS** ...
      
-     WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, and their 
-     **CO-CONSPIRATORS** ...
-     
-     [DOJ2]_ (*paragraph 28, page 16*)
-     
- |
-     
-     After gaining access to these additional databases with stolen 
-     credentials, WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, and their 
-     **CO-CONSPIRATORS** ...
-     
-     [DOJ2]_ (*paragraph 29, page 16*)
+        [DOJ2]_ (*paragraph 29, page 16*)
 
 - From the "Counts 7 through 9: Wire Fraud" section of the DOJ 
   `indictment`_:
