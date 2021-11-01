@@ -2,8 +2,10 @@
 Technical questions about the 2017 Equifax data breach
 ======================================================
 
-How the hackers were able to hide their tracks?
-===============================================
+How did the hackers hide their tracks?
+======================================
 
-What are web shells?
-====================
+How web shells were used by the hackers?
+=========================================
+Definiton of web shells
+-----------------------
