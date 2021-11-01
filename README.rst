@@ -499,7 +499,7 @@ data breach.
      
   According to `SecureWorld`_, the pictures provided by the DOJ and FBI support 
   the idea that the four supposedly identified hackers are all working in the 
-  Chinese military. Also, they believe that the cyberattack on Equifax's networks 
+  Chinese military. Also, they state that the cyberattack on Equifax's networks 
   was "pulled off [...] from Shanghai, China."
   
   .. raw:: html
