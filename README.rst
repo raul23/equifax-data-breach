@@ -442,207 +442,207 @@ The evidence gathered from the DOJ `indictment`_ is very weak to support the
 claim that four alleged members of the PLA were the perpetrators of the Equifax 
 data breach.
 
-- Not much personal information has been given about the four suspected PLA 
-  members: Wu Zhiyong (吴志勇), Wang Qian (王乾), Xu Ke (许可) and Liu Lei 
-  (刘磊).
+1. Not much personal information has been given about the four suspected PLA 
+   members: Wu Zhiyong (吴志勇), Wang Qian (王乾), Xu Ke (许可) and Liu Lei 
+   (刘磊).
 
-  The DOJ `indictment`_ and mainstream news articles only provide their names, 
-  pictures, and Beijing, China as their place of residence. However in the
-  indictment, Beijing is referred in the past (emphasis mine):
+   The DOJ `indictment`_ and mainstream news articles only provide their names, 
+   pictures, and Beijing, China as their place of residence. However in the
+   indictment, Beijing is referred in the past (emphasis mine):
   
-    Defendants [...] **WERE** residents of Beijing, China 
+     Defendants [...] **WERE** residents of Beijing, China 
     
-    [DOJ2]_ (*parapraph 5.d, pages 3-4*)
+     [DOJ2]_ (*parapraph 5.d, pages 3-4*)
     
-  Thus, the whereabouts of the suspects are uncertain.
+   Thus, the whereabouts of the suspects are uncertain.
   
-  Also, from the DOJ `indictment`_ and `press release`_, it seems that they 
-  refer to the four suspects as being former members of PLA's 54th Research 
-  Institute (emphasis mine):
+   Also, from the DOJ `indictment`_ and `press release`_, it seems that they 
+   refer to the four suspects as being former members of PLA's 54th Research 
+   Institute (emphasis mine):
   
-    Defendants [...] **WERE** members of the 54th Research Institute, which 
-    **WAS** a component of the PLA. 
+     Defendants [...] **WERE** members of the 54th Research Institute, which 
+     **WAS** a component of the PLA. 
     
-    [DOJ2]_ (*parapraph 5.d, pages 3-4*)
+     [DOJ2]_ (*parapraph 5.d, pages 3-4*)
   
-  |
+   |
   
-    ... Wu Zhiyong (吴志勇), Wang Qian (王乾), Xu Ke (许可) and Liu Lei (刘磊) 
-    **WERE** members of the PLA’s 54th Research Institute, a component of 
-    the Chinese military. [DOJ]_
+     ... Wu Zhiyong (吴志勇), Wang Qian (王乾), Xu Ke (许可) and Liu Lei (刘磊) 
+     **WERE** members of the PLA’s 54th Research Institute, a component of 
+     the Chinese military. [DOJ]_
     
-  From the previous two quotes, is the 54th Research Institute still a 
-  component of the PLA? 
+   From the previous two quotes, is the 54th Research Institute still a 
+   component of the PLA? 
   
-  Their `FBI most wanted`_ poster and the `FBI news article`_ only give their 
-  names and pictures but don't mention Beijing which should have been included 
-  since it is presumably an important information for people to help the FBI 
-  identify the four suspects. At least, the FBI should have said that the 
-  four alleged PLA hackers are probably still living in Beijing, China.
+   Their `FBI most wanted`_ poster and the `FBI news article`_ only give their 
+   names and pictures but don't mention Beijing which should have been included 
+   since it is presumably an important information for people to help the FBI 
+   identify the four suspects. At least, the FBI should have said that the 
+   four alleged PLA hackers are probably still living in Beijing, China.
   
-  More information (basic and detailed) is about the four alleged PLA hackers 
-  such as: 
+   More information (basic and detailed) is about the four alleged PLA hackers 
+   such as: 
   
-  - General questions about their life: How old are they? Where did they grew 
-    up? Where did they study? Where did they work, apart from the PLA?
-    Did they leave China at one point in their life?
-  - Are Wang Qian and Liu Lei (the only ones not wearing military uniforms in 
-    the pictures) civilians working for PLA's 54th Research Institute or 
-    active-duty members of the PLA? 
-  - What are their military ranks in the PLA? 
-  - Were they receiving orders from higher up or were they acting on their 
-    own? 
-  - Where are those pictures provided in the `indictment`_ of three of 
-    the four PLA members coming from? 
+   - General questions about their life: How old are they? Where did they grew 
+     up? Where did they study? Where did they work, apart from the PLA?
+     Did they leave China at one point in their life?
+   - Are Wang Qian and Liu Lei (the only ones not wearing military uniforms in 
+     the pictures) civilians working for PLA's 54th Research Institute or 
+     active-duty members of the PLA? 
+   - What are their military ranks in the PLA? 
+   - Were they receiving orders from higher up or were they acting on their 
+     own? 
+   - Where are those pictures provided in the `indictment`_ of three of 
+     the four PLA members coming from? 
   
-  All those questions are important for the FBI, DOJ, CIA, and any other relevant 
-  three letter agencies to answer to the public because this is the kind of 
-  information that will be useful for anyone around the world to be able to 
-  recognize any of the alleged PLA hackers. Only in China, there are 
-  approximately `1.412 billion people`_ (as of November 2020) and the more 
-  personal information you give, higher will be the chance for someone to produce
-  helpful tips.
+   All those questions are important for the FBI, DOJ, CIA, and any other relevant 
+   three letter agencies to answer to the public because this is the kind of 
+   information that will be useful for anyone around the world to be able to 
+   recognize any of the alleged PLA hackers. Only in China, there are 
+   approximately `1.412 billion people`_ (as of November 2020) and the more 
+   personal information you give, higher will be the chance for someone to produce
+   helpful tips.
   
-  But right now, the personal info the DOJ et al. have provided is very weak and
-  doesn't help much the public to identify the four alleged hackers.
+   But right now, the personal info the DOJ et al. have provided is very weak and
+   doesn't help much the public to identify the four alleged hackers.
   
-  There is still the possibility that any of the alleged hackers might leave China 
-  in the near future and go to a place that they think has no extradition treaty 
-  with the US, not knowing that the US can still apprehend them (they are a 
-  superpower after all). Take the case of the Russian hacker 
-  `Roman Seleznev`_ that thought that he was safe in the Maldives because they 
-  don't have an extradition treaty with the U.S. `He thought wrong`_.
+   There is still the possibility that any of the alleged hackers might leave China 
+   in the near future and go to a place that they think has no extradition treaty 
+   with the US, not knowing that the US can still apprehend them (they are a 
+   superpower after all). Take the case of the Russian hacker 
+   `Roman Seleznev`_ that thought that he was safe in the Maldives because they 
+   don't have an extradition treaty with the U.S. `He thought wrong`_.
   
-  .. raw:: html
+   .. raw:: html
 
-     <div align="center">
-     <img src="https://www.cnet.com/a/img/uf_P-IUAQf-_-47zXmpuSWcyqs8=/940x0/2020/02/10/489560f1-9731-4957-af0d-9b0a947da334/screen-shot-2020-02-10-at-10-18-15-am.png" style="width:700px;height:400px;"/>
-     <p><b>In the news articles and the DOJ <a href="https://www.justice.gov/opa/press-release/file/1246891/download">indictment</a>, they don't provide a picture for the alleged PLA member Liu Lei.
+      <div align="center">
+      <img src="https://www.cnet.com/a/img/uf_P-IUAQf-_-47zXmpuSWcyqs8=/940x0/2020/02/10/489560f1-9731-4957-af0d-9b0a947da334/screen-shot-2020-02-10-at-10-18-15-am.png" style="width:700px;height:400px;"/>
+      <p><b>In the news articles and the DOJ <a href="https://www.justice.gov/opa/press-release/file/1246891/download">indictment</a>, they don't provide a picture for the alleged PLA member Liu Lei.
         However in the <a href="https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute">FBI poster</a>, 
         you get all four pictures (though <a href="https://archive.md/3qA8b">at first</a> the FBI also only shown three pics). Very odd that the DOJ et al. worked for 2 years investigating the Equifax data breach
         and could not get a picture for Liu Lei to include in their indictment.</b></p>
-     </div>
+      </div>
      
-  |
+   |
   
-  .. raw:: html
+   .. raw:: html
 
-     <div align="center">
-     <img src="https://www.fbi.gov/@@dvpdffiles/8/c/8c0b4ce2b3c9448b95b13f19a89fc658/normal/dump_1.gif"/>
-     <p><b>PLA members wanted by the
-       <a href="https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute">FBI</a>.</b></p>
-     </div>
+      <div align="center">
+      <img src="https://www.fbi.gov/@@dvpdffiles/8/c/8c0b4ce2b3c9448b95b13f19a89fc658/normal/dump_1.gif"/>
+      <p><b>PLA members wanted by the
+        <a href="https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute">FBI</a>.</b></p>
+      </div>
      
-  And to finish this mega huge bullet point on a lighter note, `SecureWorld`_ believes 
-  that the pictures provided by the DOJ and FBI support the idea that the four 
-  supposedly identified hackers are all working in the Chinese military. Also, 
-  they state that the cyberattack on Equifax's networks was pulled off from Shanghai, 
-  China.
+   And to finish this mega huge bullet point on a lighter note, `SecureWorld`_ believes 
+   that the pictures provided by the DOJ and FBI support the idea that the four 
+   supposedly identified hackers are all working in the Chinese military. Also, 
+   they state that the cyberattack on Equifax's networks was pulled off from Shanghai, 
+   China.
   
-  .. raw:: html
+   .. raw:: html
 
-     <div align="center">
-       <img src="https://memegenerator.net/img/images/71799850.jpg" style="width:300px;height:200px;"/>
-     </div>
+      <div align="center">
+          <img src="https://memegenerator.net/img/images/71799850.jpg" style="width:300px;height:200px;"/>
+      </div>
 
-- There is no explanation in the `indictment`_ how the US authorities came to 
-  the conclusion that the four alleged PLA members were directly related to the 
-  network intrusions of Equifax computers.
+2. There is no explanation in the `indictment`_ how the US authorities came to 
+   the conclusion that the four alleged PLA members were directly related to the 
+   network intrusions of Equifax computers.
 
-- Some of the evidence is based on multiple IP addresses allegedly originating 
-  from China.
+3. Some of the evidence is based on multiple IP addresses allegedly originating 
+   from China.
 
-  It seems very sloppy for the four alleged members of the PLA to reportedly 
-  log multiple times into Equifax's systems directly from China-based IP 
-  addresses. These conspirators are not your average Joe that doesn't know much 
-  about network forensics but are supposedly part of PLA's 54th Research 
-  Institute which has traditionally focused on supporting electronic warfare 
-  akin to Cyber Command as opposed to cyber espionage [VD]_. 
+   It seems very sloppy for the four alleged members of the PLA to reportedly 
+   log multiple times into Equifax's systems directly from China-based IP 
+   addresses. These conspirators are not your average Joe that doesn't know much 
+   about network forensics but are supposedly part of PLA's 54th Research 
+   Institute which has traditionally focused on supporting electronic warfare 
+   akin to Cyber Command as opposed to cyber espionage [VD]_. 
   
-  Therefore, these four alleged PLA members should know very well how to hide 
-  their tracks and use only IP addresses from outside China. 
+   Therefore, these four alleged PLA members should know very well how to hide 
+   their tracks and use only IP addresses from outside China. 
   
-  The four suspected PLA hackers and their alleged co-conspirators were able 
-  to navigate throughout Equifax's networks as mere ghosts. To achieve their 
-  cloak of anonymity, they supposedly: 
+   The four suspected PLA hackers and their alleged co-conspirators were able 
+   to navigate throughout Equifax's networks as mere ghosts. To achieve their 
+   cloak of anonymity, they supposedly: 
   
-    - routed traffic through approximately 34 servers located in nearly 20 
-      countries to obfuscate their true location, 
-    - used encrypted communication channels within Equifax’s network to blend 
-      in with normal network activity, and 
-    - deleted compressed files and wiped log files on a daily basis in an 
-      effort to eliminate records of their activity. [DOJ]_
+     - routed traffic through approximately 34 servers located in nearly 20 
+       countries to obfuscate their true location, 
+     - used encrypted communication channels within Equifax’s network to blend 
+       in with normal network activity, and 
+     - deleted compressed files and wiped log files on a daily basis in an 
+       effort to eliminate records of their activity. [DOJ]_
       
-  But according to the DOJ `indictment`_, the four alleged `elite`_ 
-  hackers and their supposedly co-conspirators **DIRECTLY** accessed 
-  China-based IP addresses multiple times during their 2-month attack. This 
-  is a very basic and surprising mistake to commit when "hiding their tracks" is 
-  supposed to be the most important thing to accomplish because the network 
-  intrusions rest on constantly keeping the anonymity of the attackers. 
-  Accessing servers only from outside of China was not rigidly followed by 
-  the alleged group of hackers unless they really wanted to be identified 
-  and didn't care about repercussions (emphasis mine):
+   But according to the DOJ `indictment`_, the four alleged `elite`_ 
+   hackers and their supposedly co-conspirators **DIRECTLY** accessed 
+   China-based IP addresses multiple times during their 2-month attack. This 
+   is a very basic and surprising mistake to commit when "hiding their tracks" is 
+   supposed to be the most important thing to accomplish because the network 
+   intrusions rest on constantly keeping the anonymity of the attackers. 
+   Accessing servers only from outside of China was not rigidly followed by 
+   the alleged group of hackers unless they really wanted to be identified 
+   and didn't care about repercussions (emphasis mine):
   
-    1. The majority of the 9000 SQL queries [to the credit monitoring databases] 
-       were issued by conspirators using two **CHINA-BASED** IP addresses that 
-       connected **DIRECTLY** to Equifax' s network.
+     1. The majority of the 9000 SQL queries [to the credit monitoring databases] 
+        were issued by conspirators using two **CHINA-BASED** IP addresses that 
+        connected **DIRECTLY** to Equifax' s network.
     
-       [DOJ2]_ (paragraph 9, page 6)
+        [DOJ2]_ (paragraph 9, page 6)
       
-    2. ... another **CHINA-BASED** IP address ("China Server #2"), which was 
-       also repeatedly accessed during the intrusion by WANG QIAN, exploited 
-       the Apache Struts vulnerability on Equifax's online dispute portal. 
+     2. ... another **CHINA-BASED** IP address ("China Server #2"), which was 
+        also repeatedly accessed during the intrusion by WANG QIAN, exploited 
+        the Apache Struts vulnerability on Equifax's online dispute portal. 
       
-       [DOJ2]_ (paragraph 14.j, pages 9-10)
+        [DOJ2]_ (paragraph 14.j, pages 9-10)
       
-    3. ... XU KE used a different **CHINA-BASED** IP address ("China Server #3") 
-       to conduct reconnaissance on Equifax's online dispute portal. 
+     3. ... XU KE used a different **CHINA-BASED** IP address ("China Server #3") 
+        to conduct reconnaissance on Equifax's online dispute portal. 
+       
+        [DOJ2]_ (paragraph 14.k, page 10)
       
-       [DOJ2]_ (paragraph 14.k, page 10)
+     4. A conspirator using another **CHINA-BASED** IP address ("China Server #5") 
+        then utilized the malicious web shell "css.jsp," whichwas previously 
+        installed on Equifax's network ...
       
-    4. A conspirator using another **CHINA-BASED** IP address ("China Server #5") 
-       then utilized the malicious web shell "css.jsp," whichwas previously 
-       installed on Equifax's network ...
+        [DOJ2]_ (paragraph 14.l, page 10)
       
-       [DOJ2]_ (paragraph 14.l, page 10)
-      
-    5. ... a conspirator using **CHINA** Server #5 uploaded a substantively 
-       identical web shell, "ss.jsp," to the Equifax network. 
+     5. ... a conspirator using **CHINA** Server #5 uploaded a substantively 
+        identical web shell, "ss.jsp," to the Equifax network. 
     
-       [DOJ2]_ (paragraph 14.l, page 10)
+        [DOJ2]_ (paragraph 14.l, page 10)
        
-    6. ... a conspirator who was logged into another **CHINA-BASED** IP address 
-       ("China Server #6") utilized the malicious web shell "boxover.jsp" to 
-       query an Equifax database table ...
+     6. ... a conspirator who was logged into another **CHINA-BASED** IP address 
+        ("China Server #6") utilized the malicious web shell "boxover.jsp" to 
+        query an Equifax database table ...
+        
+        [DOJ2]_ (paragraph 14.n, page 10)
        
-       [DOJ2]_ (paragraph 14.n, page 10)
+     7. ... WANG QIAN, using **CHINA** Server #2, remotely accessed the 
+        malicious web shell "six.jsp" on an Equifax server ...
        
-    7. ... WANG QIAN, using **CHINA** Server #2, remotely accessed the 
-       malicious web shell "six.jsp" on an Equifax server ...
-       
-       [DOJ2]_ (paragraph 14.o, page 11)
+        [DOJ2]_ (paragraph 14.o, page 11)
     
-  The suspected hackers supposedly had the backing of the `second most 
-  important army in the world in terms of budget`_ (for 2020) but they were 
-  not able to think of various ways of definitely hiding their tracks that 
-  didn't require frequently logging from the same country. It would had been 
-  extremely careless of China to not make sure to be as anonymous as possible 
-  because they certainly knew that if they didn't, they risked further 
-  deteriorating their tense diplomatic relations with the currently only 
-  military superpower that is the USA which had `accused China`_ of multiple 
-  cyberattacks against the US and allies (e.g. the `2015 massive breach at the 
-  U.S. Office of Personnel Management`_).
+   The suspected hackers supposedly had the backing of the `second most 
+   important army in the world in terms of budget`_ (for 2020) but they were 
+   not able to think of various ways of definitely hiding their tracks that 
+   didn't require frequently logging from the same country. It would had been 
+   extremely careless of China to not make sure to be as anonymous as possible 
+   because they certainly knew that if they didn't, they risked further 
+   deteriorating their tense diplomatic relations with the currently only 
+   military superpower that is the USA which had `accused China`_ of multiple 
+   cyberattacks against the US and allies (e.g. the `2015 massive breach at the 
+   U.S. Office of Personnel Management`_).
   
-- Since it is extremely unlikely for the DOJ to arrest the four alleged PLA 
-  members, the quality of the evidence in the `indictment`_ can be very poor. 
-  The case will likely not go in front of a judge and jury where the evidence 
-  presented by the prosecutors would have been scrutinized.
+4. Since it is extremely unlikely for the DOJ to arrest the four alleged PLA 
+   members, the quality of the evidence in the `indictment`_ can be very poor. 
+   The case will likely not go in front of a judge and jury where the evidence 
+   presented by the prosecutors would have been scrutinized.
   
-  Thus, the DOJ is not incentivized to gather solid evidence that could link 
-  the four alleged PLA members to the Equifax data breach:
+   Thus, the DOJ is not incentivized to gather solid evidence that could link 
+   the four alleged PLA members to the Equifax data breach:
   
-    Officials acknowledged they were unlikely to face prosecution in a U.S. 
-    courtroom. [V]_ 
+     Officials acknowledged they were unlikely to face prosecution in a U.S. 
+     courtroom. [V]_ 
 
 Reading the many mainstream news articles (even outside the USA like UK and 
 Canada), you get the feeling that everyone just went along with the narrative of 
