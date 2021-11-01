@@ -646,9 +646,9 @@ Non-DOJ evidence that China's military personnel are behind the Equifax data bre
 `:information_source:`
 
   These are evidence that I was able to gather from non governmental sources such as 
-  from mainstream newspapers. As it is customary with journalists, the information
-  they provide will probably come from anonymous sources and hence their statements
-  will prove difficult (or almost impossible) to corroborate.
+  from mainstream newspapers. However, as you may see, the information provided by
+  journalisys will probably come from anonymous sources and hence their statements
+  may prove difficult (or almost impossible) to corroborate.
   
 .. TODO: add more non governmental sources
   
