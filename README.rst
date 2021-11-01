@@ -400,23 +400,23 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
    
      - Switzerland ("the Swiss Server"), [DOJ2]_ (*paragraph 14.f, page 9*)
      
-       According to the DOJ `indictment`_, the Swiss Server was accessed 5 
-       times by the conspirators.
+       According to the DOJ `indictment`_, the conspirators logged into the 
+       Swiss Server 5 times.
        
      - Taiwan ("the Taiwan Server"), [DOJ2]_ (*paragraph 14.e, page 8*)
      
-       According to the DOJ `indictment`_, the Taiwan Server was accessed 3
-       times by the conspirators.
+       According to the DOJ `indictment`_, the conspirators logged into the 
+       Taiwan Server 3 times.
 
      - Netherlands [DOJ2]_ (*paragraph 14.m, page 10*)
      
-       According to the DOJ `indictment`_, the Dutch server was accessed one
-       time by the conspirators.
+       According to the DOJ `indictment`_, the conspirators logged into the 
+       Dutch server one time.
      
      - Singapore ("the Singapore Server") [DOJ2]_ (*paragraph 14.o, page 11*)
      
-       According to the DOJ `indictment`_, the Singapore Server was accessed 2
-       times by the conspirators.
+       According to the DOJ `indictment`_, the conspirators logged into the 
+       Singapore Server 2 times.
        
 2. By stealing Equifax's **trade secrets** (including the personally 
    identifiable data and the proprietary database schema), it is claimed by 
