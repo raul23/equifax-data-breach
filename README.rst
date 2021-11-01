@@ -442,8 +442,9 @@ The evidence gathered from the DOJ `indictment`_ is very weak to support the
 claim that four alleged members of the PLA were the perpetrators of the Equifax 
 data breach.
 
-- No much personal information is given about the four suspected PLA members: 
-  Wu Zhiyong (吴志勇), Wang Qian (王乾), Xu Ke (许可) and Liu Lei (刘磊).
+- Not much personal information has been given about the four suspected PLA 
+  members: Wu Zhiyong (吴志勇), Wang Qian (王乾), Xu Ke (许可) and Liu Lei 
+  (刘磊).
 
   The DOJ `indictment`_ and mainstream news articles only provide their names, 
   pictures, and Beijing, China as their location of residence. However in the
