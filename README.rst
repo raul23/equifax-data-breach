@@ -272,7 +272,11 @@ data breach.
   (emphasis mine):
   
     Defendants [...] **WERE** members of the 54th Research Institute, which 
-    **WAS** a component of the PLA. [DOJ2]_ (*pages 3-4, parapraph 5.d*)
+    **WAS** a component of the PLA. 
+    
+    [DOJ2]_ (*pages 3-4, parapraph 5.d*)
+  
+  |
   
     ... Wu Zhiyong (吴志勇), Wang Qian (王乾), Xu Ke (许可) and Liu Lei (刘磊) 
     **WERE** members of the PLA’s 54th Research Institute, a component of 
