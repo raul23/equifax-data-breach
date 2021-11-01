@@ -559,7 +559,7 @@ data breach.
    breach. Only if the four alleged hackers are brought to a court of law, will the
    DOJ have to prove **beyond a reasonable doubt** that they attacked Equifax's 
    networks and stole their data. However, it is very unlikely that the four
-   suspects will be arrested one day. [V]_
+   suspects will be arrested one day [V]_.
    
    In the US criminal law, the “probable cause” standard is used to arrive at an 
    indictment instead of the most stringent standard of "beyond a reasonable 
