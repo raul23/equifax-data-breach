@@ -610,7 +610,8 @@ data breach.
 
 Reading the many mainstream news articles (even outside the USA like UK and 
 Canada), you get the feeling that everyone just went along with the narrative of 
-the DOJ that four PLA members are responsible for the Equifax data breach.
+the DOJ that four PLA members are unequivocally responsible for the Equifax 
+data breach.
 
 However, `RT.com`_ is among the only news sites that questioned the link 
 between the four alleged PLA members and the data breach as promulgated by the 
