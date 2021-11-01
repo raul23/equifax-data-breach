@@ -656,9 +656,9 @@ DOJ:
   military were responsible, whether they were supposedly acting on their own or 
   on state orders, or how it intends to bring them to a US court. [RT]_
 
-However, since it is from RT, people (especially in the US) will discard 
-whatever they have to say because they are `"the Kremlin's foreign-language 
-propaganda network"`_.
+However, since it is from RT, people (especially in the US) will have a tendency 
+to discard whatever they have to say because they are `"the Kremlin's 
+foreign-language propaganda network"`_.
 
 Also `tom's guide`_ asked important questions about the DOJ `indictment`_ 
 claiming that the four suspected Chinese hackers were allegedly military 
