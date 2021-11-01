@@ -482,7 +482,7 @@ data breach.
   More information (basic and detailed) is about the four alleged PLA hackers 
   such as: 
   
-  - general questions about their life: How old are they? Where did they grew 
+  - General questions about their life: How old are they? Where did they grew 
     up? Where did they study? Where did they work, apart from the PLA?
     Did they leave China at one point in their life?
   - Are Wang Qian and Liu Lei (the only ones not wearing military uniforms in 
