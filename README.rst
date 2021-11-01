@@ -479,12 +479,38 @@ data breach.
   identify the four suspects. At least, the FBI should have said that the 
   four alleged PLA hackers are probably still living in Beijing, China.
   
-  How old are they? Are Wang Qian and Liu Lei (the only ones not wearing 
-  military uniforms in the pictures) civilians working for PLA's 54th Research 
-  Institute or active-duty members of the PLA? What are their military ranks in 
-  the PLA? Were they receiving orders from higher up or were they acting on 
-  their own? Where are those pictures provided in the `indictment`_ of three of 
-  the four PLA members coming from? 
+  More information (basic and detailed) is about the four alleged PLA hackers 
+  such as: 
+  
+  - general questions about their life: How old are they? Where did they grew 
+    up? Where did they study? Where did they work, apart from the PLA?
+    Did they leave China at one point in their life?
+  - Are Wang Qian and Liu Lei (the only ones not wearing military uniforms in 
+    the pictures) civilians working for PLA's 54th Research Institute or 
+    active-duty members of the PLA? 
+  - What are their military ranks in the PLA? 
+  - Were they receiving orders from higher up or were they acting on their 
+    own? 
+  - Where are those pictures provided in the `indictment`_ of three of 
+    the four PLA members coming from? 
+  
+  All those questions are important for the FBI, DOJ, CIA, and any other relevant 
+  three letter agencies to answer to the public because this is the kind of 
+  information that will be useful for anyone around the world to be able to 
+  recognize any of the alleged PLA hackers. Only in China, there are 
+  approximately `1.412 billion`_ (as of November 2020) people and the more 
+  personal information you give, higher will be the chance for someone to produce
+  helpful tips.
+  
+  But right now, the personal info the DOJ et al. have provided is very weak and
+  doesn't help much the public to identify the four alleged hackers.
+  
+  There still the possibility that any of the alleged hackers might leave China 
+  in the near future and go to a place that they think there is no extradition 
+  treaty with the US, not knowing that the US can still apprehend them (they
+  are the only superpower for a reason, right?). Just take the example of the
+  Russian hacker `Roman Seleznev`_ that thought that he was safe in the Maldives 
+  because they don't have extradition treaty with the U.S. `He thought wrong`_.
   
   .. raw:: html
 
@@ -1206,6 +1232,7 @@ References
    `Archived <https://archive.md/Pq3ut>`__.
 
 .. URLs
+.. _1.412 billion: https://en.wikipedia.org/wiki/Demographics_of_China
 .. _29 July 2017: https://www.prnewswire.com/news-releases/equifax-announces-cybersecurity-incident-involving-consumer-information-300515960.html
 .. _2015 massive breach at the U.S. Office of Personnel Management: 
    https://web.archive.org/web/20201119114457/https://www.bloomberg.com/news/articles/2015-07-09/hackers-stole-government-data-on-25-7-million-people-u-s-says
@@ -1233,6 +1260,7 @@ References
 .. _filing: https://web.archive.org/web/20210112015402/http://securities.stanford.edu/filings-documents/1063/EI00_15/2019128_r01x_17CV03463.pdf
 .. _Four Members of China's Military Indicted for Massive Equifax Breach: 
    https://www.wsj.com/articles/four-members-of-china-s-military-indicted-for-massive-equifax-breach-11581346824
+.. _He thought wrong: https://abcnews.go.com/blogs/headlines/2014/07/russia-claims-alleged-hacker-was-kidnapped-by-us-agents
 .. _indictment: https://www.justice.gov/opa/press-release/file/1246891/download
 .. _Justice Department charges 4 members of Chinese military for massive Equifax hack: 
    https://www.cbsnews.com/news/equifax-hack-chinese-military-members-charged-department-of-justice/
@@ -1240,6 +1268,7 @@ References
 .. _press release: https://www.justice.gov/opa/pr/chinese-military-personnel-charged-computer-fraud-economic-espionage-and-wire-fraud-hacking
 .. _Report\: Chinese Army Stole Over 13 Million British Citizens’ Personal Data:
    https://www.breitbart.com/europe/2020/02/17/equifax-hack-china-stole-13-million-peoples-data-in-the-uk/
+.. _Roman Seleznev: https://en.wikipedia.org/wiki/Roman_Seleznev
 .. _RT.com: https://www.rt.com/usa/480536-chinese-military-hackers-equifax/
 .. _second most important army in the world in terms of budget: 
    https://en.wikipedia.org/wiki/List_of_countries_by_military_expenditures
