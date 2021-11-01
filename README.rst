@@ -589,7 +589,7 @@ data breach.
   The suspected hackers supposedly had the backing of the `second most 
   important army in the world in terms of budget`_ (for 2020) but they were 
   not able to think of various ways of definitely hiding their tracks that 
-  did't require constantly logging from the same location. It would had been 
+  didn't require constantly logging from the same location. It would had been 
   extremely careless of China to not make sure to be as anonymous as possible 
   because they certainly knew that if they did't, they risked further 
   deteriorating their tense diplomatic relations with the currently only 
