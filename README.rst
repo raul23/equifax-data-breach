@@ -447,7 +447,7 @@ data breach.
   (刘磊).
 
   The DOJ `indictment`_ and mainstream news articles only provide their names, 
-  pictures, and Beijing, China as their location of residence. However in the
+  pictures, and Beijing, China as their place of residence. However in the
   indictment, Beijing is referred in the past (emphasis mine):
   
     Defendants [...] **WERE** residents of Beijing, China 
