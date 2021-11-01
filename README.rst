@@ -527,7 +527,7 @@ data breach.
   their tracks and use only IP addresses from outside China. 
   
   The four suspected PLA hackers and their alleged co-conspirators were able 
-  to navigate throughout Equifax's networks as mere ghosts. To acheive their 
+  to navigate throughout Equifax's networks as mere ghosts. To achieve their 
   cloak of anonymity, they supposedly: 
   
     - routed traffic through approximately 34 servers located in nearly 20 
