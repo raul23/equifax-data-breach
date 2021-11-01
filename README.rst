@@ -544,7 +544,7 @@ data breach.
   supposed to be the most important thing to accomplish because the network 
   intrusions rest on constantly keeping the anonymity of the attackers. 
   Accessing servers only from outside of China was not rigidly followed by 
-  the allegd group of hackers unless they really wanted to be identified 
+  the alleged group of hackers unless they really wanted to be identified 
   and didn't care about repercussions (emphasis mine):
   
     1. The majority of the 9000 SQL queries [to the credit monitoring databases] 
