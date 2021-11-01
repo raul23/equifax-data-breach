@@ -427,19 +427,8 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
      
      [DOJ2]_ (*paragraph 23, pages 14-15*)
 
-Non-DOJ evidence that China's military personnel are behind the Equifax data breach
------------------------------------------------------------------------------------
-`:information_source:`
-
-  These are evidence that I was able to gather from non governmental sources such as 
-  from mainstream newspapers. As it is customary with journalists, the information
-  they provide will probably come from anonymous sources and hence their statements
-  will prove difficult (or almost impossible) to corroborate.
-  
-  TODO: add more non governmental sources
-
-Weak evidence
--------------
+DOJ evidence: weak
+------------------
 The evidence gathered from the DOJ `indictment`_ is very weak to support the 
 claim that four alleged members of the PLA were the perpetrators of the Equifax 
 data breach.
@@ -640,6 +629,23 @@ claiming that the four Chinese hackers were allegedly members of the PLA:
   be members of the PLA's 54th Research Institute. (Update: A `wanted poster 
   put up online by the FBI`_ shows photos allegedly of Wu and Xu wearing 
   military uniforms.) [WP]_
+
+Non-DOJ evidence that China's military personnel are behind the Equifax data breach
+-----------------------------------------------------------------------------------
+`:information_source:`
+
+  These are evidence that I was able to gather from non governmental sources such as 
+  from mainstream newspapers. As it is customary with journalists, the information
+  they provide will probably come from anonymous sources and hence their statements
+  will prove difficult (or almost impossible) to corroborate.
+  
+.. TODO: add more non governmental sources
+  
+TODO
+  
+Non-DOJ evidence: weak
+----------------------
+TODO
 
 Equifax data breach by the numbers
 ==================================
