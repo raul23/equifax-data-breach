@@ -490,12 +490,12 @@ data breach.
     - deleted compressed files and wiped log files on a daily basis in an 
       effort to eliminate records of their activity. [DOJ]_
       
-  But despite their elite hacking skills, the four alleged hackers and 
+  But according to the DOJ `indictment`_, the four alleged elite hackers and 
   their supposedly co-conspirators **DIRECTLY** accessed China-based IP
   addresses multiple times during their 2-month attack, a very basic and
   surprising mistake to commit when hiding your tracks is the most 
   important of all things to accomplish because the network intrusions 
-  rest on constantly keeping the anonymity of the hackers (emphasis mine):
+  rest on constantly keeping the anonymity of the attackers (emphasis mine):
   
     1. The majority of the 9000 SQL queries [to the credit monitoring databases] 
        were issued by conspirators using two China-based IP addresses that 
@@ -504,27 +504,30 @@ data breach.
        [DOJ2]_ (paragraph 9, page 6)
       
     2. ... another China-based IP address ("China Server #2"), which was 
-       also repeatedly accessed during the intrusion by WANG QlAN, exploited 
-       the Apache Struts vulnerability on Equifax' s online dispute portal. 
+       also repeatedly accessed during the intrusion by WANG QIAN, exploited 
+       the Apache Struts vulnerability on Equifax's online dispute portal. 
       
        [DOJ2]_ (paragraph 14.j, pages 9-10)
       
     3. ... XU KE used a different China-based IP address ("China Server #3") 
-       to conduct reconnaissance onEquifax' s online dispute portal. 
+       to conduct reconnaissance on Equifax's online dispute portal. 
       
        [DOJ2]_ (paragraph 14.k, page 10)
       
     4. A conspirator using another China-based IP address ("China Server #5") 
-       ...
+       then utilized the malicious web shell "css.jsp," whichwas previously 
+       installed on Equifax's network ...
       
        [DOJ2]_ (paragraph 14.l, page 10)
       
-    5. ... a conspirator using China Server #5 uploaded ...
+    5. ... a conspirator using China Server #5 uploaded a substantively 
+       identical web shell, "ss.jsp," to the Equifax network. 
     
        [DOJ2]_ (paragraph 14.l, page 10)
        
     6. ... a conspirator who was logged into another China-based IP address 
-       ("China Server #6") 
+       ("China Server #6") utilized the malicious web shell "boxover.jsp" to 
+       query an Equifax database table ...
        
        [DOJ2]_ (paragraph 14.n, page 10)
        
