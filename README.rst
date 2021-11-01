@@ -598,9 +598,9 @@ data breach.
   U.S. Office of Personnel Management`_).
   
 - Since it is extremely unlikely for the DOJ to arrest the four alleged PLA 
-  members, the indictment can be very poor in the quality of the evidence. The 
-  case will not go in front of a judge and jury where the evidence presented by 
-  the prosecutors would have been scrutinized.
+  members, the quality of the evidence in the `indictment`_ can be very poor. 
+  The case will likely not go in front of a judge and jury where the evidence 
+  presented by the prosecutors would have been scrutinized.
   
   Thus, the DOJ is not incentivized to gather solid evidence that could link 
   the four alleged PLA members to the Equifax data breach:
