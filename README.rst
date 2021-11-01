@@ -190,7 +190,7 @@ page (emphasis mine):
   The defendants are presumed innocent until proven guilty beyond a 
   reasonable doubt in a court of law.
     
-And here is the definiton of the word "allegation" (emphasis mine):
+And here is the definiton for the word "allegation" (emphasis mine):
   
   a statement, made **WITHOUT GIVING PROOF**, that someone has done 
   something wrong or illegal [CA]_
