@@ -9,6 +9,18 @@
    <img src="https://www.omegawealthmanagement.com/wp-content/uploads/2020/01/equifax.jpg" style="width:550px;height:250px;"/>
    <p><b><a href="https://www.omegawealthmanagement.com/were-you-affected-by-the-equifax-data-breach-in-2017/">Reference</a></b></p>
    </div>
+   
+`:warning:`
+
+  **Disclaimer**
+
+  This repository is for educational and informational purposes 
+  only. The author, raul23, assumes no responsibility for the use 
+  of this repository, code or any information contained therein. 
+  The user is solely responsible for any action he/she takes with 
+  this repository, code and information contained in it.
+
+  Do not abuse this material. Be responsible.
 
 .. contents:: **Contents**
    :depth: 4
