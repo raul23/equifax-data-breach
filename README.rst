@@ -552,7 +552,24 @@ data breach.
 
 2. There is no explanation in the `indictment`_ how the US authorities came to 
    the conclusion that the four alleged PLA members were directly related to the 
-   network intrusions of Equifax computers.
+   network intrusions of Equifax's computers.
+   
+   Since it is an indictment, the DOJ is not obligated to detail how they
+   determined the alleged four PLA members were responsible for the Equifax data
+   breach. Only if the four alleged hackers are brought to a court of law, will the
+   DOJ have to prove **beyond a reasonable doubt** that they attacked Equifax's 
+   networks and stole their data. However, it is very unlikely that the four
+   suspects will be arrested one day. [V]_
+   
+   In the US criminal law, the “probable cause” standard is used to arrive at an 
+   indictment instead of the most stringent standard of "beyond a reasonable 
+   doubt" which is used in a court of law.
+
+     The “probable cause” standard is one of the lowest standards in criminal law, 
+     defined as requiring only sufficient evidence to lead a reasonable person to 
+     believe that a crime has been committed and that the defendant is guilty. 
+     This stands in stark contrast to “beyond a reasonable doubt,” which is 
+     necessary to convict a defendant at trial. [BG]_
 
 3. Some of the evidence is based on multiple IP addresses allegedly originating 
    from China.
@@ -1112,6 +1129,11 @@ References
 .. [BBC] “Equifax Says Almost 400,000 Britons Hit in Data Breach.” *BBC News*, 
    BBC, 15 Sept. 2017, https://www.bbc.com/news/technology-41286638.
    `Archived <https://archive.md/zpbLF>`__.
+   
+.. [BG] Burnham & Gorokhov, PLLC. “Federal Indictments: Answers to Frequently Asked Questions.” 
+   *Burnham & Gorokhov*, 8 Aug. 2016, 
+   https://www.burnhamgorokhov.com/criminal-defense-resources/federal-criminal-process/federal-indictments-faqs/.
+   `Archived <https://archive.md/QMgsB>`__.
    
 .. [C] “Equifax Doubles Number of Canadians Hit by Breach, Now More than 19,000 
    | CBC News.” *CBCnews*, CBC/Radio Canada, 28 Nov. 2017, 
