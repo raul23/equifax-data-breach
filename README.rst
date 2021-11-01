@@ -549,7 +549,7 @@ data breach.
   But according to the DOJ `indictment`_, the four alleged `elite`_ 
   hackers and their supposedly co-conspirators **DIRECTLY** accessed 
   China-based IP addresses multiple times during their 2-month attack. This 
-  is a very basic and surprising mistake to commit when hiding their tracks is 
+  is a very basic and surprising mistake to commit when "hiding their tracks" is 
   supposed to be the most important thing to accomplish because the network 
   intrusions rest on constantly keeping the anonymity of the attackers. 
   Accessing servers only from outside of China was not rigidly followed by 
