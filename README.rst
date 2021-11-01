@@ -183,7 +183,7 @@ of the four Chinese military members [DOJ]_:
   also conspired with other people that are known and unknown to the DOJ 
   (emphasis mine):
   
-  - From "Count 1: Computer Fraud Conspiracy)" section of the DOJ 
+  - From the "Count 1: Computer Fraud Conspiracy)" section of the DOJ 
     `indictment`_:
   
      ... the defendants, WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, did knowingly 
@@ -193,7 +193,7 @@ of the four Chinese military members [DOJ]_:
      
      [DOJ2]_ (*paragraph 6, page 4*)
   
-  - From the OVERT ACTS section of the DOJ `indictment`_:
+  - From the OVERT ACTS subsection of "Count 1" of the DOJ `indictment`_:
 
      ... the defendants, WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, and **OTHERS** 
      committed various overt acts in the Northern District of Georgia and 
@@ -201,8 +201,8 @@ of the four Chinese military members [DOJ]_:
      
      [DOJ2]_ (*paragraph 14, page 7*)
   
-  - From "Count 2: Computer Fraud and Abuse (Intentional Damage)" section of the
-    DOJ `indictment`_:
+  - From thee "Count 2: Computer Fraud and Abuse (Intentional Damage)" section of 
+    the DOJ `indictment`_:
 
      ... the defendants, WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, aided and 
      abetted by each other and **OTHERS KNOWN AND UNKNOWN** to the Grand Jury
@@ -210,7 +210,7 @@ of the four Chinese military members [DOJ]_:
      
      [DOJ2]_ (*paragraph 16, pages 11-12*)
      
-  - From "Count 3: Computer Fraud and Abuse: Unauthorized Access" section of 
+  - From the "Count 3: Computer Fraud and Abuse: Unauthorized Access" section of 
     the DOJ `indictment`_:
     
      the defendants, WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, aided and 
@@ -219,7 +219,7 @@ of the four Chinese military members [DOJ]_:
 
      [DOJ2]_ (*paragraph 18, page 12*)
      
-  - From "Count 4: Conspiracy to CommitEconomic Espionage" section of 
+  - From the "Count 4: Conspiracy to Commit Economic Espionage" section of 
     the DOJ `indictment`_:
     
      the defendants, WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, knowingly 
@@ -228,7 +228,74 @@ of the four Chinese military members [DOJ]_:
      to the Grand Jury
 
      [DOJ2]_ (*paragraph 20, page 13*)
+
+  - From the OVERT ACTS subsection of "Count 4" of the DOJ `indictment`_:
+
+     ... the defendants, WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, and 
+     **OTHERS** committed various overt acts in the Northern District of 
+     Georgia and elsewhere ...
+     
+     [DOJ2]_ (*paragraph 21, page 14*)
+     
+  - From the "Count 5: Economic Espionage" section of the DOJ 
+    `indictment`_:
+     
+     ... the defendants, WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, aided 
+     and abetted by each other and **OTHERS KNOWN AND UNKNOWN** to the Grand 
+     Jury ...
  
+     [DOJ2]_ (*paragraph 23, page 14*)
+
+  - From the "Count 6: Conspiracy to Commit Wire Fraud" section of the DOJ 
+    `indictment`_:
+     
+     ... the defendants, WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, 
+     knowingly and willfully combined, conspired, confederated, agreed, and 
+     had tacit understanding, with each other and **OTHERS KNOWN AND 
+     UNKNOWN** to the Grand Jury ...
+ 
+     [DOJ2]_ (*paragraph 25, page 15*)
+
+  - From the MANNER AND MEANS OF THE CONSPIRACY subsection of "Count 6" 
+    of the DOJ `indictment`_:
+
+     It was part of the conspiracy that the defendants, WU ZHIYONG, 
+     WANG QIAN, XU KE, and LIU LEI, and **OTHERS KNOWN AND UNKNOWN** ...
+     
+     [DOJ2]_ (*paragraph 26, page 16*)
+     
+     |
+     
+     After infiltrating Equifax's network, WU ZHIYONG, WANG QIAN, XU 
+     KE, and LIU LEI, and their **CO-CONSPIRATORS** ...
+     
+     [DOJ2]_ (*paragraph 27, page 16*)
+     
+     |
+     
+     WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, and their 
+     **CO-CONSPIRATORS** ...
+     
+     [DOJ2]_ (*paragraph 28, page 16*)
+     
+     |
+     
+     After gaining access to these additional databases with stolen 
+     credentials, WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, and their 
+     **CO-CONSPIRATORS** ...
+     
+     [DOJ2]_ (*paragraph 29, page 16*)
+
+  - From the "Counts 7 through 9: Wire Fraud" section of the DOJ 
+    `indictment`_:
+     
+     ... the defendants, WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, 
+     aided and abetted by each other and **OTHERS KNOWN AND UNKNOWN** 
+     to the Grand Jury,
+ 
+     [DOJ2]_ (*paragraph 31, page 17*)
+     
+     
 DOJ evidence that China's military personnel are behind the Equifax data breach
 -------------------------------------------------------------------------------
 `:information_source:`
@@ -313,6 +380,17 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
      of Title 18, United States Code, Sections 1831(a)(1), (a)(2), and (a)(3).
      
      [DOJ2]_ (*paragraph 20, pages 13-14*)
+     
+     |
+     
+     ... the defendants [...] intending and knowing that the offense would 
+     benefit a foreign government, instrumentality, and agent, namely China 
+     and the People's Liberation Army, did knowingly and without authorization 
+     copy, duplicate, download, upload, replicate, transmit, deliver, send, 
+     mail, communicate, and convey a **TRADE SECRET** ...
+     
+     [DOJ2]_ (*paragraph 23, pages 14-15*)
+     
 
 Weak evidence
 -------------
