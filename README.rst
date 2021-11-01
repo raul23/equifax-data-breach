@@ -171,7 +171,7 @@ The US says members of the Chinese military hacked Equifax
   `indictment`_ is based on allegations and people (especially media pundits) 
   should not repeat what is in the document as gospel.
   
-That's why the DOJ `press release` says the following in the bottom of the
+That's why the DOJ `press release`_ says the following in the bottom of the
 page (emphasis mine):
   
   The details contained in the charging document are **ALLEGATIONS**.  
