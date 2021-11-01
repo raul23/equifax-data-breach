@@ -498,7 +498,7 @@ data breach.
   three letter agencies to answer to the public because this is the kind of 
   information that will be useful for anyone around the world to be able to 
   recognize any of the alleged PLA hackers. Only in China, there are 
-  approximately `1.412 billion`_ (as of November 2020) people and the more 
+  approximately `1.412 billion people`_ (as of November 2020) and the more 
   personal information you give, higher will be the chance for someone to produce
   helpful tips.
   
@@ -1236,7 +1236,7 @@ References
    `Archived <https://archive.md/Pq3ut>`__.
 
 .. URLs
-.. _1.412 billion: https://en.wikipedia.org/wiki/Demographics_of_China
+.. _1.412 billion people: https://en.wikipedia.org/wiki/Demographics_of_China
 .. _29 July 2017: https://www.prnewswire.com/news-releases/equifax-announces-cybersecurity-incident-involving-consumer-information-300515960.html
 .. _2015 massive breach at the U.S. Office of Personnel Management: 
    https://web.archive.org/web/20201119114457/https://www.bloomberg.com/news/articles/2015-07-09/hackers-stole-government-data-on-25-7-million-people-u-s-says
