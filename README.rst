@@ -1013,6 +1013,10 @@ Links
   <https://www.cnet.com/news/china-denies-equifax-hack-after-justice-department-charged-four-military-hackers/>`_ 
   *CNET*, 11 Feb. 2020. `Archived <https://archive.md/VVTSL>`__.
   
+- Mozur, Paul. `“With Harsh Words, China's Military Denies It Hacked Equifax.” 
+  <https://www.nytimes.com/2020/02/13/business/china-equifax-deny.html>`_ 
+  *The New York Times*, 13 Feb. 2020. `Archived <https://archive.md/WeO4Y>`__.
+  
 - Gadher, Dipesh. `“Chinese Army's Elite Hackers Steal Equifax Data on 13m Britons.” 
   <https://www.thetimes.co.uk/article/chinese-armys-elite-hackers-steal-equifax-data-on-13m-britons-ld32rqjqq>`__ 
   *The Sunday Times*, 16 Feb. 2020. `Archived <https://archive.md/4kCSs>`__.
