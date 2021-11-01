@@ -142,8 +142,8 @@ application was vulnerable enough for an attacker to exploit. [M]_
       describing how Equifax was breached.</b></p>
    </div>
    
-List of malware files and web shells used by the hackers
-========================================================
+List of malware files and web shells allegedly used by the hackers
+==================================================================
 `:information_source:`
 
   This list is compiled from the United States Department of Justice 
