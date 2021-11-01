@@ -717,6 +717,7 @@ Other interesting information
 Glossary
 ========
 - Chinese People’s Liberation Army (PLA)
+- The Government Accountability Office (GAO)
 - Personally identifiable information (PII)
 - The United States Department of Justice (DOJ)
 
