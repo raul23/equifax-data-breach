@@ -660,9 +660,9 @@ Since it is from RT, people (especially in the US) will have a tendency to
 discard whatever they have to say because they are `"the Kremlin's 
 foreign-language propaganda network"`_.
 
-Also `tom's guide`_ asked important questions about the DOJ `indictment`_ 
-claiming that the four suspected Chinese hackers were allegedly military 
-members of the PLA:
+Also `tom's guide`_ asked important questions about the DOJ's often repeated 
+claim that the four suspected Chinese hackers were allegedly military members 
+of the PLA:
 
   It is not clear whether the four individuals are civilians working for the 
   PLA or active-duty members of the Chinese military. No military ranks were 
