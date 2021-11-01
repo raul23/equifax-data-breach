@@ -343,7 +343,7 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
   **TODO:** gather evidence from other governmental sources if they are found
   
 1. Multiple China-based IP addresses were allegedly accessed during the 
-   intrusion of Equifax's network by the conspirators:
+   intrusion of Equifax's networks by the conspirators:
 
    - The majority of the 9000 SQL queries [to the credit monitoring databases] 
      were issued by conspirators using two **China-based IP addresses** that 
