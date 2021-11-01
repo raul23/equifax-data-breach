@@ -622,8 +622,8 @@ DOJ:
   on state orders, or how it intends to bring them to a US court. [RT]_
 
 Also `tom's guide`_ asked important questions about the DOJ `indictment`_ 
-claiming that the four Chinese hackers were allegedly military members of the 
-PLA:
+claiming that the four suspected Chinese hackers were allegedly military 
+members of the PLA:
 
   It is not clear whether the four individuals are civilians working for the 
   PLA or active-duty members of the Chinese military. No military ranks were 
