@@ -176,7 +176,59 @@ of the four Chinese military members [DOJ]_:
   with each other to hack into Equifax’s computer networks, maintain 
   unauthorized access to those computers, and steal sensitive, personally 
   identifiable information of approximately 145 million American victims. 
+  
+`:warning:`
 
+  In the DOJ `indictment`_, it is claimed that the four alleged PLA hackers 
+  also conspired with other people that are known and unknown to the DOJ 
+  (emphasis mine):
+  
+  - From "Count 1: Computer Fraud Conspiracy)" section of the DOJ 
+    `indictment`__:
+  
+     ... the defendants, WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, did knowingly 
+     and willfully combine, conspire, confederate, agree, and have a tacit 
+     understanding with each other and **OTHER PERSONS KNOWN AND UNKNOWN** to the
+     Grand Jury ...
+     
+     [DOJ2]_ (*paragraph 6, page 4*)
+  
+  - From the OVERT ACTS section of the DOJ `indictment`_:
+
+     ... the defendants, WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, and **OTHERS** 
+     committed various overt acts in the Northern District of Georgia and 
+     elsewhere ...
+     
+     [DOJ2]_ (*paragraph 14, page 7*)
+  
+  - From "Count 2: Computer Fraud and Abuse (Intentional Damage)" section of the
+    DOJ `indictment`__:
+
+     ... the defendants, WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, aided and 
+     abetted by each other and **OTHERS KNOWN AND UNKNOWN** to the Grand Jury
+     ...
+     
+     [DOJ2]_ (*paragraph 16, pages 11-12*)
+     
+  - From "Count 3: Computer Fraud and Abuse: Unauthorized Access" section of 
+    the DOJ `indictment`__:
+    
+     the defendants, WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, aided and 
+     abetted by each other and **OTHERS KNOWN AND UNKNOWN** to the Grand 
+     Jury
+
+     [DOJ2]_ (*paragraph 18, page 12*)
+     
+  - From "Count 4: Conspiracy to CommitEconomic Espionage" section of 
+    the DOJ `indictment`__:
+    
+     the defendants, WU ZHIYONG, WANG QIAN, XU KE, and LIU LEI, knowingly 
+     and willfully combined, conspired, confederated, agreed, and had a 
+     tacit understanding, with each other and **OTHERS KNOWN AND UNKNOWN** 
+     to the Grand Jury
+
+     [DOJ2]_ (*paragraph 20, page 13*)
+ 
 DOJ evidence that China's military personnel are behind the Equifax data breach
 -------------------------------------------------------------------------------
 `:information_source:`
@@ -190,7 +242,7 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
 
    - The majority of the 9000 SQL queries [to the credit monitoring databases] 
      were issued by conspirators using two **China-based IP addresses** that 
-     connected directly to Equifax' s network. [DOJ2]_ (*page 6, paragraph 9*)
+     connected directly to Equifax' s network. [DOJ2]_ (*paragraph 9, page 6*)
 
      **NOTE:** the indictment doesn't name these two **China-based IP 
      addresses** like in other places of the document (e.g. China Server #1)
@@ -198,27 +250,27 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
      China-based IP address ("China Server #1"), which was repeatedly accessed 
      during the intrusion by WANG QIAN, logged into a Taiwanese IP address (
      "the Taiwan Server") via Remote Desktop Protocol software and copied the 
-     malicious file "jndi. txt." [DOJ2]_ (*page 8, paragraph 14.e*)
+     malicious file "jndi. txt." [DOJ2]_ (*paragraph 14.e, page 8*)
    - **China Server #2:** On or about July 7, 2017, another China-based IP 
      address ("China Server #2"), which was also repeatedly accessed during 
      the intrusion by WANG QIAN, exploited the Apache Struts vulnerability on 
-     Equifax' s online dispute portal. [DOJ2]_ (*page 9, paragraph 14.j*)
+     Equifax' s online dispute portal. [DOJ2]_ (*paragraph 14.j, page 9*)
    - **China Server #3:** On or about July 9, 2017, XUKE used a different 
      China-based IP address ("China Server #3") to conduct reconnaissance on 
-     Equifax' s online dispute portal. [DOJ2]_ (*page 10, paragraph 14.k*)
+     Equifax' s online dispute portal. [DOJ2]_ (*paragraph 14.k, page 10*)
    - **China Server #4:** On or about July 10, 2017, a conspirator using 
      another China-based IP address ("China Server #4") logged into the Taiwan 
      Server and copied the malicious file "abc.txt" to the Taiwan Server. 
-     [DOJ2]_ (*page 10, paragraph 14.l*)
+     [DOJ2]_ (*Paragraph 14.l, page 10*)
    - **China Server #5:** On or about July 10, 2017, a conspirator using 
      another China-based IP address ("China Server #5'') then utilized the 
      malicious web shell ''css.jsp," which was previously installed on 
      Equifax's network, to issue a command to download the "abc. txt" file 
-     from the Taiwan Server. [DOJ2]_ (*page 10, paragraph 14.l*)
+     from the Taiwan Server. [DOJ2]_ (*paragraph 14.l, page 10*)
    - **China Server #6:** On or about July 10, 2017, a conspirator who was 
      logged into another China-based IP address ("China Server #6") utilized 
      the malicious web shell ''boxover.jsp" to query an Equifax database table 
-     and store the results in output files. [DOJ2]_ (*page 10, paragraph 14.n*)
+     and store the results in output files. [DOJ2]_ (*paragraph 14.n, page 10*)
    
    `:information_source:`
    
@@ -236,18 +288,31 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
      The conspirators also allegedly accessed IP addresses from locations 
      outside of China:
    
-     - Switzerland ("the Swiss Server"), [DOJ2]_ (*page 9, paragraph 14.f*)
+     - Switzerland ("the Swiss Server"), [DOJ2]_ (*paragraph 14.f, page 9*)
      
        According to the DOJ `indictment`_, the Swiss Server was accessed 5 
        times by the conspirators.
-     - Taiwan ("the Taiwan Server"), [DOJ2]_ (*page 8, paragraph 14.e*)
+     - Taiwan ("the Taiwan Server"), [DOJ2]_ (*paragraph 14.e, page 8*)
      
        According to the DOJ `indictment`_, the Taiwan Server was accessed 3
        times by the conspirators.
-     - Singapore ("the Singapore Server") [DOJ2]_ (*page 11, paragraph 14.o*)
+     - Singapore ("the Singapore Server") [DOJ2]_ (*paragraph 14.o, page 11*)
      
        According to the DOJ `indictment`_, the Singapore Server was accessed 2
        times by the conspirators.
+       
+2. By stealing Equifax's **trade secrets** (including the personally 
+   identifiable data and the proprietary database schema), it is claimed by 
+   the DOJ that the alleged Chinese hackers are working with the Chinese
+   government and the PLA because these are the kinds of data that these 
+   entities are interested in (emphasis mine):
+   
+     ... with said **TRADE SECRETS** [...], intending and knowing that the 
+     offense would **BENEFIT A FOREIGN GOVERNMENT**, instrumentality, and 
+     agent, namely **CHINA AND THE PEOPLE'S LIBERATION ARMY**, in violation 
+     of Title 18, United States Code, Sections 1831(a)(1), (a)(2), and (a)(3).
+     
+     [DOJ2]_ (*paragraph 20, pages 13-14*)
 
 Weak evidence
 -------------
@@ -264,7 +329,7 @@ data breach.
   
     Defendants [...] **WERE** residents of Beijing, China 
     
-    [DOJ2]_ (*pages 3-4, parapraph 5.d*)
+    [DOJ2]_ (*parapraph 5.d, pages 3-4*)
     
   Thus, the whereabouts of the suspects are uncertain.
   
@@ -275,7 +340,7 @@ data breach.
     Defendants [...] **WERE** members of the 54th Research Institute, which 
     **WAS** a component of the PLA. 
     
-    [DOJ2]_ (*pages 3-4, parapraph 5.d*)
+    [DOJ2]_ (*parapraph 5.d, pages 3-4*)
   
   |
   
@@ -463,6 +528,12 @@ Other interesting information
     officials said that charging and naming them served the purpose of 
     **publicly shaming** them for their actions and enabled the United States 
     to arrest them if they travel one day. [FA]_
+    
+Glossary
+========
+- Chinese People’s Liberation Army (PLA)
+- Personally identifiable information (PII)
+- The United States Department of Justice (DOJ)
 
 Links
 =====
