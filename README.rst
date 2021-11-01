@@ -176,7 +176,9 @@ of the four Chinese military members [DOJ]_:
   with each other to hack into Equifax’s computer networks, maintain 
   unauthorized access to those computers, and steal sensitive, personally 
   identifiable information of approximately 145 million American victims. 
-  
+
+|
+
 `:warning:`
 
 In the DOJ `indictment`_, it is claimed that the four alleged PLA hackers 
