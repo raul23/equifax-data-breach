@@ -533,7 +533,7 @@ data breach.
         <a href="https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute">FBI</a>.</b></p>
       </div>
      
-   And to finish this mega huge bullet point on a lighter note, `SecureWorld`_ believes 
+   And to finish this mega huge bullet number on a lighter note, `SecureWorld`_ believes 
    that the pictures provided by the DOJ and FBI support the idea that the four 
    supposedly identified hackers are all working in the Chinese military. Also, 
    they state that the cyberattack on Equifax's networks was pulled off from Shanghai, 
