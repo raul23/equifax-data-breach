@@ -416,7 +416,7 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
 2. By stealing Equifax's **trade secrets** (including the personally 
    identifiable data and the proprietary database schema), it is claimed by 
    the DOJ that the alleged Chinese hackers are seemingly working with the 
-   Chinese government and the PLA because these are the kinds of data that 
+   Chinese government and the PLA because this is the kind of data that 
    these entities are interested in (emphasis mine):
    
      ... with said **TRADE SECRETS** [...], intending and knowing that the 
