@@ -46,6 +46,11 @@ Some important information
 - On March 9, 2017, the company's IT team was informed of a vulnerability 
   affecting the `Apache Struts software`_ it used on its dispute resolution 
   portal, with instructions to patch it in 48 hours. That didn't happen. [H]_
+  
+  The unpatched Apache Struts server was powering its five-decades-old(!) 
+  web-facing system that allowed consumers to check their credit rating from 
+  the company’s website. [WZ]_
+  
 - On May 13, 2017, the attackers hit the jackpot with Equifax's dispute portal, 
   where people could go to argue about claims. [N]_
 - The breach was discovered on `29 July 2017`_. [M]_
@@ -905,6 +910,11 @@ Links
   *ZDNet*, 7 Sept. 2018.
   `Archived <https://archive.md/vhgUj>`__.
 
+- Whittaker, Zack. `“Equifax Breach Was 'Entirely Preventable' Had It 
+  Used Basic Security Measures, Says House Report.” 
+  <https://techcrunch.com/2018/12/10/equifax-breach-preventable-house-oversight-report/>`__ 
+  *TechCrunch*, 10 Dec. 2018. `Archived <https://archive.ph/pgFpf>`__
+
 - O'Flaherty, Kate. `“Equifax Lawsuit: 'Admin' As Password At Time Of 2017 Breach.” 
   <https://www.forbes.com/sites/kateoflahertyuk/2019/10/20/equifax-lawsuit-reveals-terrible-security-practices-at-time-of-2017-breach/>`__ 
   *Forbes*, Forbes Magazine, 20 Oct. 2019. `Archived <https://archive.md/DbHFJ>`__.
@@ -1235,6 +1245,11 @@ References
    *Tom's Guide*, 10 Feb. 2020, 
    https://www.tomsguide.com/uk/news/equifax-hack-china-charges. 
    `Archived <https://archive.md/Pq3ut>`__.
+   
+.. [WZ] Whittaker, Zack. “Equifax Breach Was 'Entirely Preventable' Had It 
+   Used Basic Security Measures, Says House Report.” *TechCrunch*, 10 Dec. 2018, 
+   https://techcrunch.com/2018/12/10/equifax-breach-preventable-house-oversight-report/.
+   `Archived <https://archive.ph/pgFpf>`__.
 
 .. URLs
 .. _1.412 billion people: https://en.wikipedia.org/wiki/Demographics_of_China
