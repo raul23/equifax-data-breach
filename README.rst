@@ -541,7 +541,7 @@ data breach.
   hackers and their supposedly co-conspirators **DIRECTLY** accessed 
   China-based IP addresses multiple times during their 2-month attack. This 
   is a very basic and surprising mistake to commit when hiding their tracks is 
-  suppose to be the most important things to accomplish because the network 
+  supposed to be the most important thing to accomplish because the network 
   intrusions rest on constantly keeping the anonymity of the attackers. 
   Accessing servers only from outside of China was not rigidly followed by 
   the allegd group of hackers unless they really wanted to be identified 
