@@ -162,6 +162,24 @@ The US says members of the Chinese military hacked Equifax
     Technology Review)
   - `Report: Chinese Army Stole Over 13 Million British Citizens’ 
     Personal Data`_ (Breitbart)
+    
+`:warning:`
+
+  Also, it is very important to keep in mind that what is written in the DOJ 
+  `indictment`_ is based on allegations and people (especially media pundits) 
+  should not repeat what is in the document as gospel.
+  
+  That's why the DOJ `press release` says the following in the bottom of the
+  page (emphasis mine):
+  
+    The details contained in the charging document are **ALLEGATIONS**.  
+    The defendants are presumed innocent until proven guilty beyond a 
+    reasonable doubt in a court of law.
+    
+  And here is the definiton of the word "allegation" (emphasis mine):
+  
+    a statement, made **WITHOUT GIVING PROOF**, that someone has done 
+    something wrong or illegal [CA]_
 
 The US indictment
 -----------------
@@ -989,6 +1007,10 @@ References
    | CBC News.” *CBCnews*, CBC/Radio Canada, 28 Nov. 2017, 
    https://www.cbc.ca/news/business/equifax-canadians-affected-update-1.4424066.
    `Archived <https://archive.md/FpI1t>`__.
+   
+.. [CA] “Allegation.” Cambridge Dictionary, 
+   https://dictionary.cambridge.org/dictionary/english/allegation.
+   `Archived <https://archive.md/3giqI>`__.
    
 .. [CM] Chin, Monica. “On Top of Everything Else, Equifax Hackers Got 10 Million 
    Driver's Licenses.” *Mashable*, 11 Oct. 2017, 
