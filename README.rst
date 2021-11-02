@@ -741,7 +741,7 @@ Equifax data breach by the numbers
 Other interesting information
 =============================
 - Why is patching the security hole (`CVE-2017-5638`_) considered as labor 
-  intensive and difficult?:
+  intensive and difficult?
 
      ... in part because it involved downloading an updated version of Struts 
      and then using it to rebuild all apps that used older, buggy Struts versions. 
