@@ -31,7 +31,7 @@ How web shells were allegedly used by the hackers?
 ==================================================
 Definition of web shell
 -----------------------
-`:information:`
+`:information_source:`
 
   A web shell was a script that can be uploaded to a web server to enable 
   remote administration of the server. A web shell canbe used by an attacker 
