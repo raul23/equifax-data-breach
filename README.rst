@@ -149,8 +149,19 @@ List of malware files and web shells allegedly used by the hackers
   This list is compiled from the United States Department of Justice 
   (DOJ) `indictment`_ that was unsealed on February 10, 2020.
   
-TODO
-   
+**Malicious files:**
+
+- ``jndi.txt`` [DOJ2]_ (paragraph 14.e, page 8)
+- ``abc.txt`` [DOJ2]_ (paragraph 14.l, page 10)
+
+**Web shells:**
+
+- ``Jquery1.3.2.inin.jsp`` [DOJ2]_ (paragraph 14.e, page 8)
+- ``css.jsp`` [DOJ2]_ (paragraph 14.l, page 10)
+- ``ss.jsp`` [DOJ2]_ (paragraph 14.l, page 10)
+- ``boxover.jsp`` [DOJ2]_ (paragraph 14.n, page 10)
+- ``six.jsp`` [DOJ2]_ (paragraph 14.o, page 11)
+  
 The US says members of the Chinese military hacked Equifax
 ==========================================================
 `:warning:`
