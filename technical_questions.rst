@@ -29,9 +29,21 @@ TODO
 
 How web shells were allegedly used by the hackers?
 ==================================================
-Definiton of web shells
------------------------
-TODO
+Definiton of web shell
+----------------------
+`:information_source:`
+
+  This definition is taken from the United States Department of Justice (DOJ) 
+  `indictment`_ that was unsealed on February 10, 2020.
+  
+Other definitions of web shell:
+1. TODO
+2. TODO
+
+References
+==========
 
 .. URLs
 .. _here: ./README.rst
+.. _indictment: https://www.justice.gov/opa/press-release/file/1246891/download
+
