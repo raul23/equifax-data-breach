@@ -740,14 +740,15 @@ Equifax data breach by the numbers
    
 Other interesting information
 =============================
-- As Ars warned in March of 2017, patching the security hole (`CVE-2017-5638`_) 
-  was labor intensive and difficult, in part because it involved downloading an 
-  updated version of Struts and then using it to rebuild all apps that used 
-  older, buggy Struts versions. Some websites may depend on dozens or even 
-  hundreds of such apps, which may be scattered across dozens of servers on 
-  multiple continents. Once rebuilt, the apps must be extensively tested before 
-  going into production to ensure they don't break key functions on the site. 
-  [G]_
+- Why is patching the security hole (`CVE-2017-5638`_) considered as labor 
+  intensive and difficult?:
+
+     ... in part because it involved downloading an updated version of Struts 
+     and then using it to rebuild all apps that used older, buggy Struts versions. 
+     Some websites may depend on dozens or even hundreds of such apps, which may 
+     be scattered across dozens of servers on multiple continents. Once rebuilt, 
+     the apps must be extensively tested before going into production to ensure 
+     they don't break key functions on the site. [G]_
 
 - `Apache Struts`_ is used across the Fortune 100 to provide web applications 
   in Java, and it powers front- and back-end applications, including Equifax's 
