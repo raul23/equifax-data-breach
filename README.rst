@@ -87,7 +87,7 @@ What kinds of data were accessed?
   Equifax. [WK]_ [C]_
 
 How was the data breached?
-========================
+==========================
 `:information_source:`
 
   On 7 September 2018, US lawmakers released a report (`PDF`_ and `archive`_) 
@@ -810,8 +810,8 @@ Other interesting information
 Technical questions 
 ===================
 For technical questions relating to the 2017 Equifax data breach such as "How 
-did the hackers hide their tracks?" or "How web shells were used by the 
-hackers?", check the `Technical questions`_ page.
+did the hackers allegedly hide their tracks?" or "How web shells were 
+allegedly used by the hackers?", check the `Technical questions`_ page.
 
 Glossary
 ========
