@@ -29,19 +29,26 @@ TODO
 
 How web shells were allegedly used by the hackers?
 ==================================================
-Definiton of web shell
-----------------------
-`:information_source:`
+Definition of web shell
+-----------------------
+`:information:`
 
-  This definition is taken from the United States Department of Justice (DOJ) 
-  `indictment`_ that was unsealed on February 10, 2020.
-  
+  A web shell was a script that can be uploaded to a web server to enable 
+  remote administration of the server. A web shell canbe used by an attacker 
+  to gain access to functions on the server and to maintain persistent access 
+  to a compromised server. [DOJ]_
+
 Other definitions of web shell:
+
 1. TODO
 2. TODO
 
 References
 ==========
+.. [DOJ] “Criminal Indictment: UNITED STATES OF AMERICA *v.* WU ZHIYONG, WANG 
+   QIAN, XUKE, LIU LEI” *The United States Department of Justice*, 28 Jan. 
+   2020, https://www.justice.gov/opa/press-release/file/1246891/download (PDF).
+   `Archived <https://web.archive.org/web/20210702191105/https://www.justice.gov/opa/press-release/file/1246891/download>`__.
 
 .. URLs
 .. _here: ./README.rst
