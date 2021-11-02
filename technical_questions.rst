@@ -23,12 +23,12 @@ Technical questions about the 2017 Equifax data breach
    :local:
    :backlinks: top
 
-How did the hackers hide their tracks?
-======================================
+How did the hackers allegedly hide their tracks?
+================================================
 TODO
 
-How web shells were used by the hackers?
-=========================================
+How web shells were allegedly used by the hackers?
+==================================================
 Definiton of web shells
 -----------------------
 TODO
