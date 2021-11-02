@@ -655,16 +655,16 @@ data breach.
    cyberattacks against the US and allies (e.g. the `2015 massive breach at the 
    U.S. Office of Personnel Management`_).
   
-4. Since it is extremely unlikely for the DOJ to arrest the four alleged PLA 
-   members, the quality of the evidence in the `indictment`_ can be very poor. 
-   The case will likely not go in front of a judge and jury where the evidence 
-   presented by the prosecutors would have been scrutinized.
-  
-   Thus, the DOJ is not incentivized to gather solid evidence that could link 
-   the four alleged PLA members to the Equifax data breach:
-  
-     Officials acknowledged they were unlikely to face prosecution in a U.S. 
-     courtroom. [V]_ 
+In conclusion, since it is extremely unlikely for the DOJ to arrest the four 
+alleged PLA members, the quality of any evidence in the `indictment`_ can be 
+very subpar. The case will likely not go in front of a judge and jury where the 
+evidence presented by the prosecutors would have been scrutinized.
+
+Thus, the DOJ is not incentivized to gather solid evidence that could link 
+the four alleged PLA members to the Equifax data breach:
+
+  Officials acknowledged they were unlikely to face prosecution in a U.S. 
+  courtroom. [V]_ 
 
 Reading the many mainstream news articles (even outside the USA like UK and 
 Canada), you get the feeling that everyone just went along with the narrative of 
