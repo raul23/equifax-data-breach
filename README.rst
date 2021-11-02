@@ -513,7 +513,7 @@ data breach.
   
    There is still the possibility that any of the alleged hackers might leave China 
    in the near future and go to a place that they think has no extradition treaty 
-   with the US, not knowing that the US can still apprehend them (they are a 
+   with the US, not knowing that the US can still apprehend them (they are a world
    superpower after all). Take the case of the Russian hacker 
    `Roman Seleznev`_ that thought that he was safe in the Maldives because they 
    don't have an extradition treaty with the U.S. `He thought wrong`_.
