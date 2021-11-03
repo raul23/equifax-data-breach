@@ -41,14 +41,18 @@ Definition of web shell
 **Other definitions of web shell:**
 
 1. A web shell is a shell-like interface that enables a web server to be 
-   remotely accessed, often for the purposes of cyberattacks. [W]_
+   remotely accessed, often for the purposes of cyberattacks. 
+   
+   **Ref.:** [W]_
 2. A Web shell is a Web script that is placed on an openly accessible Web 
    server to allow an adversary to use the Web server as a gateway into a 
    network. A Web shell may provide a set of functions to execute or a 
    command-line interface on the system that hosts the Web server.
    
    **Adversaries may backdoor web servers with web shells to establish 
-   persistent access to systems.** [M]_
+   persistent access to systems.** 
+   
+   **Ref.:** [M]_
    
 **Examples of web shells:**
 
