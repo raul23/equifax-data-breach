@@ -33,7 +33,7 @@ Definition of web shell
 -----------------------
 `:information_source:`
 
-  A web shell was a script that can be uploaded to a web server to enable 
+  A web shell [is] a script that can be uploaded to a web server to enable 
   remote administration of the server. A web shell canbe used by an attacker 
   to gain access to functions on the server and to maintain persistent access 
   to a compromised server. [DOJ]_
