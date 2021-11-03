@@ -471,7 +471,7 @@ Equifax data breach.
     
    However, since it has been a long time since the indictment was unsealed 
    (10 Feb. 2020) and there has not been any update or confirmation on their 
-   place of residence (that I am aware) since then, the whereabouts of the 
+   place of residence (that I am aware of) since then, the whereabouts of the 
    suspects are currently uncertain.
   
    Also, from the DOJ `indictment`_ and `press release`_, the four suspects
