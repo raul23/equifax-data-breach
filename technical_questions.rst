@@ -75,8 +75,8 @@ Example code of web shells
 --------------------------
 PHP
 '''
-Python
-''''''
+JSP
+'''
 
 How web shells were allegedly used by the hackers?
 --------------------------------------------------
