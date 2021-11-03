@@ -463,7 +463,7 @@ Equifax data breach.
    (刘磊).
 
    The DOJ `indictment`_ and mainstream news articles only provide their names, 
-   pictures, and Beijing, China as their place of residence:
+   pictures (one for each), and Beijing, China as their place of residence:
   
      Defendants [...] were residents of Beijing, China 
     
