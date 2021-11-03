@@ -55,9 +55,11 @@ Definition of web shell
 - `China Chopper`_: is a Web Shell hosted on Web servers to provide access 
   back into an enterprise network that does not rely on an infected system 
   calling back to a remote command and control server. It has been 
-  used by several threat groups. [M2]
+  used by several threat groups. [M2]_
   
-- `SUPERNOVA`_: 
+- `SUPERNOVA`_: is an in-memory web shell written in .NET C#. It was 
+  discovered in November 2020 during the investigation of APT29's 
+  SolarWinds cyber operation but determined to be unrelated. [M3]_
 
 References
 ==========
@@ -72,10 +74,14 @@ References
    https://attack.mitre.org/techniques/T1505/003/.
    `Archived <https://archive.md/WpePx>`_.
    
-.. [M2] “China Chopper.” *China Chopper, Software S0020 | MITRE ATT&CK®*, 
+.. [M2] “China Chopper.” *Software S0020 | MITRE ATT&CK®*, 
    17 Oct. 2021,
    https://attack.mitre.org/software/S0020/.
    `Archived <https://archive.md/dox4Z>`__.
+   
+.. [M3] “SUPERNOVA.” *Software S0578 | MITRE ATT&CK®*, 
+   https://attack.mitre.org/software/S0578/.
+   `Archived <https://archive.md/vRJc7>`__.
 
 .. [W] “Web Shell.” *Wikipedia*, Wikimedia Foundation, 21 July 2021, 
    https://en.wikipedia.org/wiki/Web_shell.
@@ -84,4 +90,5 @@ References
 .. _China Chopper: https://attack.mitre.org/software/S0020/
 .. _here: ./README.rst
 .. _indictment: https://www.justice.gov/opa/press-release/file/1246891/download
+.. _SUPERNOVA: https://attack.mitre.org/software/S0578/
 
