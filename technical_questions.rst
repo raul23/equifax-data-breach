@@ -71,6 +71,9 @@ Definition of web shell
     discovered in November 2020 during the investigation of APT29's 
     SolarWinds cyber operation but determined to be unrelated. [M2]_
 
+Python example of a web shell
+-----------------------------
+
 References
 ==========
 .. [DOJ] “Criminal Indictment: UNITED STATES OF AMERICA *v.* WU ZHIYONG, WANG 
