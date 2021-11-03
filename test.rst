@@ -39,7 +39,7 @@ Contents
 * `Some important information`_
 * `What kinds of data were accessed?`_
 * `How was the data breached?`_
-* List of malicious files and web shells allegedly used by the hackers
+* `List of malicious files and web shells allegedly used by the hackers`_
 * The US says members of the Chinese military hacked Equifax
   
   * The US indictment
@@ -49,7 +49,7 @@ Contents
   * Non-DOJ evidence verdict: weak
 * Equifax data breach by the numbers
 * Other interesting information
-* Technical questions
+* `Technical questions`_
 * `Glossary`_
 * `Links`_
 * `References`_
@@ -377,6 +377,8 @@ References
 .. _Glossary: #glossary
 .. _How was the data breached?: ./docs/readme/how_was_the_data_breached.rst
 .. _Links: #links
-.. References: #references
+.. _List of malicious files and web shells allegedly used by the hackers: ./docs/readme/list_of_malicious_files.rst
+.. _References: #references
 .. _Some important information: ./docs/readme/some_important_info.rst
+.. _Technical questions: ./docs/readme/technical_questions.rst
 .. _What kinds of data were accessed?: ./docs/readme/what_kinds_of_data.rst
