@@ -112,7 +112,7 @@ References
 
 .. URLs
 .. _China Chopper: https://attack.mitre.org/software/S0020/
-.. _here: ./README.rst
+.. _here: https://github.com/raul23/equifax-data-breach/blob/main/README.rst
 .. _indictment: https://www.justice.gov/opa/press-release/file/1246891/download
 .. _MITRE: https://attack.mitre.org/techniques/T1505/003/
 .. _SUPERNOVA: https://attack.mitre.org/software/S0578/
