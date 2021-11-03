@@ -463,7 +463,7 @@ Equifax data breach.
    (刘磊).
 
    The DOJ `indictment`_ and mainstream news articles only provide their names, 
-   pictures (one for each), and Beijing, China as their place of residence:
+   pictures (one for each), and their place of residence:
   
      Defendants [...] were residents of Beijing, China 
     
@@ -472,7 +472,7 @@ Equifax data breach.
    However, since the information about their alleged place of residence was 
    true "at all times relevant to the indictment" [DOJ2]_ and it has been a 
    long time since the indictment was unsealed (10 Feb. 2020), the whereabouts 
-   of the suspects are uncertain.
+   of the suspects are currently uncertain.
   
    Also, from the DOJ `indictment`_ and `press release`_, the four suspects
    are allegedly members of PLA's 54th Research Institute:
