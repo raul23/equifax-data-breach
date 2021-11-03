@@ -52,14 +52,18 @@ Definition of web shell
    
 **Examples of web shells:**
 
-- `China Chopper`_: is a Web Shell hosted on Web servers to provide access 
-  back into an enterprise network that does not rely on an infected system 
-  calling back to a remote command and control server. It has been 
-  used by several threat groups. [M2]_
+- `China Chopper`_: 
+
+    is a Web Shell hosted on Web servers to provide access 
+    back into an enterprise network that does not rely on an infected system 
+    calling back to a remote command and control server. It has been 
+    used by several threat groups. [M2]_
   
-- `SUPERNOVA`_: is an in-memory web shell written in .NET C#. It was 
-  discovered in November 2020 during the investigation of APT29's 
-  SolarWinds cyber operation but determined to be unrelated. [M3]_
+- `SUPERNOVA`_: 
+
+    is an in-memory web shell written in .NET C#. It was 
+    discovered in November 2020 during the investigation of APT29's 
+    SolarWinds cyber operation but determined to be unrelated. [M3]_
 
 References
 ==========
