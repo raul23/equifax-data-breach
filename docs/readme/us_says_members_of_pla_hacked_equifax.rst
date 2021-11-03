@@ -62,7 +62,7 @@ page (emphasis mine):
 And here is the definiton for the word "allegation" (emphasis mine):
   
   a statement, made **WITHOUT GIVING PROOF**, that someone has done 
-  something wrong or illegal [CA]_
+  something wrong or illegal [C]_
 
 The US indictment
 -----------------
@@ -426,7 +426,7 @@ Equifax data breach.
      defined as requiring only sufficient evidence to lead a reasonable person to 
      believe that a crime has been committed and that the defendant is guilty. 
      This stands in stark contrast to “beyond a reasonable doubt,” which is 
-     necessary to convict a defendant at trial. [BG]_
+     necessary to convict a defendant at trial. [B]_
 
 3. Some of the evidence is based on multiple IP addresses allegedly originating 
    from China.
@@ -550,7 +550,7 @@ of the PLA:
   given for any of the defendants in the indictment, but the four were said to 
   be members of the PLA's 54th Research Institute. (Update: A `wanted poster 
   put up online by the FBI`_ shows photos allegedly of Wu and Xu wearing 
-  military uniforms.) [WP]_
+  military uniforms.) [W]_
 
 Non-DOJ evidence that China's military personnel are behind the Equifax data breach
 -----------------------------------------------------------------------------------
@@ -571,6 +571,88 @@ TODO
 
 References
 ==========
+.. [B] Burnham & Gorokhov, PLLC. “Federal Indictments: Answers to Frequently Asked Questions.” 
+   *Burnham & Gorokhov*, 8 Aug. 2016, 
+   https://www.burnhamgorokhov.com/criminal-defense-resources/federal-criminal-process/federal-indictments-faqs/.
+   `Archived <https://archive.md/QMgsB>`__.
+   
+.. [C] “Allegation.” Cambridge Dictionary, 
+   https://dictionary.cambridge.org/dictionary/english/allegation.
+   `Archived <https://archive.md/3giqI>`__.
+   
+.. [DOJ] “Press Release: Chinese Military Personnel Charged with Computer Fraud, 
+   Economic Espionage and Wire 
+   Fraud for Hacking into Credit Reporting Agency Equifax.” *The United States 
+   Department of Justice*, 10 Feb. 2020,
+   https://www.justice.gov/opa/pr/chinese-military-personnel-charged-computer-fraud-economic-espionage-and-wire-fraud-hacking.
+   `Archived <https://archive.md/JtDCY>`__.
+   
+.. [DOJ2] “Criminal Indictment: UNITED STATES OF AMERICA *v.* WU ZHIYONG, WANG 
+   QIAN, XUKE, LIU LEI” *The United States Department of Justice*, 28 Jan. 
+   2020, https://www.justice.gov/opa/press-release/file/1246891/download (PDF).
+   `Archived <https://web.archive.org/web/20210702191105/https://www.justice.gov/opa/press-release/file/1246891/download>`__.
+
+.. [RT] “Blaming Beijing: US Charges 4 Chinese Military Personnel over Massive Equifax Hack.” 
+   *RT International*, 10 Feb. 2020,
+   https://www.rt.com/usa/480536-chinese-military-hackers-equifax/.
+   `Archived <https://archive.md/dEYcR>`__.
+
+.. [V] Viswanatha, Aruna, et al. “Four Members of China's Military Indicted Over 
+   Massive Equifax Breach.” *The Wall Street Journal*, Dow Jones & Company, 10 
+   Feb. 2020,
+   https://www.wsj.com/articles/four-members-of-china-s-military-indicted-for-massive-equifax-breach-11581346824.
+   `Archived 
+   <https://web.archive.org/web/20211009220413/https://www.wsj.com/articles/four-members-of-china-s-military-indicted-for-massive-equifax-breach-11581346824>`__.
+   
+.. [VD] Volz, Dustin. “Prosecutors Said PLA's 54th Research Institute-Traditionally Focused 
+   on Supporting Electronic Warfare Akin to Cyber Command as Opposed to Cyber Espionage-Was 
+   behind the Hack, an Indication the Group's ‘Missions May Be Evolving," @EBKania Said. 
+   Https://T.co/dB1bSAsE9h.” *Twitter*, 10 Feb. 2020, 
+   https://twitter.com/dnvolz/status/1226983668222132225. 
+   `Archived <https://archive.md/Tpwmu>`__.
+   
+.. [W] Wagenseil, Paul. “Equifax Data Breach Was China's Doing, According to the US Government.” 
+   *Tom's Guide*, 10 Feb. 2020, 
+   https://www.tomsguide.com/uk/news/equifax-hack-china-charges. 
+   `Archived <https://archive.md/Pq3ut>`__.
 
 .. URLs
+.. _1.412 billion people: https://en.wikipedia.org/wiki/Demographics_of_China
+.. _2015 massive breach at the U.S. Office of Personnel Management:
+   https://web.archive.org/web/20201119114457/https://www.bloomberg.com/news/articles/2015-07-09/hackers-stole-government-data-on-25-7-million-people-u-s-says
+.. _accused China: https://www.cbc.ca/news/business/micosoft-exchange-hack-china-1.6108265
+.. _Chinese Military Hackers Charged in Equifax Breach: https://www.fbi.gov/news/stories/chinese-hackers-charged-in-equifax-breach-021020
+.. _Chinese Military Officers Hacked Equifax, Justice Department Say: 
+   https://www.defenseone.com/technology/2020/02/chinese-military-officers-hacked-equifax-justice-department-says/163013/
+.. _DOJ indictment: https://www.justice.gov/opa/press-release/file/1246891/download
+.. _elite: https://www.thetimes.co.uk/article/chinese-armys-elite-hackers-steal-equifax-data-on-13m-britons-ld32rqjqq
+.. _Equifax\: US charges four Chinese military officers over huge hack: 
+   https://www.bbc.com/news/world-us-canada-51449778
+.. _FBI most wanted: https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute
+.. _FBI news article: https://www.fbi.gov/news/stories/chinese-hackers-charged-in-equifax-breach-021020
+.. _Four Members of China's Military Indicted for Massive Equifax Breach: 
+   https://www.wsj.com/articles/four-members-of-china-s-military-indicted-for-massive-equifax-breach-11581346824
+.. _He thought wrong: https://abcnews.go.com/blogs/headlines/2014/07/russia-claims-alleged-hacker-was-kidnapped-by-us-agents
 .. _here: https://github.com/raul23/equifax-data-breach/blob/main/README.rst
+.. _indictment: https://www.justice.gov/opa/press-release/file/1246891/download
+.. _Justice Department charges 4 members of Chinese military for massive Equifax hack: 
+   https://www.cbsnews.com/news/equifax-hack-chinese-military-members-charged-department-of-justice/
+.. _press release: https://www.justice.gov/opa/pr/chinese-military-personnel-charged-computer-fraud-economic-espionage-and-wire-fraud-hacking
+.. _Report\: Chinese Army Stole Over 13 Million British Citizens’ Personal Data:
+   https://www.breitbart.com/europe/2020/02/17/equifax-hack-china-stole-13-million-peoples-data-in-the-uk/
+.. _Roman Seleznev: https://en.wikipedia.org/wiki/Roman_Seleznev
+.. _RT.com: https://www.rt.com/usa/480536-chinese-military-hackers-equifax/
+.. _second most important army in the world in terms of budget: 
+   https://en.wikipedia.org/wiki/List_of_countries_by_military_expenditures
+.. _SecureWorld: https://www.secureworld.io/industry-news/equifax-hacker-indictment-10-fast-facts
+.. _"the Kremlin's foreign-language propaganda network": https://archive.md/CF3U6
+.. _The US says the Chinese military hacked Equifax. Here’s how.: 
+   https://www.technologyreview.com/2020/02/10/349004/the-us-says-the-chinese-military-hacked-equifax-heres-how/
+.. _tom's guide: https://www.tomsguide.com/uk/news/equifax-hack-china-charges
+.. _U.S. Charges Chinese Military Officers in 2017 Equifax Hacking: 
+   https://archive.md/8EKZs
+.. _US says China's military was behind 2017 Equifax hack that left personal information of 145 million Americans exposed:
+   https://www.businessinsider.com/doj-china-pla-military-hackers-indicted-equifax-2017-breach-2020-2
+.. _What is the PLA, and why do feds believe they hacked Equifax?:
+.. _What is the PLA, and why do feds believe they hacked Equifax?:
+   https://www.ajc.com/news/what-the-pla-and-why-feds-believe-they-hacked-equifax/IwFZoHWI4ZEtptRldiD3mJ/
