@@ -71,9 +71,12 @@ Definition of web shell
     discovered in November 2020 during the investigation of APT29's 
     SolarWinds cyber operation but determined to be unrelated. [M2]_
 
-Python example of a web shell
------------------------------
-TODO
+Example code of web shells
+--------------------------
+PHP
+'''
+Python
+''''''
 
 How web shells were allegedly used by the hackers?
 --------------------------------------------------
