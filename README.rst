@@ -471,8 +471,8 @@ Equifax data breach.
     
    However, since the information about their alleged place of residence was 
    true "at all times relevant to the indictment" [DOJ2]_ and it has been a 
-   long time since the indictment was unsealed, the whereabouts of the suspects 
-   are uncertain.
+   long time since the indictment was unsealed (10 Feb. 2020), the whereabouts 
+   of the suspects are uncertain.
   
    Also, from the DOJ `indictment`_ and `press release`_, the four suspects
    are allegedly members of PLA's 54th Research Institute:
@@ -489,7 +489,7 @@ Equifax data breach.
      the Chinese military. [DOJ]_
     
    Again, the same remark for their alleged place of residence applies to their
-   membership to the the PLA's 54th Research Institute: they might or not still
+   membership to the PLA's 54th Research Institute: they might or not still
    work for the PLA.
   
    Their `FBI most wanted`_ poster and the `FBI news article`_ only give their 
