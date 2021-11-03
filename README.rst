@@ -469,10 +469,10 @@ Equifax data breach.
     
      [DOJ2]_ (*parapraph 5.d, pages 3-4*)
     
-   However, since the information about their alleged place of residence was 
-   true "at all times relevant to the indictment" [DOJ2]_ and it has been a 
-   long time since the indictment was unsealed (10 Feb. 2020), the whereabouts 
-   of the suspects are currently uncertain.
+   However, since it has been a long time since the indictment was unsealed 
+   (10 Feb. 2020) and there has not been any update or confirmation on their 
+   place of residence (that I am aware) since then, the whereabouts of the 
+   suspects are currently uncertain.
   
    Also, from the DOJ `indictment`_ and `press release`_, the four suspects
    are allegedly members of PLA's 54th Research Institute:
