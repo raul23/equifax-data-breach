@@ -72,7 +72,7 @@ And here is the definiton for the word "allegation" (emphasis mine):
   something wrong or illegal [C]_
 
 The US indictment
------------------
+=================
 On February 10, 2020, the DOJ indicted four members of 
 China's military on nine charges related to the hack. [DOJ]_
 
@@ -202,7 +202,7 @@ also conspired with other people that are known and unknown to the DOJ
      [DOJ2]_ (*paragraph 31, page 17*)
      
 DOJ evidence that China's military personnel are behind the Equifax data breach
--------------------------------------------------------------------------------
+===============================================================================
 `:information_source:`
 
   These are evidence that I was able to gather from the DOJ `indictment`_. 
@@ -304,7 +304,7 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
      [DOJ2]_ (*paragraph 23, pages 14-15*)
 
 DOJ evidence verdict: weak
---------------------------
+==========================
 The evidence gathered from the DOJ `indictment`_ is very weak to support the 
 claim that the four alleged members of the PLA were the perpetrators of the 
 Equifax data breach.
@@ -560,7 +560,7 @@ of the PLA:
   military uniforms.) [W]_
 
 Non-DOJ evidence that China's military personnel are behind the Equifax data breach
------------------------------------------------------------------------------------
+===================================================================================
 `:information_source:`
 
   These are evidence that I was able to gather from non governmental sources such as 
@@ -573,7 +573,7 @@ Non-DOJ evidence that China's military personnel are behind the Equifax data bre
 TODO
   
 Non-DOJ evidence verdict: weak
-------------------------------
+==============================
 TODO
 
 References
