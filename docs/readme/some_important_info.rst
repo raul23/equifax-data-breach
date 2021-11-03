@@ -73,4 +73,4 @@ References
 .. _Apache Struts software: https://struts.apache.org/
 .. _CEO: https://archive.md/1aLaJ
 .. _CIO and CSO: https://archive.md/qvmvJ
-.. _here: ./README.rst
+.. _here: ~/README.rst
