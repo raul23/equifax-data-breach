@@ -43,7 +43,7 @@ Definition of web shell
 1. A web shell is a shell-like interface that enables a web server to be 
    remotely accessed, often for the purposes of cyberattacks. 
    
-   **Ref.:** [W]_
+   **Ref.:** `Wikipedia`_
 2. A Web shell is a Web script that is placed on an openly accessible Web 
    server to allow an adversary to use the Web server as a gateway into a 
    network. A Web shell may provide a set of functions to execute or a 
@@ -52,7 +52,7 @@ Definition of web shell
    **Adversaries may backdoor web servers with web shells to establish 
    persistent access to systems.** 
    
-   **Ref.:** [M]_
+   **Ref.:** `MITRE`_
    
 **Examples of web shells:**
 
@@ -61,13 +61,13 @@ Definition of web shell
     is a Web Shell hosted on Web servers to provide access 
     back into an enterprise network that does not rely on an infected system 
     calling back to a remote command and control server. It has been 
-    used by several threat groups. [M2]_
+    used by several threat groups. [M]_
   
 - `SUPERNOVA`_: 
 
     is an in-memory web shell written in .NET C#. It was 
     discovered in November 2020 during the investigation of APT29's 
-    SolarWinds cyber operation but determined to be unrelated. [M3]_
+    SolarWinds cyber operation but determined to be unrelated. [M2]_
 
 References
 ==========
@@ -76,27 +76,28 @@ References
    2020, https://www.justice.gov/opa/press-release/file/1246891/download (PDF).
    `Archived <https://web.archive.org/web/20210702191105/https://www.justice.gov/opa/press-release/file/1246891/download>`__.
 
-.. [M] “Server Software Component: Web Shell.” *Server Software Component: 
+.. [M ] “Server Software Component: Web Shell.” *Server Software Component: 
    Web Shell, Sub-Technique T1505.003 - Enterprise | MITRE ATT&CK®*, 
    26 July 2021,
    https://attack.mitre.org/techniques/T1505/003/.
    `Archived <https://archive.md/WpePx>`_.
    
-.. [M2] “China Chopper.” *Software S0020 | MITRE ATT&CK®*, 
+.. [M] “China Chopper.” *Software S0020 | MITRE ATT&CK®*, 
    17 Oct. 2021,
    https://attack.mitre.org/software/S0020/.
    `Archived <https://archive.md/dox4Z>`__.
    
-.. [M3] “SUPERNOVA.” *Software S0578 | MITRE ATT&CK®*, 
+.. [M2] “SUPERNOVA.” *Software S0578 | MITRE ATT&CK®*, 
    https://attack.mitre.org/software/S0578/.
    `Archived <https://archive.md/vRJc7>`__.
 
-.. [W] “Web Shell.” *Wikipedia*, Wikimedia Foundation, 21 July 2021, 
-   https://en.wikipedia.org/wiki/Web_shell.
+.. [W ] “Web Shell.” *Wikipedia*, Wikimedia Foundation, 
+   21 July 2021, https://en.wikipedia.org/wiki/Web_shell.
 
 .. URLs
 .. _China Chopper: https://attack.mitre.org/software/S0020/
 .. _here: ./README.rst
 .. _indictment: https://www.justice.gov/opa/press-release/file/1246891/download
+.. _MITRE: https://attack.mitre.org/techniques/T1505/003/
 .. _SUPERNOVA: https://attack.mitre.org/software/S0578/
-
+.. _Wikipedia: https://en.wikipedia.org/wiki/Web_shell
