@@ -27,8 +27,8 @@ How did the hackers allegedly hide their tracks?
 ================================================
 TODO
 
-How web shells were allegedly used by the hackers?
-==================================================
+Web shells
+==========
 Definition of web shell
 -----------------------
 `:information_source:`
@@ -73,6 +73,10 @@ Definition of web shell
 
 Python example of a web shell
 -----------------------------
+TODO
+
+How web shells were allegedly used by the hackers?
+--------------------------------------------------
 TODO
 
 References
