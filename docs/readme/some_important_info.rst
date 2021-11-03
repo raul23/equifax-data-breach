@@ -1,7 +1,6 @@
 ==========================
 Some important information
 ==========================
-
 `:star:`
 
   To go back to the main page about the 2017 Equifax data breach, click 
