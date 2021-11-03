@@ -36,7 +36,7 @@
 
 Contents
 ========
-* Some important information
+* `Some important information`_
 * What kinds of data were accessed?
 * How was the data breached?
 * List of malicious files and web shells allegedly used by the hackers
@@ -65,3 +65,6 @@ References
    the US Population.” *CNET*, 8 Sept. 2017, 
    https://www.cnet.com/tech/services-and-software/equifax-data-leak-hits-nearly-half-of-the-us-population/.
    `Archived <https://archive.md/dH7ei>`__.
+   
+.. URLs
+.. _Some important information: ./docs/readme/some_important_info.rst
