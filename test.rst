@@ -40,13 +40,13 @@ Contents
 * `What kinds of data were accessed?`_
 * `How was the data breached?`_
 * `List of malicious files and web shells allegedly used by the hackers`_
-* The US says members of the Chinese military hacked Equifax
+* `The US says members of the Chinese military hacked Equifax`_
   
-  * The US indictment
-  * DOJ evidence that China's military personnel are behind the Equifax data breach
-  * DOJ evidence verdict: weak
-  * Non-DOJ evidence that China's military personnel are behind the Equifax data breach
-  * Non-DOJ evidence verdict: weak
+  * `The US indictment`_
+  * `DOJ evidence that China's military personnel are behind the Equifax data breach`_
+  * `DOJ evidence verdict: weak`_
+  * `Non-DOJ evidence that China's military personnel are behind the Equifax data breach`_
+  * `Non-DOJ evidence verdict: weak`_
 * `Equifax data breach by the numbers`_
 * `Other interesting information`_
 * `Technical questions`_
@@ -384,3 +384,12 @@ References
 .. _Some important information: ./docs/readme/some_important_info.rst
 .. _Technical questions: ./docs/readme/technical_questions.rst
 .. _What kinds of data were accessed?: ./docs/readme/what_kinds_of_data.rst
+
+.. _The US says members of the Chinese military hacked Equifax: ./docs/readme/us_says_members_of_pla_hacked_equifax.rst
+.. _The US indictment: ./docs/readme/us_says_members_of_pla_hacked_equifax.rst#the-us-indictment
+.. _DOJ evidence that China's military personnel are behind the Equifax data breach:
+   ./docs/readme/us_says_members_of_pla_hacked_equifax.rst#doj-evidence-that-chinas-military-personnel-are-behind-the-equifax-data-breach
+.. _DOJ evidence verdict\: weak: ./docs/readme/us_says_members_of_pla_hacked_equifax.rst#doj-evidence-verdict-weak
+.. _Non-DOJ evidence that China's military personnel are behind the Equifax data breach:
+   ./docs/readme/us_says_members_of_pla_hacked_equifax.rst#non-doj-evidence-that-chinas-military-personnel-are-behind-the-equifax-data-breach
+.. _Non-DOJ evidence verdict\: weak: ./docs/readme/us_says_members_of_pla_hacked_equifax.rst#non-doj-evidence-verdict-weak
