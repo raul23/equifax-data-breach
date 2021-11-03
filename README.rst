@@ -463,38 +463,40 @@ Equifax data breach.
    (刘磊).
 
    The DOJ `indictment`_ and mainstream news articles only provide their names, 
-   pictures, and Beijing, China as their place of residence. However in the
-   indictment, Beijing is referred in the past (emphasis mine):
+   pictures, and Beijing, China as their place of residence:
   
-     Defendants [...] **WERE** residents of Beijing, China 
+     Defendants [...] were residents of Beijing, China 
     
      [DOJ2]_ (*parapraph 5.d, pages 3-4*)
     
-   Thus, it is implied that the whereabouts of the suspects are uncertain.
+   However, since the information about their alleged place of residence was 
+   true "at all times relevant to the indictment" [DOJ2]_ and it has been a 
+   long time since the indictment was unsealed, the whereabouts of the suspects 
+   are uncertain.
   
-   Also, from the DOJ `indictment`_ and `press release`_, it seems that they 
-   refer to the four suspects as being former members of PLA's 54th Research 
-   Institute (emphasis mine):
+   Also, from the DOJ `indictment`_ and `press release`_, the four suspects
+   are allegedly members of PLA's 54th Research Institute:
   
-     Defendants [...] **WERE** members of the 54th Research Institute, which 
-     **WAS** a component of the PLA. 
+     Defendants [...] were members of the 54th Research Institute, which 
+     was a component of the PLA. 
     
      [DOJ2]_ (*parapraph 5.d, pages 3-4*)
   
    |
   
      ... Wu Zhiyong (吴志勇), Wang Qian (王乾), Xu Ke (许可) and Liu Lei (刘磊) 
-     **WERE** members of the PLA’s 54th Research Institute, a component of 
+     were members of the PLA’s 54th Research Institute, a component of 
      the Chinese military. [DOJ]_
     
-   From the previous two quotes, is the 54th Research Institute still a 
-   component of the PLA? 
+   Again, the same remark for their alleged place of residence applies to their
+   membership to the the PLA's 54th Research Institute: they might or not still
+   work for the PLA.
   
    Their `FBI most wanted`_ poster and the `FBI news article`_ only give their 
    names and pictures but don't mention Beijing which should have been included 
    since it is presumably an important information for people to help the FBI 
    identify the four suspects. At least, the FBI should have said that the 
-   four alleged PLA hackers are probably still living in Beijing, China.
+   four alleged PLA hackers used to live in Beijing, China.
   
    More information (basic and detailed) is about the four alleged PLA hackers 
    such as: 
