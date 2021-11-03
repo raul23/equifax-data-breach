@@ -653,6 +653,6 @@ References
    https://archive.md/8EKZs
 .. _US says China's military was behind 2017 Equifax hack that left personal information of 145 million Americans exposed:
    https://www.businessinsider.com/doj-china-pla-military-hackers-indicted-equifax-2017-breach-2020-2
-.. _What is the PLA, and why do feds believe they hacked Equifax?:
+.. _wanted poster put up online by the FBI: https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute
 .. _What is the PLA, and why do feds believe they hacked Equifax?:
    https://www.ajc.com/news/what-the-pla-and-why-feds-believe-they-hacked-equifax/IwFZoHWI4ZEtptRldiD3mJ/
