@@ -62,6 +62,8 @@ Definition of web shell
     back into an enterprise network that does not rely on an infected system 
     calling back to a remote command and control server. It has been 
     used by several threat groups. [M]_
+    
+    It is approximately 4 kilobytes in size, first discovered in 2012. [W]_
   
 - `SUPERNOVA`_: 
 
@@ -90,6 +92,9 @@ References
 .. [M2] “SUPERNOVA.” *Software S0578 | MITRE ATT&CK®*, 
    https://attack.mitre.org/software/S0578/.
    `Archived <https://archive.md/vRJc7>`__.
+   
+.. [W] “China Chopper.” *Wikipedia*, Wikimedia Foundation, 
+   16 Mar. 2021, https://en.wikipedia.org/wiki/China_Chopper.
 
 .. [W ] “Web Shell.” *Wikipedia*, Wikimedia Foundation, 
    21 July 2021, https://en.wikipedia.org/wiki/Web_shell.
