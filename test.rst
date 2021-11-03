@@ -37,7 +37,7 @@
 Contents
 ========
 * `Some important information`_
-* What kinds of data were accessed?
+* `What kinds of data were accessed?`_
 * How was the data breached?
 * List of malicious files and web shells allegedly used by the hackers
 * The US says members of the Chinese military hacked Equifax
@@ -68,3 +68,4 @@ References
    
 .. URLs
 .. _Some important information: ./docs/readme/some_important_info.rst
+.. _What kinds of data were accessed?: ./docs/readme/what_kinds_of_data.rst
