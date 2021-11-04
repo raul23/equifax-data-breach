@@ -129,7 +129,7 @@ According to the DOJ `indictment`_, the four alleged PLA hackers and their
 co-conspirators supposedly used web shells in various situations:
 
 1. Once the web shells were installed to an Equifax web server, 
-   reconnaissance of Equifax's online dispute portal started.
+   `reconnaissance`_ of Equifax's online dispute portal started.
    
    [DOJ2]_ (paragraph 8, page 5)
    
@@ -185,5 +185,6 @@ References
 .. _indictment: https://www.justice.gov/opa/press-release/file/1246891/download
 .. _List of malicious files and web shells allegedly used by the hackers: ./list_of_malicious_files.rst
 .. _MITRE: https://attack.mitre.org/techniques/T1505/003/
+.. _reconnaissance: https://www.itpro.co.uk/penetration-testing/34465/whats-the-difference-between-active-and-passive-reconnaissance
 .. _SUPERNOVA: https://attack.mitre.org/software/S0578/
 .. _Wikipedia: https://en.wikipedia.org/wiki/Web_shell
