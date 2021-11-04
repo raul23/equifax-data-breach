@@ -49,8 +49,8 @@ Contents
     * `DOJ evidence verdict: weak`_
   * `Non-DOJ evidence that China's military personnel are behind the Equifax data breach`_
   
-    * `Non-DOJ evidence`_
-    * `Non-DOJ evidence verdict: weak`_
+    * `Non-DOJ evidence`_ (TODO)
+    * `Non-DOJ evidence verdict: weak`_ (TODO)
 * `Equifax data breach by the numbers`_
 * `Other interesting information`_
 * `Technical questions`_
