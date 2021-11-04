@@ -33,18 +33,14 @@ List of malicious files and web shells allegedly used by the hackers
 3. ``ss.jsp`` is a substantively identical web shell to ``css.jsp``.
 
    [DOJ2]_ (paragraph 14.l, page 10)
-4. ``boxover.jsp`` which was allegedly used:
-
-   - to query an Equifax database table and store the results in 
-     output files.
+4. ``boxover.jsp`` which was allegedly used to query an Equifax 
+   database table and store the results in output files.
    
-     [DOJ2]_ (paragraph 14.n, page 10)
-5. ``six.jsp`` which was allegedly used:
-
-   - to issue unauthorized SQL commands to one of Equifax's 
-     back-end databases
+   [DOJ2]_ (paragraph 14.n, page 10)
+5. ``six.jsp`` which was allegedly used to issue unauthorized SQL 
+   commands to one of Equifax's back-end databases
     
-     [DOJ2]_ (paragraph 14.o, page 11)
+   [DOJ2]_ (paragraph 14.o, page 11)
 
 References
 ==========
