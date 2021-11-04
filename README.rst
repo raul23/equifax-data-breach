@@ -44,9 +44,13 @@ Contents
   
   * `The US indictment`_
   * `DOJ evidence that China's military personnel are behind the Equifax data breach`_
-  * `DOJ evidence verdict: weak`_
+  
+    * `DOJ evidence`_
+    * `DOJ evidence verdict: weak`_
   * `Non-DOJ evidence that China's military personnel are behind the Equifax data breach`_
-  * `Non-DOJ evidence verdict: weak`_
+  
+    * `Non-DOJ evidence`_
+    * `Non-DOJ evidence verdict: weak`_
 * `Equifax data breach by the numbers`_
 * `Other interesting information`_
 * `Technical questions`_
@@ -378,6 +382,7 @@ References
 .. _Apache Struts software: https://struts.apache.org/
 .. _DOJ evidence that China's military personnel are behind the Equifax data breach:
    ./docs/readme/us_says_members_of_pla_hacked_equifax.rst#doj-evidence-that-chinas-military-personnel-are-behind-the-equifax-data-breach
+.. _DOJ evidence: ./docs/readme/us_says_members_of_pla_hacked_equifax.rst#doj-evidence
 .. _DOJ evidence verdict\: weak: ./docs/readme/us_says_members_of_pla_hacked_equifax.rst#doj-evidence-verdict-weak
 .. _Equifax data breach by the numbers: ./docs/readme/equifax_data_breach_by_the_numbers.rst
 .. _Glossary: #glossary
@@ -386,6 +391,7 @@ References
 .. _List of malicious files and web shells allegedly used by the hackers: ./docs/readme/list_of_malicious_files.rst
 .. _Non-DOJ evidence that China's military personnel are behind the Equifax data breach:
    ./docs/readme/us_says_members_of_pla_hacked_equifax.rst#non-doj-evidence-that-chinas-military-personnel-are-behind-the-equifax-data-breach
+.. _Non-DOJ evidence: ./docs/readme/us_says_members_of_pla_hacked_equifax.rst#non-doj-evidence
 .. _Non-DOJ evidence verdict\: weak: ./docs/readme/us_says_members_of_pla_hacked_equifax.rst#non-doj-evidence-verdict-weak
 .. _Other interesting information: ./docs/readme/other_interesting_information.rst
 .. _References: #references
