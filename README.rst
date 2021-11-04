@@ -60,7 +60,7 @@ Contents
 
 Glossary
 ========
-.. TODO: add definitions
+TODO: add definitions
 
 - `Apache Struts software`_
 - Chinese People’s Liberation Army (PLA)
