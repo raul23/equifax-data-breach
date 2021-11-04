@@ -121,7 +121,7 @@ JSP
 How web shells were allegedly used by the hackers?
 --------------------------------------------------
 According to the DOJ `indictment`_, the alleged four PLA hackers and their
-co-conspirators supposedly used web shells in the various situations:
+co-conspirators supposedly used web shells in various situations:
 
 1. 
 
