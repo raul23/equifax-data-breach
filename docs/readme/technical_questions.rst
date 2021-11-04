@@ -58,10 +58,10 @@ network by:
   5. compressing and dividing the data files so as to disguise the exfiltration 
      of sensitive personally identifiable information; 
     
-     [DOJ2]_ (paragraph 12, page 7);
-  6. deleting the compressed files after exfiltrating the sensitive data 
+     [DOJ2]_ (paragraph 12, page 7)
+  6. deleting the compressed files after exfiltrating the sensitive data, and
   
-     [DOJ2]_ (paragraph 13, page 7), and
+     [DOJ2]_ (paragraph 13, page 7)
   7. configuring settings on at least one of their leased servers that wiped log 
      files on a daily basis in an effort to eliminate records of their activity.
     
