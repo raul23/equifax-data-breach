@@ -100,7 +100,7 @@ References
    https://www.justice.gov/opa/pr/chinese-military-personnel-charged-computer-fraud-economic-espionage-and-wire-fraud-hacking.
    `Archived <https://archive.md/JtDCY>`__.
    
-.. [DOJ] “Criminal Indictment: UNITED STATES OF AMERICA *v.* WU ZHIYONG, WANG 
+.. [DOJ2] “Criminal Indictment: UNITED STATES OF AMERICA *v.* WU ZHIYONG, WANG 
    QIAN, XUKE, LIU LEI” *The United States Department of Justice*, 28 Jan. 
    2020, https://www.justice.gov/opa/press-release/file/1246891/download (PDF).
    `Archived <https://web.archive.org/web/20210702191105/https://www.justice.gov/opa/press-release/file/1246891/download>`__.
