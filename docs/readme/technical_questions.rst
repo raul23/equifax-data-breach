@@ -22,10 +22,19 @@ Technical questions about the 2017 Equifax data breach
    :depth: 4
    :local:
    :backlinks: top
+   
+`:information_source:`
+
+  On February 10, 2020, the United States Department of Justice (DOJ) unsealed 
+  an indictment charging four members of the Chinese People’s Liberation Army 
+  (PLA) with hacking into the computer systems of the credit reporting agency 
+  Equifax and stealing Americans’ personal data and Equifax’s valuable trade 
+  secrets. [DOJ]_
+
 
 How did the hackers allegedly hide their tracks?
 ================================================
-TODO
+According to the DOJ `indictment`_, 
 
 Web shells
 ==========
@@ -36,7 +45,7 @@ Definition of web shell
   A web shell [is] a script that can be uploaded to a web server to enable 
   remote administration of the server. A web shell can be used by an attacker 
   to gain access to functions on the server and to maintain persistent access 
-  to a compromised server. [DOJ]_
+  to a compromised server. [DOJ2]_
 
 **Other definitions of web shell:**
 
@@ -84,6 +93,13 @@ TODO
 
 References
 ==========
+.. [DOJ] “Press Release: Chinese Military Personnel Charged with Computer Fraud, 
+   Economic Espionage and Wire 
+   Fraud for Hacking into Credit Reporting Agency Equifax.” *The United States 
+   Department of Justice*, 10 Feb. 2020,
+   https://www.justice.gov/opa/pr/chinese-military-personnel-charged-computer-fraud-economic-espionage-and-wire-fraud-hacking.
+   `Archived <https://archive.md/JtDCY>`__.
+   
 .. [DOJ] “Criminal Indictment: UNITED STATES OF AMERICA *v.* WU ZHIYONG, WANG 
    QIAN, XUKE, LIU LEI” *The United States Department of Justice*, 28 Jan. 
    2020, https://www.justice.gov/opa/press-release/file/1246891/download (PDF).
