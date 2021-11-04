@@ -107,5 +107,5 @@ References
 .. _a months-old issue that Equifax knew about but failed to fix: https://www.cnet.com/news/equifax-ceo-data-breach-heres-what-went-wrong/
 .. _archive: https://web.archive.org/web/20210629150932/https://www.warren.senate.gov/imo/media/doc/2018.09.06%20GAO%20Equifax%20report.pdf
 .. _CVE-2017-5638: https://www.cvedetails.com/cve/CVE-2017-5638/
-.. _here: https://github.com/raul23/equifax-data-breach/blob/main/README.rst
+.. _here: https://github.com/raul23/equifax-data-breach/blob/main/README.rst#contents
 .. _PDF: https://www.warren.senate.gov/imo/media/doc/2018.09.06%20GAO%20Equifax%20report.pdf
