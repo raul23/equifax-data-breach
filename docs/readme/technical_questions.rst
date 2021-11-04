@@ -122,8 +122,8 @@ How web shells were allegedly used by the hackers?
 --------------------------------------------------
 `:information_source:`
 
-  Check the `List of malicious files and web shells allegedly used by the 
-  hackers`_ section.
+  Also check `List of malicious files and web shells allegedly used by the 
+  hackers`_ .
   
 According to the DOJ `indictment`_, the alleged four PLA hackers and their
 co-conspirators supposedly used web shells in various situations:
