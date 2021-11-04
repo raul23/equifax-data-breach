@@ -93,10 +93,13 @@ References
    `Archived <https://archive.md/Qxreg>`__.
 
 .. URLs
-.. _Apache Struts:
+.. _Apache Struts: https://struts.apache.org/
 .. _Chief Information Officer CIO of Equifax was sentenced to four months:
-.. _CVE-2017-5638:
+   https://www.silicon.co.uk/e-regulation/legal/equifax-cio-jailed-insider-trading-268127
+.. _CVE-2017-5638: https://www.cvedetails.com/cve/CVE-2017-5638/
 .. _Equifax Lawsuit\: ‘Admin’ As Password At Time Of 2017 Breach:
+   https://www.bbc.com/news/world-us-canada-5144977
 .. _filing:
+   https://web.archive.org/web/20210112015402/http://securities.stanford.edu/filings-documents/1063/EI00_15/2019128_r01x_17CV03463.pdf
 .. _here: https://github.com/raul23/equifax-data-breach/blob/main/README.rst
-.. _Silicon.co.uk: 
+.. _Silicon.co.uk: https://www.silicon.co.uk/security/cyberwar/us-charges-chinese-military-equifax-hack-331572
