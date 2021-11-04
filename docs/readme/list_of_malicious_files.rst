@@ -21,10 +21,30 @@ List of malicious files and web shells allegedly used by the hackers
 **Web shells:**
 
 - ``Jquery1.3.2.inin.jsp`` [DOJ2]_ (paragraph 14.e, page 8)
-- ``css.jsp`` [DOJ2]_ (paragraph 14.l, page 10)
-- ``ss.jsp`` [DOJ2]_ (paragraph 14.l, page 10)
-- ``boxover.jsp`` [DOJ2]_ (paragraph 14.n, page 10)
-- ``six.jsp`` [DOJ2]_ (paragraph 14.o, page 11)
+- ``css.jsp`` which was allegedly used for:
+  
+  - downloading the "abc.txt" file from the Taiwan Server
+  
+    [DOJ2]_ (paragraph 14.l, page 10)
+  - deleting an archive from Equifax's network in an effort to 
+    conceal the theft of Equifax data
+    
+    [DOJ2]_ (paragraph 14.n, page 11)
+- ``ss.jsp`` [DOJ2]_ (paragraph 14.l, page 10):
+
+  is a substantively identical web shell to ``css.jsp``.
+- ``boxover.jsp`` which was allegedly used for:
+
+  - to query an Equifax database table and store the results in 
+    output files.
+  
+   [DOJ2]_ (paragraph 14.n, page 10)
+- ``six.jsp`` which was allegedly used for:
+
+  - to issue unauthorized SQL commands to one of Equifax's 
+    back-end databases
+    
+    [DOJ2]_ (paragraph 14.o, page 11)
 
 References
 ==========
