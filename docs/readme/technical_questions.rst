@@ -35,7 +35,7 @@ Technical questions about the 2017 Equifax data breach
 How did the hackers allegedly hide their tracks?
 ================================================
 According to the DOJ `indictment`_, the four alleged PLA hackers and their
-co-conspirators supposedly hide their tracks when infiltrating Equifax's 
+co-conspirators supposedly hid their tracks when infiltrating Equifax's 
 network by:
 
   1. using approximately thirty-four servers located in nearly twenty countries;
