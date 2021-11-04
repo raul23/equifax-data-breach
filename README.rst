@@ -22,7 +22,7 @@
   The number of affected people is roughly half of the US population of 323 
   million. [N]_
   
-  Saving any important note about this infamous case.
+  Saving important notes about this infamous case.
   
 `:warning:`
 
