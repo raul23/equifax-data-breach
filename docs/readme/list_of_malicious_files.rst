@@ -57,5 +57,5 @@ References
    `Archived <https://web.archive.org/web/20210702191105/https://www.justice.gov/opa/press-release/file/1246891/download>`__.
 
 .. URLs
-.. _here: https://github.com/raul23/equifax-data-breach/blob/main/README.rst
+.. _here: https://github.com/raul23/equifax-data-breach/blob/main/README.rst#contents
 .. _indictment: https://www.justice.gov/opa/press-release/file/1246891/download
