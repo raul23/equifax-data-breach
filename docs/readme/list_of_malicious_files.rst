@@ -15,36 +15,36 @@ List of malicious files and web shells allegedly used by the hackers
   
 **Malicious files:**
 
-- ``jndi.txt`` [DOJ2]_ (paragraph 14.e, page 8)
-- ``abc.txt`` [DOJ2]_ (paragraph 14.l, page 10)
+1. ``jndi.txt`` [DOJ2]_ (paragraph 14.e, page 8)
+2. ``abc.txt`` [DOJ2]_ (paragraph 14.l, page 10)
 
 **Web shells:**
 
-- ``Jquery1.3.2.inin.jsp`` [DOJ2]_ (paragraph 14.e, page 8)
-- ``css.jsp`` which was allegedly used for:
+1. ``Jquery1.3.2.inin.jsp`` [DOJ2]_ (paragraph 14.e, page 8)
+2. ``css.jsp`` which was allegedly used for:
   
-  - downloading the "abc.txt" file from the Taiwan Server
+   - downloading the "abc.txt" file from the Taiwan Server
   
-    [DOJ2]_ (paragraph 14.l, page 10)
-  - deleting an archive from Equifax's network in an effort to 
-    conceal the theft of Equifax data
+     [DOJ2]_ (paragraph 14.l, page 10)
+   - deleting an archive from Equifax's network in an effort to 
+     conceal the theft of Equifax data
     
-    [DOJ2]_ (paragraph 14.n, page 11)
-- ``ss.jsp`` is a substantively identical web shell to ``css.jsp``.
+     [DOJ2]_ (paragraph 14.n, page 11)
+3. ``ss.jsp`` is a substantively identical web shell to ``css.jsp``.
 
-  [DOJ2]_ (paragraph 14.l, page 10)
-- ``boxover.jsp`` which was allegedly used:
+   [DOJ2]_ (paragraph 14.l, page 10)
+4. ``boxover.jsp`` which was allegedly used:
 
-  - to query an Equifax database table and store the results in 
-    output files.
-  
-    [DOJ2]_ (paragraph 14.n, page 10)
-- ``six.jsp`` which was allegedly used:
+   - to query an Equifax database table and store the results in 
+     output files.
+   
+     [DOJ2]_ (paragraph 14.n, page 10)
+5. ``six.jsp`` which was allegedly used:
 
-  - to issue unauthorized SQL commands to one of Equifax's 
-    back-end databases
+   - to issue unauthorized SQL commands to one of Equifax's 
+     back-end databases
     
-    [DOJ2]_ (paragraph 14.o, page 11)
+     [DOJ2]_ (paragraph 14.o, page 11)
 
 References
 ==========
