@@ -128,12 +128,21 @@ How web shells were allegedly used by the hackers?
 According to the DOJ `indictment`_, the alleged four PLA hackers and their
 co-conspirators supposedly used web shells in various situations:
 
-1. once the web shells were installed to Equifax web server, reconnaissance
-   of Equifax's online dispute portal started.
+1. Once the web shells were installed to an Equifax web server, 
+   reconnaissance of Equifax's online dispute portal started.
    
    [DOJ2]_ (paragraph 8, page 5)
    
-2. 
+2. Web shells (created through Apache Struts) were used to interact with 
+   Equifax's back-end databases.
+  
+   [DOJ2]_ (paragraph 8, page 5)
+   
+3. Web shells (created through Apache Struts) in combination with Apache 
+   Struts commands and SQL commands were used to review database records 
+   in small segments.
+   
+   [DOJ2]_ (paragraph 14.b, page 8)
 
 References
 ==========
