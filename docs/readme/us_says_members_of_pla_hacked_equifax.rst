@@ -419,7 +419,7 @@ Equifax data breach.
    network intrusions of Equifax's computers.
    
    Since it is an indictment, the DOJ is not obligated to detail how they
-   determined the alleged four PLA members were responsible for the Equifax data
+   determined the four alleged PLA members were responsible for the Equifax data
    breach. Only if the four alleged hackers are brought to a court of law, will the
    DOJ have to prove **beyond a reasonable doubt** that they attacked Equifax's 
    networks and stole their data. However, it is very unlikely that the four
