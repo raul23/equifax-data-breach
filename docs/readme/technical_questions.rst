@@ -181,7 +181,7 @@ References
 
 .. URLs
 .. _China Chopper: https://attack.mitre.org/software/S0020/
-.. _here: https://github.com/raul23/equifax-data-breach/blob/main/README.rst
+.. _here: https://github.com/raul23/equifax-data-breach/blob/main/README.rst#contents
 .. _indictment: https://www.justice.gov/opa/press-release/file/1246891/download
 .. _List of malicious files and web shells allegedly used by the hackers: ./list_of_malicious_files.rst
 .. _MITRE: https://attack.mitre.org/techniques/T1505/003/
