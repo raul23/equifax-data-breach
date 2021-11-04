@@ -640,7 +640,7 @@ References
 .. _Four Members of China's Military Indicted for Massive Equifax Breach: 
    https://www.wsj.com/articles/four-members-of-china-s-military-indicted-for-massive-equifax-breach-11581346824
 .. _He thought wrong: https://abcnews.go.com/blogs/headlines/2014/07/russia-claims-alleged-hacker-was-kidnapped-by-us-agents
-.. _here: https://github.com/raul23/equifax-data-breach/blob/main/README.rst
+.. _here: https://github.com/raul23/equifax-data-breach/blob/main/README.rst#contents
 .. _indictment: https://www.justice.gov/opa/press-release/file/1246891/download
 .. _Justice Department charges 4 members of Chinese military for massive Equifax hack: 
    https://www.cbsnews.com/news/equifax-hack-chinese-military-members-charged-department-of-justice/
