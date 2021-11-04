@@ -200,9 +200,11 @@ also conspired with other people that are known and unknown to the DOJ
      to the Grand Jury,
  
      [DOJ2]_ (*paragraph 31, page 17*)
-     
+
 DOJ evidence that China's military personnel are behind the Equifax data breach
 ===============================================================================
+DOJ evidence 
+------------
 `:information_source:`
 
   These are evidence that I was able to gather from the DOJ `indictment`_. 
@@ -304,7 +306,7 @@ DOJ evidence that China's military personnel are behind the Equifax data breach
      [DOJ2]_ (*paragraph 23, pages 14-15*)
 
 DOJ evidence verdict: weak
-==========================
+--------------------------
 The evidence gathered from the DOJ `indictment`_ is very weak to support the 
 claim that the four alleged members of the PLA were the perpetrators of the 
 Equifax data breach.
@@ -561,6 +563,8 @@ of the PLA:
 
 Non-DOJ evidence that China's military personnel are behind the Equifax data breach
 ===================================================================================
+Non-DOJ evidence
+----------------
 `:information_source:`
 
   These are evidence that I was able to gather from non governmental sources such as 
@@ -573,7 +577,7 @@ Non-DOJ evidence that China's military personnel are behind the Equifax data bre
 TODO
   
 Non-DOJ evidence verdict: weak
-==============================
+------------------------------
 TODO
 
 References
