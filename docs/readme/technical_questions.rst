@@ -125,7 +125,7 @@ How web shells were allegedly used by the hackers?
   Also check the document: `List of malicious files and web shells 
   allegedly used by the hackers`_.
   
-According to the DOJ `indictment`_, the alleged four PLA hackers and their
+According to the DOJ `indictment`_, the four alleged PLA hackers and their
 co-conspirators supposedly used web shells in various situations:
 
 1. Once the web shells were installed to an Equifax web server, 
