@@ -120,10 +120,20 @@ JSP
 
 How web shells were allegedly used by the hackers?
 --------------------------------------------------
+`:information_source:`
+
+  Check the `List of malicious files and web shells allegedly used by the 
+  hackers`_ section.
+  
 According to the DOJ `indictment`_, the alleged four PLA hackers and their
 co-conspirators supposedly used web shells in various situations:
 
-1. 
+1. once the web shells were installed to Equifax web server, reconnaissance
+   of Equifax's online dispute portal started.
+   
+   [DOJ2]_ (paragraph 8, page 5)
+   
+2. 
 
 References
 ==========
@@ -164,6 +174,7 @@ References
 .. _China Chopper: https://attack.mitre.org/software/S0020/
 .. _here: https://github.com/raul23/equifax-data-breach/blob/main/README.rst
 .. _indictment: https://www.justice.gov/opa/press-release/file/1246891/download
+.. _List of malicious files and web shells allegedly used by the hackers: ./list_of_malicious_files.rst
 .. _MITRE: https://attack.mitre.org/techniques/T1505/003/
 .. _SUPERNOVA: https://attack.mitre.org/software/S0578/
 .. _Wikipedia: https://en.wikipedia.org/wiki/Web_shell
