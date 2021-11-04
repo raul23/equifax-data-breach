@@ -23,7 +23,7 @@ List of malicious files and web shells allegedly used by the hackers
 1. ``Jquery1.3.2.inin.jsp`` [DOJ2]_ (paragraph 14.e, page 8)
 2. ``css.jsp`` which was allegedly used for:
   
-   - downloading the "abc.txt" file from the Taiwan Server
+   - downloading the ``abc.txt`` file from the Taiwan Server
   
      [DOJ2]_ (paragraph 14.l, page 10)
    - deleting an archive from Equifax's network in an effort to 
