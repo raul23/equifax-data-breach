@@ -38,25 +38,25 @@ According to the DOJ `indictment`_, the alleged four PLA hackers and their
 co-conspirators supposedly hide their tracks when infiltrating Equifax's 
 network by:
 
-- using approximately thirty-four servers located in nearly twenty countries;
-  [DOJ2]_ (paragraph 11, page 6)
-- employing a variety of encrypted login protocols, including Remote Desktop 
-  Protocol and Secure Shell software, which permitted them to connect to 
-  servers over network connections from other servers they controlled; [DOJ2]_
-  (paragraph 11, page 6)
-- obtaining access to the servers located outside of China from reseller 
-  hosting services; [DOJ2]_ (paragraph 11, pages 6-7)
-- using existing encrypted communication channels within Equifax's network to 
-  send queries and commands, which allowed them to blend in with normal 
-  network activity; [DOJ2]_ (paragraph 12, page 7)
-- compressing and dividing the data files so as to disguise the exfiltration 
-  of sensitive personally identifiable information; [DOJ2]_ (paragraph 12, 
-  page 7);
-- deleting the compressed files after exfiltrating the sensitive data [DOJ2]_ 
-  (paragraph 13, page 7), and
-- configuring settings on at least one of their leased servers that wiped log 
-  files on a daily basis in an effort to eliminate records of their activity.
-  [DOJ2]_ (paragraph 13, page 7)
+  - using approximately thirty-four servers located in nearly twenty countries;
+    [DOJ2]_ (paragraph 11, page 6)
+  - employing a variety of encrypted login protocols, including Remote Desktop 
+    Protocol and Secure Shell software, which permitted them to connect to 
+    servers over network connections from other servers they controlled; [DOJ2]_
+    (paragraph 11, page 6)
+  - obtaining access to the servers located outside of China from reseller 
+    hosting services; [DOJ2]_ (paragraph 11, pages 6-7)
+  - using existing encrypted communication channels within Equifax's network to 
+    send queries and commands, which allowed them to blend in with normal 
+    network activity; [DOJ2]_ (paragraph 12, page 7)
+  - compressing and dividing the data files so as to disguise the exfiltration 
+    of sensitive personally identifiable information; [DOJ2]_ (paragraph 12, 
+    page 7);
+  - deleting the compressed files after exfiltrating the sensitive data [DOJ2]_ 
+    (paragraph 13, page 7), and
+  - configuring settings on at least one of their leased servers that wiped log 
+    files on a daily basis in an effort to eliminate records of their activity.
+    [DOJ2]_ (paragraph 13, page 7)
 
 Web shells
 ==========
