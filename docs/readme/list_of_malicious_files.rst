@@ -38,7 +38,7 @@ List of malicious files and web shells allegedly used by the hackers
   - to query an Equifax database table and store the results in 
     output files.
   
-   [DOJ2]_ (paragraph 14.n, page 10)
+    [DOJ2]_ (paragraph 14.n, page 10)
 - ``six.jsp`` which was allegedly used for:
 
   - to issue unauthorized SQL commands to one of Equifax's 
