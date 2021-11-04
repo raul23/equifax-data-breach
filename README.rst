@@ -22,7 +22,7 @@
   The number of affected people is roughly half of the US population of 323 
   million. [N]_
   
-  One of the goals of this project is to ave important notes about this infamous 
+  One of the goals of this project is to save important notes about this infamous 
   case.
   
 `:warning:`
