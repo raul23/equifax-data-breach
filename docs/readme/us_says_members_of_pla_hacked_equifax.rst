@@ -342,7 +342,7 @@ Equifax data breach.
      the Chinese military. [DOJ]_
     
    Again, the same remark for their alleged place of residence applies to their
-   membership to the PLA's 54th Research Institute: they might or not still
+   membership to the PLA's 54th Research Institute: they might still or might not
    work for the PLA.
   
    Their `FBI most wanted`_ poster and the `FBI news article`_ only give their 
