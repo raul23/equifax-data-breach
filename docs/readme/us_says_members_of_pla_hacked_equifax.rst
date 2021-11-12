@@ -448,7 +448,7 @@ Equifax data breach.
    akin to Cyber Command as opposed to cyber espionage [VD]_. 
   
    Therefore, these four alleged PLA members should have known very well how to hide 
-   their tracks and use only IP addresses from outside China. 
+   their tracks and to use only IP addresses from outside China. 
   
    The four suspected PLA hackers and their alleged co-conspirators were able 
    to navigate throughout Equifax's networks as mere ghosts. To achieve their 
