@@ -447,7 +447,7 @@ Equifax data breach.
    Institute which has traditionally focused on supporting electronic warfare 
    akin to Cyber Command as opposed to cyber espionage [VD]_. 
   
-   Therefore, these four alleged PLA members should know very well how to hide 
+   Therefore, these four alleged PLA members should have known very well how to hide 
    their tracks and use only IP addresses from outside China. 
   
    The four suspected PLA hackers and their alleged co-conspirators were able 
