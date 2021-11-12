@@ -351,8 +351,8 @@ Equifax data breach.
    identify the four suspects. At least, the FBI should have said that the 
    four alleged PLA hackers used to live in Beijing, China.
   
-   More information (basic and detailed) is about the four alleged PLA hackers 
-   such as: 
+   More information (basic and detailed) is needed about the four alleged PLA 
+   hackers such as: 
   
    - General questions about their life: How old are they? Where did they grew 
      up? Where did they study? Where did they work, apart from the PLA?
